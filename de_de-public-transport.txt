@@ -1,0 +1,90 @@
+ab sofort wieder	1
+aufgrund einer notbremsung	-1 
+aufgrund eines polizeieinsatzes	-1
+aufgrund von verzögerungen	-1
+aufgrund	-1
+außer betrieb	-1
+bahnübergangsstörung	-1
+baustelle	0
+behoben	1
+beseitigt	1
+derzeit busnotverkehr	-1
+derzeit kein verkehr	-1
+derzeit planmäßiger zugverkehr	1
+durch busse ersetzt	-1
+ebenfalls gesperrt	-1
+entfallen	-1
+entfallen die haltestellen	-1
+entfernt 0 
+entfällt	-1
+entfällt wegen	-1
+ersatzverkehr	0
+ersatzverkehr mit bussen	-1
+es kommt zu verspätungen	-1
+fahren ab sofort wieder	1
+fahren auch wieder	1
+fahren wieder	1
+fallen ersatzlos aus	-1
+folgeverspätung	-1
+fährt zur zeit wegen	-1
+fällt aus	-1
+fällt betriebsbedingt aus	-1
+grund:	-1
+gute fahrt!	1
+hat sich beruhigt	1
+hat sich wieder beruhigt	1
+ist aufgehoben	1
+ist beendet
+können nicht bedient werden	-1
+liegengeblieben	-1
+megastau	-1
+min später	-1
+min verspätung	-1
+minuten verspätung	-1
+nicht bedient	-1
+normal	1
+normalisiert sich wieder	1
+planmäßig	1
+einsatz ist beendet	1
+schaden	-1
+schadhaft	-1
+sind behoben	1
+sperrung wurde aufgehoben	1
+später aufgrund von verzögerungen	-1
+stau	-1
+streckensperrung	-1
+störung	-1
+taktet sich wieder ein	1
+taktlücken	-1
+teilsperrung	-1
+umleitung	-1
+unregelmäßiger verkehr	-1
+verkehren wieder	1
+verkehren wieder normal	1
+verkehren wieder planmäßig	1
+verkehrschaos	-1
+verkehrslage hat sich beruhigt	1
+verspätet -1 
+verspätete züge	-1
+verspätung	-1
+verspätung möglich	-1
+verzögert sich	-1
+verzögerung im betriebsablauf	-1
+verzögerungen im betriebsablauf	-1
+wegen einer fahrzeugstörung	-1
+wegen eines umgekippten baumes	-1
+wegen eines unfalles-1
+wegen personen	-1
+wegen personen im gleis	-1
+wegen stau	-1
+weichenstörung	-1
+weiterhin nur	-1
+wieder den normalen linienweg	1
+wieder im plan	1
+wieder laut plan	1
+wieder planmäßig	1
+wieder pünklich	1
+wieder regulärer verkehr	1
+wurde aufgehoben	1
+zu folgeverspätungen	-1
+

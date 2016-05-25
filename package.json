@@ -1,0 +1,25 @@
+{
+  "name": "sentiment-lists",
+  "version": "0.0.1",
+  "description": "A collection of sentiment lists for different languages and contexts inspired by AFINN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliverlorenz/sentiment-lists.git"
+  },
+  "keywords": [
+    "sentiment",
+    "afinn",
+    "analysis",
+    "analysis sentiment"
+  ],
+  "author": "Oliver Lorenz <mail@oliverlorenz.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliverlorenz/sentiment-lists/issues"
+  },
+  "homepage": "https://github.com/oliverlorenz/sentiment-lists#readme"
+}

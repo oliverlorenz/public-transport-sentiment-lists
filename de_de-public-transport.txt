@@ -1,12 +1,38 @@
-ab sofort wieder	1
-aufgrund einer notbremsung	-1 
+bis zu \d+ min(ute)?n? verspätung	-1
+wegen eines schadhaften zug(es)?	-1
+läuft störungsfrei	1
+störungsfrei	1
+rtw-einsatz beendet	1
+(läuft )?.*(wieder )?störungsfrei	1
+verkehren planmäßig	1
+wieder planmäßig(er)?	1
+wieder normaler (linien)?verlauf	1
+(ca|bis zu)(\.)? \d+ Min(\.|uten|)? (ver)?spät(er|et|ung|)?	-1
+verspätung(en)? .*ausgefahren	1
+(kommt es zu )?Verspätungen von bis zu \d+\s*Min(\.|uten|)	-1
+Grund für die Sperrung	-2
+Bahnen fahren	1
+Zurzeit unregelmäßiger Betrieb	-1
+(ebenfalls mit )?Verspätungen zw(ischen|\.)? \d+ (&|u|u\.|und|&) \d+ Min(\.|uten|)?	-1
+ab sofort.+wieder	1
+Wg Gegenst(änden|and) im Gleis(bett)?	-1
+durch deutlich längere Fahrgastwechsel	-1
+verspät(en|et) sich.* um ((\d+-)?\d+ ?Min(\.|uten|) ?)?	-1
+läuft.* wieder	1
+Derzeit kein Betrieb	-1
+(Betriebs|)störung.* beendet	1
+(wg|wegen|aufgrund) (eines )?(Polizeieinsatz(es)?|Falschparker(s)?|Feuerwehreinsatz(es)?)	-1
+(wg|wegen) fehlen(dem|den)	-1
+(Gegenstände|Gegenstand).*(entfernt)	1
+wieder eingetaktet	1
+kommt es zu Ausfällen( & Verspätungen)?	-1
+aufgrund einer notbremsung	-1
 aufgrund eines polizeieinsatzes	-1
 aufgrund von verzögerungen	-1
-aufgrund	-1
 außer betrieb	-1
 bahnübergangsstörung	-1
 baustelle	0
-behoben	1
+ist behoben	3
 beseitigt	1
 derzeit busnotverkehr	-1
 derzeit kein verkehr	-1
@@ -15,7 +41,7 @@ durch busse ersetzt	-1
 ebenfalls gesperrt	-1
 entfallen	-1
 entfallen die haltestellen	-1
-entfernt 0 
+entfernt 0
 entfällt	-1
 entfällt wegen	-1
 ersatzverkehr	0
@@ -25,35 +51,35 @@ fahren ab sofort wieder	1
 fahren auch wieder	1
 fahren wieder	1
 fallen ersatzlos aus	-1
-folgeverspätung	-1
+(durch)? folgeverspätung(en)?	-1
 fährt zur zeit wegen	-1
 fällt aus	-1
 fällt betriebsbedingt aus	-1
-grund:	-1
+grund: *(Bauarbeiten)	-1
 gute fahrt!	1
 hat sich beruhigt	1
 hat sich wieder beruhigt	1
 ist aufgehoben	1
-ist beendet
+ist beendet	1
 können nicht bedient werden	-1
 liegengeblieben	-1
 megastau	-1
-min später	-1
+(bis zu )?((\d+-)?\d+ ?Min(\.|uten|) ?)?(später|verspätete?) (Züge)?	-1
 min verspätung	-1
 minuten verspätung	-1
 nicht bedient	-1
 normal	1
 normalisiert sich wieder	1
-planmäßig	1
 einsatz ist beendet	1
 schaden	-1
+endet bereits in	-1
 schadhaft	-1
 sind behoben	1
 sperrung wurde aufgehoben	1
 später aufgrund von verzögerungen	-1
-stau	-1
+(durch |nach )?stau	-1
 streckensperrung	-1
-störung	-1
+(aufgrund.*)?(tech\. |techn\. |Betriebs|Signal|)störung	-1
 taktet sich wieder ein	1
 taktlücken	-1
 teilsperrung	-1
@@ -64,10 +90,9 @@ verkehren wieder normal	1
 verkehren wieder planmäßig	1
 verkehrschaos	-1
 verkehrslage hat sich beruhigt	1
-verspätet -1 
-verspätete züge	-1
-verspätung	-1
-verspätung möglich	-1
+verspätet -1
+((\d+-)?\d+ ?Min(\.|uten) ?)?verspätete züge	-1
+((\d+-)?\d+ ?Min(\.|uten) ?)?verspätung möglich	-1
 verzögert sich	-1
 verzögerung im betriebsablauf	-1
 verzögerungen im betriebsablauf	-1
@@ -86,5 +111,5 @@ wieder planmäßig	1
 wieder pünklich	1
 wieder regulärer verkehr	1
 wurde aufgehoben	1
+wieder störungsfrei	1
 zu folgeverspätungen	-1
-

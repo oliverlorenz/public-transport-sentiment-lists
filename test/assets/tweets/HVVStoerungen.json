@@ -1,38 +1,150 @@
 {
-  "1": { "score": "=-2", "payload": "U2 In Ri Mümmelmannsberg bis zu 20 Min Verspätung wegen eines schadhaften Zuges. #hvv" },
-  "2": { "score": "=2", "payload": "S1, S31, S21 Update Derzeit wieder planmäßiger Betrieb im S-Bahnverkehr. Verspätungen von heute morgen sind ausgefahren." },
-  "3": { "score": "=3", "payload": "U3 Update Der Betrieb in Ri Barmbek läuft ab Dehnhaide wieder störungsfrei. RTW-Einsatz beendet. #hvv" },
-  "4": { "score": "=1", "payload": "U1, U3 Update In Ri Norderstedt Mitte sowie Schlump - Barmbek wieder planmäßiger U-Bahnverkehr. #HVV" },
-  "5": { "score": "=-1", "payload": "U1, U3 In Ri Norderstedt & Hbf Süd - Schlump - Barmbek derzeit 5-10 Min. Verspätung möglich. #HVV" },
-  "6": { "score": "=3", "payload": "U3 Update Der Betrieb in Ri Barmbek läuft ab Dehnhaide wieder störungsfrei. RTW-Einsatz beendet. #hvv" },
-  "7": { "score": "=2", "payload": "U2 U3 U4 Update Die Verspätungen sind ausgefahren. Die Linien verkehren wieder nach Fahrplan. #HVV" },
-  "8": { "score": "=1", "payload": "RT @hochbahn: #U2 #U3 #U4 halten ab sofort auch wieder am Berliner Tor. #hvv" },
-  "9": { "score": "=-2", "payload": "U2 U3 U4 verspäten sich jedoch dadurch aktuell um 5-10 Min. durch deutlich längere Fahrgastwechsel! #HVV https://t.co/nUul" },
-  "10": { "score": "=-1", "payload": "U2, U4 Durch den RTW-Einsatz Berliner Tor aktuell bis zu 10 Min verspätet U1, U3 derzeit bis zu 5 Min später im Bereich Lü" },
-  "11": { "score": "=-2", "payload": "U1 In Ri Norderstedt wegen einer techn. Störung ab Farmsen derzeit 5-10 Min. verspätete Züge. #HVV" },
-  "12": { "score": "=-2", "payload": "S21, A1, S3 Aufgrund einer Signalstörung zw. Elbgaustr./Eidelstedt & Diebsteich/Altona derzeit 10-15 Min. verspätete Züge." },
-  "13": { "score": "=2", "payload": "S1 Update Der Betrieb läuft nun auch wieder zwischen Wedel<>Sülldorf. Betriebsstörung ist beendet. #HVV" },
-  "14": { "score": "=-1", "payload": "RT @SBahnHamburg: #S1 Heute bis Betriebsschluss noch Busse statt S-Bahnen zw. Barmbek<>Ohlsdorf. Grund: Bauarbeiten. #sbah" },
-  "15": { "score": "=-2", "payload": "S1 Derzeit kein Betrieb Sülldorf<>Wedel wegen einer Betriebsstörung. #HVV" },
-  "16": { "score": "=-2", "payload": "S3 >>Pinneberg ab Stade 4:35, ab Buxtehude 4:55h ca. 20 Min später aufgrund eines Polizeieinsatzes. #HVV" },
-  "17": { "score": "=-2", "payload": "S3 >>Elbgaustr. ab Reeperbahn 4:04h, ab Altona 4:10h ca 15 Min. später wg Polizeieinsatzes. #HVV" },
-  "18": { "score": "=-2", "payload": "U1 >>Norderstedt Mitte ab Wandsbek-Markt 23:25h ca. 7 Min. später aufgrund einer Signalstörung in Volksdorf. #HVV" },
-  "19": { "score": "=-1", "payload": "S1 Korrektur: Erw. Streckensperrung Hasselbrook <> Ohlsdorf ab heute (Sa.) 23:50h bis So. früh ca. 6 Uhr gültig. Sonst: Ba" },
-  "20": { "score": "=1", "payload": "Li. 13 Update Wieder normaler Linienverlauf. Der Falschparker hat sich entfernt. #HVV"},
-  "21": { "score": "=-2", "payload": "U1 >>Großhansdorf 21:28h ca. 10 Min. später >>Ohlstedt 21:38h ca. 7 Min. später // techn. Störung. #HVV"},
-  "22": { "score": "=-2", "payload": "13 Wg Falschparkers entfällt die Hst. Krankenhaus Groß-Sand & Veringstr. wird in Ri Veddel in der Neuhöfer Str. bei Li. 151 bedient. #HVV"},
-  "23": { "score": "=2", "payload": "RE8 RE80 RB81 Update Die Gegenstände aus den Gleisen zw. Rahlstedt<>Ahrensburg wurden entfernt. Der Zugverkehr läuft störungsfrei. #HVV"},
-  "24": { "score": "=2", "payload": "Busverkehr Hamburger Westen & Hamburger Süden Sämtliche Li. haben sich wieder eingetaktet und die Busse verkehren planmäßig. #HVV"},
-  "25": { "score": "=-2", "payload": "U3 Update In Ri Schlump - Barmbek noch bis zu 5 Min. Verspätung. U2, U4 vereinzelt noch bis zu 10 Min. verspätet durch Folgeverspätung #HVV"},
-  "26": { "score": "=1", "payload": "S1, S31, S3 Update Die Stellwerks- und Signalstörung am Hbf ist behoben. Verzeinzelt bis zu 10 Min. Verspätung auf der Li. S1. #HVV"},
-  "27": { "score": "=-2", "payload": "S1, S11, S3, S31 Durch eine Stellwerks- & Signalstörung am Hbf kommt es zu Verspätungen von bis zu 15 Min & S11-Ausfällen."},
-  "28": { "score": "=-2", "payload": "S1, S11 Durch eine Stellwerks- & Signalstörung am Hbf kommt es zu Verspätungen von bis zu 15 Min & S11-Ausfällen. #hvv"},
-  "29": { "score": "=-2", "payload": "RE8 RE80 RB81 Wg Gegenständen im Gleis zw Rahlstedt<>Ahrensburg kommt es zu Verspätungen zw 10 & 20 Min."},
-  "30": { "score": "=-1", "payload": "U2, U3, U4 Update Grund für die Sperrung U Berliner Tor ist ein Polizei- & Feuerwehreinsatz. S-Bahnen fahren. #hvv"},
-  "31": { "score": "=-2", "payload": "112, 154, 261 Zurzeit unregelmäßiger Betrieb auf allen 3 Buslinien durch Stau. #hvv"},
-  "32": { "score": "=-2", "payload": "U2 U3 U4 Wg eines Feuerwehreinsatzes Berliner Tor kommt es zu Ausfällen & Verspätungen in jeweils beide Richtungen. #hvv"},
-  "33": { "score": "=-3", "payload": "Li. 27 Taktlücken von bis zu 15 Min. durch Folgeverspätungen nach Stau auf Hinfahrt. #HVV"},
-  "34": { "score": "=-3", "payload": "S2 >>Bergedorf ab Hamburg Hbf 16h fällt aus S3 >>Buxtehude 15:58h endet bereits in Neugraben wg fehlendem Stromabnehmerwagen. #HVV"},
-  "35": { "score": "=-2", "payload": "U1 >>Norderstedt Mitte ab Jungfernstieg 15:39h, ab Kellinghusenstr. 15:47h ca. 13 Min. später aufgrund eines Feuerwehreinsatzes #HVV"},
-  "36": { "score": "=-1", "payload": "Li. 5, 191, 193, 195, 24, 284, 185 ebenfalls mit Verspätungen zw. 10 & 20 Min. im Bereich Niendorf, Schnelsen betroffen. #HVV"}
+  "1": {
+    "score": "=-2",
+    "payload": "U2 In Ri Mümmelmannsberg bis zu 20 Min Verspätung wegen eines schadhaften Zuges. #hvv"
+  },
+  "2": {
+    "score": "=2",
+    "payload": "S1, S31, S21 Update Derzeit wieder planmäßiger Betrieb im S-Bahnverkehr. Verspätungen von heute morgen sind ausgefahren."
+  },
+  "3": {
+    "score": "=3",
+    "payload": "U3 Update Der Betrieb in Ri Barmbek läuft ab Dehnhaide wieder störungsfrei. RTW-Einsatz beendet. #hvv"
+  },
+  "4": {
+    "score": "=1",
+    "payload": "U1, U3 Update In Ri Norderstedt Mitte sowie Schlump - Barmbek wieder planmäßiger U-Bahnverkehr. #HVV"
+  },
+  "5": {
+    "score": "=-1",
+    "payload": "U1, U3 In Ri Norderstedt & Hbf Süd - Schlump - Barmbek derzeit 5-10 Min. Verspätung möglich. #HVV"
+  },
+  "6": {
+    "score": "=3",
+    "payload": "U3 Update Der Betrieb in Ri Barmbek läuft ab Dehnhaide wieder störungsfrei. RTW-Einsatz beendet. #hvv"
+  },
+  "7": {
+    "score": "=2",
+    "payload": "U2 U3 U4 Update Die Verspätungen sind ausgefahren. Die Linien verkehren wieder nach Fahrplan. #HVV"
+  },
+  "8": {
+    "score": "=1",
+    "payload": "RT @hochbahn: #U2 #U3 #U4 halten ab sofort auch wieder am Berliner Tor. #hvv"
+  },
+  "9": {
+    "score": "=-2",
+    "payload": "U2 U3 U4 verspäten sich jedoch dadurch aktuell um 5-10 Min. durch deutlich längere Fahrgastwechsel! #HVV https://t.co/nUul"
+  },
+  "10": {
+    "score": "=-1",
+    "payload": "U2, U4 Durch den RTW-Einsatz Berliner Tor aktuell bis zu 10 Min verspätet U1, U3 derzeit bis zu 5 Min später im Bereich Lü"
+  },
+  "11": {
+    "score": "=-2",
+    "payload": "U1 In Ri Norderstedt wegen einer techn. Störung ab Farmsen derzeit 5-10 Min. verspätete Züge. #HVV"
+  },
+  "12": {
+    "score": "=-2",
+    "payload": "S21, A1, S3 Aufgrund einer Signalstörung zw. Elbgaustr./Eidelstedt & Diebsteich/Altona derzeit 10-15 Min. verspätete Züge."
+  },
+  "13": {
+    "score": "=2",
+    "payload": "S1 Update Der Betrieb läuft nun auch wieder zwischen Wedel<>Sülldorf. Betriebsstörung ist beendet. #HVV"
+  },
+  "14": {
+    "score": "=-1",
+    "payload": "RT @SBahnHamburg: #S1 Heute bis Betriebsschluss noch Busse statt S-Bahnen zw. Barmbek<>Ohlsdorf. Grund: Bauarbeiten. #sbah"
+  },
+  "15": {
+    "score": "=-2",
+    "payload": "S1 Derzeit kein Betrieb Sülldorf<>Wedel wegen einer Betriebsstörung. #HVV"
+  },
+  "16": {
+    "score": "=-2",
+    "payload": "S3 >>Pinneberg ab Stade 4:35, ab Buxtehude 4:55h ca. 20 Min später aufgrund eines Polizeieinsatzes. #HVV"
+  },
+  "17": {
+    "score": "=-2",
+    "payload": "S3 >>Elbgaustr. ab Reeperbahn 4:04h, ab Altona 4:10h ca 15 Min. später wg Polizeieinsatzes. #HVV"
+  },
+  "18": {
+    "score": "=-2",
+    "payload": "U1 >>Norderstedt Mitte ab Wandsbek-Markt 23:25h ca. 7 Min. später aufgrund einer Signalstörung in Volksdorf. #HVV"
+  },
+  "19": {
+    "score": "=-1",
+    "payload": "S1 Korrektur: Erw. Streckensperrung Hasselbrook <> Ohlsdorf ab heute (Sa.) 23:50h bis So. früh ca. 6 Uhr gültig. Sonst: Ba"
+  },
+  "20": {
+    "score": "=1",
+    "payload": "Li. 13 Update Wieder normaler Linienverlauf. Der Falschparker hat sich entfernt. #HVV"
+  },
+  "21": {
+    "score": "=-2",
+    "payload": "U1 >>Großhansdorf 21:28h ca. 10 Min. später >>Ohlstedt 21:38h ca. 7 Min. später // techn. Störung. #HVV"
+  },
+  "22": {
+    "score": "=-2",
+    "payload": "13 Wg Falschparkers entfällt die Hst. Krankenhaus Groß-Sand & Veringstr. wird in Ri Veddel in der Neuhöfer Str. bei Li. 151 bedient. #HVV"
+  },
+  "23": {
+    "score": "=2",
+    "payload": "RE8 RE80 RB81 Update Die Gegenstände aus den Gleisen zw. Rahlstedt<>Ahrensburg wurden entfernt. Der Zugverkehr läuft störungsfrei. #HVV"
+  },
+  "24": {
+    "score": "=2",
+    "payload": "Busverkehr Hamburger Westen & Hamburger Süden Sämtliche Li. haben sich wieder eingetaktet und die Busse verkehren planmäßig. #HVV"
+  },
+  "25": {
+    "score": "=-2",
+    "payload": "U3 Update In Ri Schlump - Barmbek noch bis zu 5 Min. Verspätung. U2, U4 vereinzelt noch bis zu 10 Min. verspätet durch Folgeverspätung #HVV"
+  },
+  "26": {
+    "score": "=1",
+    "payload": "S1, S31, S3 Update Die Stellwerks- und Signalstörung am Hbf ist behoben. Verzeinzelt bis zu 10 Min. Verspätung auf der Li. S1. #HVV"
+  },
+  "27": {
+    "score": "=-2",
+    "payload": "S1, S11, S3, S31 Durch eine Stellwerks- & Signalstörung am Hbf kommt es zu Verspätungen von bis zu 15 Min & S11-Ausfällen."
+  },
+  "28": {
+    "score": "=-2",
+    "payload": "S1, S11 Durch eine Stellwerks- & Signalstörung am Hbf kommt es zu Verspätungen von bis zu 15 Min & S11-Ausfällen. #hvv"
+  },
+  "29": {
+    "score": "=-2",
+    "payload": "RE8 RE80 RB81 Wg Gegenständen im Gleis zw Rahlstedt<>Ahrensburg kommt es zu Verspätungen zw 10 & 20 Min."
+  },
+  "30": {
+    "score": "=-1",
+    "payload": "U2, U3, U4 Update Grund für die Sperrung U Berliner Tor ist ein Polizei- & Feuerwehreinsatz. S-Bahnen fahren. #hvv"
+  },
+  "31": {
+    "score": "=-2",
+    "payload": "112, 154, 261 Zurzeit unregelmäßiger Betrieb auf allen 3 Buslinien durch Stau. #hvv"
+  },
+  "32": {
+    "score": "=-2",
+    "payload": "U2 U3 U4 Wg eines Feuerwehreinsatzes Berliner Tor kommt es zu Ausfällen & Verspätungen in jeweils beide Richtungen. #hvv"
+  },
+  "33": {
+    "score": "=-3",
+    "payload": "Li. 27 Taktlücken von bis zu 15 Min. durch Folgeverspätungen nach Stau auf Hinfahrt. #HVV"
+  },
+  "34": {
+    "score": "=-3",
+    "payload": "S2 >>Bergedorf ab Hamburg Hbf 16h fällt aus S3 >>Buxtehude 15:58h endet bereits in Neugraben wg fehlendem Stromabnehmerwagen. #HVV"
+  },
+  "35": {
+    "score": "=-2",
+    "payload": "U1 >>Norderstedt Mitte ab Jungfernstieg 15:39h, ab Kellinghusenstr. 15:47h ca. 13 Min. später aufgrund eines Feuerwehreinsatzes #HVV"
+  },
+  "36": {
+    "score": "=-1",
+    "payload": "Li. 5, 191, 193, 195, 24, 284, 185 ebenfalls mit Verspätungen zw. 10 & 20 Min. im Bereich Niendorf, Schnelsen betroffen. #HVV"
+  },
+  "794945658214088700": {
+    "score": "undefined",
+    "payload": "Busverkehr Innenstadt \n\nWg Stau bis zu 20-30 Min Verspätung möglich \nBitte Schnellbahnen nutzen \n#HVV"
+  }
 }

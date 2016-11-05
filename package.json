@@ -17,7 +17,7 @@
     "analysis sentiment"
   ],
   "author": "Oliver Lorenz <mail@oliverlorenz.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/oliverlorenz/public-transport-sentiment-lists/issues"
   },

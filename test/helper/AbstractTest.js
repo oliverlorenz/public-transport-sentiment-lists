@@ -11,6 +11,12 @@ module.exports = (() => {
       const sentiment = require('../../../sentiment-custom-lists/lib')
       Object.keys(assets).forEach((key, item) => {
         const assetItem = assets[key]
+        assetItem.payload = assetItem.payload
+          .replace(/\s+/ig, ' ')
+          .replace(/&amp;/ig, '&')
+          .replace(/&gt;/ig, '>')
+          .replace(/&lt;/ig, '<')
+
         const result = sentiment(assetItem.payload, list)
         const pattern = /^([<>=!]+)([0-9-]+)$/g
 
@@ -20,10 +26,8 @@ module.exports = (() => {
 
             })
           })
-          console.log('#####')
           return
         } else {
-          console.log(assetItem)
           let [matches, operator, score] = pattern.exec(assetItem.score)
           describe(result.debugMessage + ` (${operator}${score})`.grey, () => {
             switch (operator) {

@@ -1,4 +1,4 @@
 'use strict'
 
 const weightTest = require('../../../../helper/AbstractTest').weightTest
-weightTest('tweets/hochbahn.json', 'de_de-public-transport')
+weightTest('tweets/SBahnHamburg.json', 'de_de-public-transport')

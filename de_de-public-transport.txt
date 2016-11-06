@@ -21,14 +21,13 @@ verspät(en|et) sich.* um ((\d+-)?\d+ ?Min(\.|uten|) ?)?	-1
 läuft.* wieder	1
 Derzeit kein Betrieb	-1
 (Betriebs|)störung.* beendet	1
-(wg|wegen|aufgrund) (eines )?(Polizeieinsatz(es)?|Falschparker(s)?|Feuerwehreinsatz(es)?)	-1
+(wg|wegen|aufgrund) (eines )?(Polizeieinsatz(es)?|Falschparker(s)?|Feuerwehreinsatz(es)?|laternenumzuges)	-1
 (wg|wegen) fehlen(dem|den)	-1
 (Gegenstände|Gegenstand).*(entfernt)	1
 wieder eingetaktet	1
 kommt es zu Ausfällen( & Verspätungen)?	-1
-aufgrund einer notbremsung	-1
-aufgrund eines polizeieinsatzes	-1
-aufgrund von verzögerungen	-1
+aufgrund von (asphaltierungsarbeiten|verzögerungen|verzögerung)	-1
+aufgrund eine(r|s) (notbremsung|polizeieinsatzes)	-1
 außer betrieb	-1
 bahnübergangsstörung	-1
 baustelle	0
@@ -85,6 +84,7 @@ streckensperrung.*ist aufgehoben	1
 taktet sich wieder ein	1
 taktlücken	-1
 teilsperrung	-1
+umleitungen & verzögerungen	-1
 umleitung	-1
 unregelmäßiger verkehr	-1
 verkehren wieder	1

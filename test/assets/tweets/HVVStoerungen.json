@@ -258,5 +258,9 @@
   "795719744435404800": {
     "score": "undefined",
     "payload": "RE5\n&gt;&gt;Cuxhaven ab Hamburg Hbf 21:06h verspätet sich um ca. 30 Min. aufgrund einer Signalstörung zw. Harburg &amp; Hbf.\n#HVV"
+  },
+  "795721888383254500": {
+    "score": "undefined",
+    "payload": "RB31\n&gt;&gt;Lüneburg ab Hamburg Hbf 21:34h verspätet sich in der Abfahrt um ca. 10-15 Min. aufgrund einer Signalstörung.\n#HVV"
   }
 }

@@ -242,5 +242,9 @@
   "795654220980584400": {
     "score": "undefined",
     "payload": "S1, S11 Update\nDer schadhafte Zug wurde entfernt. Die Linien S1 und S11 verkehren wieder planmäßig.\n#HVV"
+  },
+  "795655560989384700": {
+    "score": "undefined",
+    "payload": "594\nUmleitung wg. Sperrung des Harksheider Weg. Haltestelle Quickborn, Heidefriedhof entfällt beidseitig.\n#HVV"
   }
 }

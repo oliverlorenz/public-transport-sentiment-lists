@@ -22,5 +22,37 @@
   "794920583855214600": {
     "score": "=3",
     "payload": "Die Streckensperrung zw. Pinneberg&lt;&gt;Elbgaustraße ist aufgehoben. Ersatzverkehr läuft aus.Grund: Polizeieinsatz beendet. #S3 #hvv #sbahnhh"
+  },
+  "795553881686216700": {
+    "score": "undefined",
+    "payload": "Streckensperrung Linie #S1 zw. Blankenese&lt;&gt;Wedel. Ersatzverkehr wird/ist eingerichtet.Grund: Dringende Instandsetzungsarbeiten #hvv #sbahnhh"
+  },
+  "795565784298819600": {
+    "score": "undefined",
+    "payload": "Sperrung Linie #S1 zw. Blankenese&lt;&gt;Wedel aufgehoben. S-Bahn fährt wieder. Grund: Dringende Instandsetzungsarbeiten beendet. #hvv #sbahnhh"
+  },
+  "795940628127449100": {
+    "score": "undefined",
+    "payload": "Derzeit kein Zugverkehr auf der Linie #S3 zw. Neugraben&lt;&gt;Buxtehude. Ersatzverkehr wird /ist eingerichtet.Grund: Weichenstörung #hvv #sbahnhh"
+  },
+  "795948203933896700": {
+    "score": "undefined",
+    "payload": "Sperrung Linie #S3 zw. Neugraben &lt;&gt; Buxtehude aufgehoben. Der Ersatzverkehr läuft aus. Grund: Weichenstörung behoben #hvv #sbahnhh"
+  },
+  "796031742889050100": {
+    "score": "undefined",
+    "payload": "#S3 + #S31 halten momentan nicht in Neuwiedenthal. Grund: Ausfall der Bahnsteigbeleuchtung. #hvv #sbahnhh"
+  },
+  "796035825297453000": {
+    "score": "undefined",
+    "payload": "#S3 + #S31 halten momentan nicht in Neuwiedenthal. Ersatzverkehr mit Bussen zw. Neugraben &lt;&gt; Neuwiedenthal angefordert. #hvv #sbahnhh"
+  },
+  "796040233691316200": {
+    "score": "undefined",
+    "payload": "#S3 + #S31 halten wieder in Neuwiedenthal. Ersatzverkehr mit Bussen zw. Neugraben &lt;&gt; Neuwiedenthal läuft aus. #hvv #sbahnhh"
+  },
+  "796369571116617700": {
+    "score": "undefined",
+    "payload": "Bis 18:35 Uhr fällt die #S3 mit Ziel Buxtehude zw. Neugraben &lt;&gt; Buxtehude in beiden Richtungen aus. Grund: Langsamfahrstellen #hvv #sbahnhh"
   }
 }

@@ -33,8 +33,9 @@ bahnübergangsstörung	-1
 baustelle	0
 ist behoben	3
 beseitigt	1
+bis.*fällt die	-1
 derzeit busnotverkehr	-1
-derzeit kein verkehr	-1
+(derzeit )?kein (zug)?verkehr	-1
 derzeit planmäßiger zugverkehr	1
 durch busse ersetzt	-1
 ebenfalls gesperrt	-1
@@ -43,20 +44,22 @@ entfallen die haltestellen	-1
 entfernt 0
 entfällt	-1
 entfällt wegen	-1
-ersatzverkehr läuft aus	1
-ersatzverkehr (ist/wird|wird/ist|ist|wird)?( eingerichtet| ausgeweitet)?	0
-ersatzverkehr mit bussen	-1
+ersatzverkehr( mit bussen und taxen| mit taxen und bussen| mit bussen| mit taxen).*(läuft aus)	1
+ersatzverkehr( mit bussen und taxen| mit taxen und bussen| mit bussen| mit taxen)	-1
+ersatzverkehr.*läuft aus	1
+ersatzverkehr( ist.wird| wird.ist| ist| wird)?( eingerichtet| ausgeweitet)?	0
 es kommt zu verspätungen	-1
 fahren ab sofort wieder	1
 fahren auch wieder	1
-fahren wieder	1
+(fährt|fahren) wieder	1
 fallen ersatzlos aus	-1
 (durch)? folgeverspätung(en)?	-1
 fährt zur zeit wegen	-1
 fällt( wegen Bauarbeiten | )?aus	-1
 fällt betriebsbedingt aus	-1
-grund: *(Bauarbeiten|Polizeieinsatz) beendet	1
-grund: *(Bauarbeiten|Polizeieinsatz)	-1
+halten momentan nicht	-1
+grund: *(bauarbeiten|polizeieinsatz|feueralarm|dringende instandsetzungsarbeiten|instandsetzungsarbeiten|ausfall der bahnsteigbeleuchtung|Langsamfahrstellen) beendet	1
+grund: *(bauarbeiten|polizeieinsatz|feueralarm|dringende instandsetzungsarbeiten|instandsetzungsarbeiten|ausfall der bahnsteigbeleuchtung|Langsamfahrstellen)	-1
 gute fahrt!	1
 hat sich beruhigt	1
 hat sich wieder beruhigt	1
@@ -78,7 +81,8 @@ sind behoben	1
 sperrung wurde aufgehoben	1
 später aufgrund von verzögerungen	-1
 (wegen |wg |durch |nach )?stau	-1
-streckensperrung.*ist aufgehoben	1
+Streckensperrung Linie	-1
+(strecken)?sperrung.*(ist?|wurde|) aufgehoben	1
 (weiterhin|erweiterung der)? streckensperrung	-1
 (aufgrund.*)?(tech\. |techn\. |Betriebs|Signal|)störung	-1
 taktet sich wieder ein	1

@@ -474,5 +474,9 @@
   "796234012218052600": {
     "score": "undefined",
     "payload": "U1\n&gt;&gt;Volksdorf ab Kellinghusenstr. 7:11h, ab Hbf Süd 7:23h fällt aufgrund einer Betriebsstörung aus.\n#HVV"
+  },
+  "796234638494666800": {
+    "score": "undefined",
+    "payload": "S1, S2, S3\nDurch eine schadhafte S2 in Ri Bergedorf kommt es ab Altona zu Verspätungen zw. 5-10 Min. In Ri Hbf.\n#HVV"
   }
 }

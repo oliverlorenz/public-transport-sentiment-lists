@@ -786,5 +786,9 @@
   "796653353447067600": {
     "score": "undefined",
     "payload": "S1\n&gt;&gt;Airport/Poppenbüttel ab Blankenese 11:07h entfällt bis Othmarschen wegen technischer Störung.\n#HVV"
+  },
+  "796662004945735700": {
+    "score": "undefined",
+    "payload": "U1\nIm Bereich Volksdorf-Großhansdorf derzeit wg einer Signalstörung vereinzelt 30-40 Min Verspätung möglich.\n#hvv"
   }
 }

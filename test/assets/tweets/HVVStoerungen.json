@@ -818,5 +818,9 @@
   "796718716142678000": {
     "score": "undefined",
     "payload": "S3\nNach/ab Buxtehude verkehren nur Züge mit Ziel/Start Stade. Züge mit Ziel/Start Buxtehude fallen zw. Neugraben&lt;&gt;Buxtehude aus.\n#HVV"
+  },
+  "796719145261957100": {
+    "score": "undefined",
+    "payload": "@HVVStoerungen S3\nGrund sind Streckenstörungen. Dauer: Bis ca. 18:35 Uhr. Restl. Züge zw. Neugraben&lt;&gt;Stade um bis zu 10 Min. verspätet.\n#HVV"
   }
 }

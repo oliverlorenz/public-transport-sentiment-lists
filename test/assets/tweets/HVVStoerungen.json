@@ -706,5 +706,9 @@
   "796479057688928300": {
     "score": "undefined",
     "payload": "S1\nAufgrund von einer Gezogener Notbremse verzögert sich die Züge in Richtung Blankenese ab Altona \n\n#hvv"
+  },
+  "796599979251036200": {
+    "score": "undefined",
+    "payload": "S1, S3\nfahren derzeit über Dammtor. S3 fährt Altona nicht an. S2 fällt aus. Grund: Feuerwehreinsatz im Citytunnel.\n#HVV"
   }
 }

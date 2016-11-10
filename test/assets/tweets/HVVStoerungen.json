@@ -758,5 +758,9 @@
   "796635610991775700": {
     "score": "undefined",
     "payload": "S1, S3, S21, S31 Update\nSignalstörung am Hbf / Es kommt zu Verspätungen auf allen S-Bahnlinien (max. 10 Min. derzeit).\n#HVV"
+  },
+  "796636346794307600": {
+    "score": "undefined",
+    "payload": "S1, S3, S21, S31 Update\nSignalstörung zw. Hbf &lt;&gt; Berliner Tor / Hammerbrook. Aktuell bis zu 15 Min. Verspätung möglich in beiden Ri.\n#HVV"
   }
 }

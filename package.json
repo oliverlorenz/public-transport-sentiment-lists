@@ -4,7 +4,8 @@
   "description": "A collection of sentiment lists for different languages and contexts inspired by AFINN",
   "main": "index.js",
   "scripts": {
-    "test": "cd node_modules/sentiment-custom-lists; npm run postinstall; cd ../..; mocha --recursive test/weights"
+    "test": "cd node_modules/sentiment-custom-lists; npm run postinstall; cd ../..; mocha --recursive test/weights",
+    "check": "cd node_modules/sentiment-custom-lists; npm run postinstall; cd ../..; node test/checkScript.js"
   },
   "repository": {
     "type": "git",

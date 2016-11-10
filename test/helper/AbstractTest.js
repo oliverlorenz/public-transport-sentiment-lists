@@ -55,7 +55,12 @@ module.exports = (() => {
               case '===':
                 it(`score should be equal "${score}"`, () => {
                   try {
+                    try{
                     assert.equal(result.score, parseInt(score, 10), result)
+                  } catch (err) {
+                    console.log(result)
+                    throw err
+                  }
                   } catch (err) {
                     throw err
                   }

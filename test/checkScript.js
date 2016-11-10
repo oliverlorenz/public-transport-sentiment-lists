@@ -40,7 +40,7 @@ accounts.forEach((index) => {
     } else {
       assets[assetItem.id].score = `=${answer}`
     }
-    fs.writeFileSync(`./assets/tweets/${index}.json`, JSON.stringify(assets, null, 2))
+    fs.writeFileSync(`./test/assets/tweets/${index}.json`, JSON.stringify(assets, null, 2))
     rl.close()
   })
 })

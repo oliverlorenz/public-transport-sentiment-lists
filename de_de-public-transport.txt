@@ -9,11 +9,12 @@ wieder planmäßig(er)?	1
 wieder normaler (linien)?verlauf	1
 (ca|bis zu)(\.)? \d+(-\d+)? Min(\.|uten|)? (ver)?spät(er|et|ung|)?	-1
 verspätung(en)? .*ausgefahren	1
-(kommt es zu )?Verspätungen von bis zu \d+\s*Min(\.|uten|)	-1
+(kommt es.* zu )?Verspätung(en|) ?(von)? bis zu \d+\s*Min(\.|uten|)	-1
+(kommt es.* zu )?Verspätung(en|) ?(zwischen|zw|zw.) \d+-\d+ ?Min(\.|uten|)	-1
 Grund für die Sperrung	-2
 Bahnen fahren	1
 Zurzeit unregelmäßiger Betrieb	-1
-(ebenfalls mit )?Verspätungen zw(ischen|\.)? \d+ (&|u|u\.|und|&) \d+ Min(\.|uten|)?	-1
+(ebenfalls mit )?Verspätung(en|) zw(ischen|\.)? \d+ (&|u|u\.|und|&) \d+ Min(\.|uten|)?	-1
 ab sofort.+wieder	1
 Wg Gegenst(änden|and) im Gleis(bett)?	-1
 Wegen eines (ue|ü)berfahrenen Gegenstandes	-1
@@ -22,11 +23,13 @@ verspät(en|et) sich.* um ((\d+-)?\d+ ?Min(\.|uten|) ?)?	-1
 läuft.* wieder	1
 Derzeit kein Betrieb	-1
 (Betriebs|)störung.* beendet	1
-(wg|wg.|wegen|aufgrund) (eines |einer )?(Polizeieinsatz(es)?|Falschparker(s)?|Feuerwehreinsatz(es)?|laternenumzuges|feueralarm|Bahnübergangsstörung|techn. Störung)	-1
+(wg|wg.|wegen|aufgrund) (eines |einer )?(Polizeieinsatz(es)?|Falschparker(s)?|Feuerwehreinsatz(es)?|laternenumzuges|feueralarm|Bahnübergangsstörung|techn. Störung|Defekts am Fahrzeug|unfalls|unfalles|Baum in der Oberleitung)	-1
 (wg|wg.|wegen) fehlen(dem|den)	-1
 (Gegenstände|Gegenstand).*(entfernt)	1
+Es kommt zu Ausfällen & Verspätungen	-1
 wieder eingetaktet	1
 kommt es zu Ausfällen( & Verspätungen)?	-1
+Die Verkehrslage hat sich.*beruhigt	1
 aufgrund von (asphaltierungsarbeiten|verzögerungen|verzögerung)	-1
 aufgrund eine(r|s) (notbremsung|polizeieinsatzes|technischen Störung)	-1
 Mitte -1
@@ -46,11 +49,11 @@ ebenfalls gesperrt	-1
 entfallen	-1
 entfallen die haltestellen	-1
 entfernt 0
-entfällt( beidseitig)?	-1
+entfällt( heute)?( beidseitig| witterungsbedingt)?	-1
 entfällt wegen	-1
 fallen.*streikbedingt aus	-1
 ersatzverkehr( mit bussen und taxen| mit taxen und bussen| mit bussen| mit taxen).*(läuft aus)	1
-ersatzverkehr( mit bussen und taxen| mit taxen und bussen| mit bussen| mit taxen)	-1
+ersatzverkehr( mit bussen und taxen| mit taxen und bussen| mit bussen| mit taxen) ?(angefordert)?	-1
 ersatzverkehr.*läuft aus	1
 ersatzverkehr( ist.wird| wird.ist| ist| wird)?( eingerichtet| ausgeweitet)?	0
 es kommt zu verspätungen	-1
@@ -63,29 +66,38 @@ fährt zur zeit wegen	-1
 fällt( wegen Bauarbeiten | )?aus	-1
 fällt betriebsbedingt aus	-1
 halten momentan nicht	-1
-grund: *(bauarbeiten|polizeieinsatz|feuerwehreinsatz|feueralarm|dringende instandsetzungsarbeiten|instandsetzungsarbeiten|ausfall der bahnsteigbeleuchtung|Langsamfahrstellen) beendet	1
-grund: *(bauarbeiten|polizeieinsatz|feuerwehreinsatz|feueralarm|dringende instandsetzungsarbeiten|instandsetzungsarbeiten|ausfall der bahnsteigbeleuchtung|Langsamfahrstellen)	-1
+grund: *(bauarbeiten|polizeieinsatz|feuerwehreinsatz|feueralarm|dringende instandsetzungsarbeiten|instandsetzungsarbeiten|ausfall der bahnsteigbeleuchtung|Langsamfahrstellen|weichenstörung) beendet	1
+grund: *(bauarbeiten|polizeieinsatz|feuerwehreinsatz|feueralarm|dringende instandsetzungsarbeiten|instandsetzungsarbeiten|ausfall der bahnsteigbeleuchtung|Langsamfahrstellen|weichenstörung)	-1
 gute fahrt!	1
 hat sich beruhigt	1
 hat sich wieder beruhigt	1
 ist beendet	1
-können nicht bedient werden	-1
+(können |können.*)?nicht bedient werden	-1
+(können |können.*)?wieder bedient werden	1
 liegengeblieben	-1
 (bis zu )?((\d+-)?\d+ ?Min(\.|uten|) ?)?(später|verspätete?) (Züge)?	-1
-erheblich verspätet	-1
+(erheblich(e|en|)|witterungsbedingt(er|e|)) verspät(et|ung|ungen)	-1
+witterungsbedingte(n) ausfälle(n)	-1
+Bäume auf den Gleisen	-1
 Verkehrsstillstand	-1
 Busnotverkehr	-1
+Wegen witterungsbedingen Störungen	-1
+verkehren derzeit nur Busse	-1
+Verkehr zw.* eingestellt
+fällt (witterungsbedingt|ebenfalls) aus	-1
 min verspätung	-1
 minuten verspätung	-1
 nicht bedient	-1
 ist wieder frei	1
-fallen heute betriebsbedingt aus	-1
+fallen (heute )?betriebsbedingt aus	-1
 schadhafte Zug wurde entfernt	-1
+kommt es (heute )?zu erheblichen Beeinträchtigungen	-1
 kommt es zu Teilausfällen.*(& zu Verspätungen).*(bis zu \d+)(Min\.| Min|Minuten| Minuten)	-1
-normaler Linienweg	1
+normale(r|n) Linienweg	1
 normal	1
 normalisiert sich wieder	1
 einsatz ist beendet	1
+keine Züge zwischen	-1
 schaden	-1
 endet bereits in	-1
 schadhaft	-1
@@ -101,13 +113,15 @@ Streckensperrung Linie	-1
 taktet sich wieder ein	1
 taktlücken	-1
 teilsperrung	-1
-umleitung (wg. |wegen)Sperrung	-1
+umleitung (wg. |wegen )(Sperrung|Straßenglätte)	-1
 umleitungen & verzögerungen	-1
 umleitung	-1
 unregelmäßiger verkehr	-1
 verkehren wieder	1
 verkehren wieder normal	1
 verkehren wieder planmäßig	1
+Züge fahren.* durchgehend	1
+Witterungsbedingt kommt es derzeit	-1
 verkehrschaos	-1
 verkehrslage hat sich beruhigt	1
 verspätet -1
@@ -133,4 +147,6 @@ wurde aufgehoben	1
 wieder störungsfrei	1
 zu folgeverspätungen	-1
 kein zugverkehr	-1
+Zugverkehr.*wieder aufgenommen	1
 ist aufgehoben	1
+Strecke.*gesperrt	-1

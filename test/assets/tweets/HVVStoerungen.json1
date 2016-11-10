@@ -180,131 +180,119 @@
     "payload": "RE5\n&gt;&gt;Hamburg Hbf ab Stade 9:03h, ab Buxtehude 9:21h entfällt heute.\n#HVV"
   },
   "795523868345716700": {
-    "score": "undefined",
+    "score": "=1",
     "payload": "S21 Update \n\nDie Verspätungen laufen jetzt in Ri. Bergedorf auf. In Ri. Elbgaustraße verkehrt die S21 wieder planmäßig.\n\n#HVV"
   },
   "795527107652763600": {
-    "score": "undefined",
+    "score": "=-1",
     "payload": "Li. 22\nIn beiden Richtungen erheblich verspätet.\n#HVV"
   },
   "795528789937811500": {
-    "score": "undefined",
+    "score": "=-1",
     "payload": "Li. 4, 39, 183, 283\nVerkehrsstillstand in Stellingen &amp; Verspätungen dadurch. Li. 183 fährt verkürzt bis/ab Holstenstr. statt Altona.\n#HVV"
   },
   "795541732003840000": {
-    "score": "undefined",
+    "score": "=-2",
     "payload": "RE5\n&gt;&gt;Cuxhaven ab Hamburg Hbf 10:06h entfällt heute bis Stade. Ab dort verkehrt ein Busnotverkehr ab 10:57h in Ri. Cuxhaven.\n#HVV"
   },
   "795552038658699300": {
-    "score": "undefined",
+    "score": "=-2",
     "payload": "S3, RE5\nAufgrund einer Bahnübergangsstörung verspäten sich die Züge aus Stade in Ri Hamburg um bis zu 10 Min.\n#hvv"
   },
   "795554809365532700": {
-    "score": "undefined",
+    "score": "=-2",
     "payload": "S1 \nStreckensperrung zw. Blankenese&lt;&gt;Wedel. Ersatzverkehr wird/ist eingerichtet.\nGrund: Dringende Instandsetzungsarbeiten \n#hvv"
   },
-  "795567066082377700": {
-    "score": "undefined",
-    "payload": "RT @SBahnHamburg: Sperrung Linie #S1 zw. Blankenese&lt;&gt;Wedel aufgehoben. S-Bahn fährt wieder. Grund: Dringende Instandsetzungsarbeiten beende…"
-  },
   "795568119855120400": {
-    "score": "undefined",
+    "score": "=-1",
     "payload": "RT @Kersten_Artus: Mega-Stau Kieler Straße. Metrobus 4 zum Glück gemütlich und warm. Haben doch alle n Knall irgendwie. #zuvieleAutos @HVVS…"
   },
   "795574732183732200": {
-    "score": "undefined",
+    "score": "=-2",
     "payload": "U1\n&gt;&gt;Norderstedt Mitte ab Kellinghusenstr. 11:27h, ab Ohlsdorf 11:36h ca 9 Min. verspätet durch eine techn. Störung\n#HVV"
   },
   "795631103382089700": {
-    "score": "undefined",
+    "score": "=-2",
     "payload": "321\n Wegen Feuerwehreinsatz ist der Allermöher Deich gesperrt. Die Hast. zwischen Nettelnb. Landweg (Süd) bis Eichbaumsee entfallen. #HVV"
   },
   "795635243852165100": {
-    "score": "undefined",
+    "score": "=-2",
     "payload": "321\nWegen Feuerwehreinsatzes ist der Allermöher Deich gesperrt. Die Hst. zwischen Nettelnb. Landweg (Süd) bis Eichbaumsee entfallen.\n#HVV"
   },
   "795643814262304800": {
-    "score": "undefined",
+    "score": "=2",
     "payload": "RT @vhhbus: #vhh321 Der Allermöher Deich ist wieder frei. Normaler Linienweg. #HVV"
   },
   "795645490805219300": {
-    "score": "undefined",
+    "score": "=-1",
     "payload": "S2 Ausfälle\n&gt;&gt;Bergedorf ab Altona 16:27h, ab Hbf 16:40h &amp;\n&gt;&gt;Altona ab Bergedorf 17:10h fallen heute betriebsbedingt aus.\n#HVV"
   },
   "795645884943962100": {
-    "score": "undefined",
+    "score": "=-2",
     "payload": "S1, S11\nWg einer techn. Störung an einem Zug Höhe Wandsbek kommt es zu Teilausfällen Ohlsdorf&lt;&gt;Poppenbüttel &amp; zu Verspätungen bis zu 14 Min."
   },
-  "795653902335168500": {
-    "score": "undefined",
-    "payload": "RT @hochbahn: #Merkenstraße jetzt packen wir Dich als letzte noch nicht im barrierefreien Umbau befindende #U2-Haltestelle an. Herbst 2017…"
-  },
   "795654220980584400": {
-    "score": "undefined",
+    "score": "=0",
     "payload": "S1, S11 Update\nDer schadhafte Zug wurde entfernt. Die Linien S1 und S11 verkehren wieder planmäßig.\n#HVV"
   },
   "795655560989384700": {
-    "score": "undefined",
+    "score": "=-2",
     "payload": "594\nUmleitung wg. Sperrung des Harksheider Weg. Haltestelle Quickborn, Heidefriedhof entfällt beidseitig.\n#HVV"
   },
   "795657654928625700": {
-    "score": "undefined",
+    "score": "=-1",
     "payload": "RB33\n&gt;&gt;Harsefeld ab Buxtehude um 17:32h , 18:32h &amp; Fahrt &gt;&gt;Bremervörde ab Buxtehude 20:52h fallen heute streikbedingt aus.\n#HVV"
   },
   "795668552695115800": {
-    "score": "undefined",
+    "score": "=2",
     "payload": "RT @vhhbus: #vhh594 Sperrung aufgehoben, wieder normaler Linienweg, Heidefriedhof wird wieder bedient. Mit Verspätungen ist noch zu rechnen…"
   },
   "795719744435404800": {
-    "score": "undefined",
+    "score": "=-2",
     "payload": "RE5\n&gt;&gt;Cuxhaven ab Hamburg Hbf 21:06h verspätet sich um ca. 30 Min. aufgrund einer Signalstörung zw. Harburg &amp; Hbf.\n#HVV"
   },
   "795721888383254500": {
-    "score": "undefined",
+    "score": "=-2",
     "payload": "RB31\n&gt;&gt;Lüneburg ab Hamburg Hbf 21:34h verspätet sich in der Abfahrt um ca. 10-15 Min. aufgrund einer Signalstörung.\n#HVV"
   },
   "795726622615892000": {
-    "score": "undefined",
+    "score": "=-2",
     "payload": "RT @metronom4me: Wegen eines ueberfahrenen Gegenstandes im Gleis muss 81637von Hamburg nach Lueneburg heute leider ausfallen, Fahrgaeste nu…"
   },
   "795855993016057900": {
-    "score": "undefined",
+    "score": "=-2",
     "payload": "RE5\n&gt;&gt;Hamburg Hbf ab Stade 6:44h, ab Buxtehude 7:02h fällt wg einer techn. Störung aus. Restl. Züge witterungsbedingt ca 10 Min verspätet."
   },
   "795865114805203000": {
-    "score": "undefined",
+    "score": "=-1",
     "payload": "U1\n&gt;&gt;Großhansdorf ab Lattenkamp 6:52h, ab Kellinghusenstr. 6:56h ca. 7 Min. aufgrund einer techn. Störung. Nachfolgende Züge planm."
   },
   "795871645189685200": {
-    "score": "undefined",
+    "score": "=-2",
     "payload": "U1\nIn Ri Volksdorf bis zu 12 Min. verspätete Züge durch eine techn. Störung ab Ohlsdorf.\n#HVV"
   },
   "795872524907270100": {
-    "score": "undefined",
+    "score": "=-1",
     "payload": "RE1\n&gt;&gt;Hamburg Hbf ab Büchen 7:55h, ab Bergedorf 8:23h fällt wg schadhaftem Zug aus.\n#HVV"
   },
   "795882949690400800": {
-    "score": "undefined",
+    "score": "=-1",
     "payload": "A2\nAufgrund einer technischen Störung kommt es zwischen Ulzburg Süd &amp; Norderstedt zu Verspätungen in beiden Ri.\n#HVV"
   },
   "795884414467211300": {
-    "score": "undefined",
+    "score": "=2",
     "payload": "U1 Update\nDie technische Störung in Ohlsdorf ist behoben. In Ri Volksdorf wieder planmäßige Züge.\n#HVV"
   },
   "795888898014646300": {
-    "score": "undefined",
+    "score": "=-1",
     "payload": "8800\nDie Fahrt 08:03 von Bf. Bergedorf nach Geesthacht, Oberstadt verzögert sich um ca. 20 Minuten\n#HVV"
   },
   "795889302525907000": {
-    "score": "undefined",
+    "score": "=-2",
     "payload": "Li. 20, 22, 25, 34, 39, 114, 281\nderzeit ca. 10 Min. verspätet durch Stau.\n#HVV"
   },
-  "795890016610353200": {
-    "score": "undefined",
-    "payload": "@Aus_der_UBahn Der Arme! Jetzt muss er tatsächlich jeden Morgen U-Bahn fahren und seine Gesundheit aufs Spiel setzen. Grauenvoll!"
-  },
   "795891546398801900": {
-    "score": "undefined",
+    "score": "=-1",
     "payload": "RT @vhhbus: #vhhbus Wetter- und Verkehrsbedingt kommt es auf vielen Linien zu Verspätungen von bis zu 20 Minuten. Einzelne Ausfälle sind mö…"
   },
   "795893923906469900": {

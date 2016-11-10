@@ -9,6 +9,7 @@ module.exports = (() => {
     describe(description, () => {
       const assets = require(`../assets/${asset}`)
       const sentiment = require('../../../sentiment-custom-lists/lib')
+      var counter = 0
       Object.keys(assets).forEach((key, item) => {
         const assetItem = assets[key]
         assetItem.payload = assetItem.payload

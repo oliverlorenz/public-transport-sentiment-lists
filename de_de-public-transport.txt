@@ -1,5 +1,5 @@
 bis zu \d+ min(ute)?n? verspätung	-1
-wegen eines schadhaften zug(es)?	-1
+(wg|wg.|wegen)( eines)? schadhafte(n|m) zug(es)?	-1
 läuft störungsfrei	1
 störungsfrei	1
 rtw-einsatz beendet	1
@@ -16,22 +16,25 @@ Zurzeit unregelmäßiger Betrieb	-1
 (ebenfalls mit )?Verspätungen zw(ischen|\.)? \d+ (&|u|u\.|und|&) \d+ Min(\.|uten|)?	-1
 ab sofort.+wieder	1
 Wg Gegenst(änden|and) im Gleis(bett)?	-1
+Wegen eines (ue|ü)berfahrenen Gegenstandes	-1
 durch deutlich längere Fahrgastwechsel	-1
 verspät(en|et) sich.* um ((\d+-)?\d+ ?Min(\.|uten|) ?)?	-1
 läuft.* wieder	1
 Derzeit kein Betrieb	-1
 (Betriebs|)störung.* beendet	1
-(wg|wg.|wegen|aufgrund) (eines )?(Polizeieinsatz(es)?|Falschparker(s)?|Feuerwehreinsatz(es)?|laternenumzuges|feueralarm)	-1
+(wg|wg.|wegen|aufgrund) (eines |einer )?(Polizeieinsatz(es)?|Falschparker(s)?|Feuerwehreinsatz(es)?|laternenumzuges|feueralarm|Bahnübergangsstörung|techn. Störung)	-1
 (wg|wg.|wegen) fehlen(dem|den)	-1
 (Gegenstände|Gegenstand).*(entfernt)	1
 wieder eingetaktet	1
 kommt es zu Ausfällen( & Verspätungen)?	-1
 aufgrund von (asphaltierungsarbeiten|verzögerungen|verzögerung)	-1
-aufgrund eine(r|s) (notbremsung|polizeieinsatzes)	-1
+aufgrund eine(r|s) (notbremsung|polizeieinsatzes|technischen Störung)	-1
+Mitte -1
 außer betrieb	-1
 bahnübergangsstörung	-1
 baustelle	0
-ist behoben	3
+heute leider ausfallen	-1
+(technische Störung).*ist behoben	1
 beseitigt	1
 bis.*fällt die	-1
 derzeit busnotverkehr	-1
@@ -43,8 +46,9 @@ ebenfalls gesperrt	-1
 entfallen	-1
 entfallen die haltestellen	-1
 entfernt 0
-entfällt	-1
+entfällt( beidseitig)?	-1
 entfällt wegen	-1
+fallen.*streikbedingt aus	-1
 ersatzverkehr( mit bussen und taxen| mit taxen und bussen| mit bussen| mit taxen).*(läuft aus)	1
 ersatzverkehr( mit bussen und taxen| mit taxen und bussen| mit bussen| mit taxen)	-1
 ersatzverkehr.*läuft aus	1
@@ -68,9 +72,17 @@ ist beendet	1
 können nicht bedient werden	-1
 liegengeblieben	-1
 (bis zu )?((\d+-)?\d+ ?Min(\.|uten|) ?)?(später|verspätete?) (Züge)?	-1
+erheblich verspätet	-1
+Verkehrsstillstand	-1
+Busnotverkehr	-1
 min verspätung	-1
 minuten verspätung	-1
 nicht bedient	-1
+ist wieder frei	1
+fallen heute betriebsbedingt aus	-1
+schadhafte Zug wurde entfernt	-1
+kommt es zu Teilausfällen.*(& zu Verspätungen).*(bis zu \d+)(Min\.| Min|Minuten| Minuten)	-1
+normaler Linienweg	1
 normal	1
 normalisiert sich wieder	1
 einsatz ist beendet	1
@@ -84,10 +96,12 @@ später aufgrund von verzögerungen	-1
 Streckensperrung Linie	-1
 (strecken)?sperrung.*(ist?|wurde|) aufgehoben	1
 (weiterhin|erweiterung der)? streckensperrung	-1
+(tech\. |techn\. |Betriebs|Signal)störung.*ist behoben	2
 (aufgrund.*)?(tech\. |techn\. |Betriebs|Signal)störung	-1
 taktet sich wieder ein	1
 taktlücken	-1
 teilsperrung	-1
+umleitung (wg. |wegen)Sperrung	-1
 umleitungen & verzögerungen	-1
 umleitung	-1
 unregelmäßiger verkehr	-1

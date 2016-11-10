@@ -56,15 +56,15 @@
     "payload": "Bis 18:35 Uhr fällt die #S3 mit Ziel Buxtehude zw. Neugraben &lt;&gt; Buxtehude in beiden Richtungen aus. Grund: Langsamfahrstellen #hvv #sbahnhh"
   },
   "796592737122402300": {
-    "score": "undefined",
+    "score": "=-1",
     "payload": "Bis 9 Uhr fällt die #S3 mit Ziel Buxtehude zw. Neugraben &lt;&gt; Buxtehude in beiden Richtungen aus. #hvv #sbahnhh"
   },
   "796597307101876200": {
-    "score": "undefined",
+    "score": "=-2",
     "payload": "Die Linien #S1 + #S3 fahren derzeit über die Verbindungsbahn. S3 fährt Altona nicht an. S2 fällt aus. Grund: Feuerwehreinsatz. #hvv #sbahnhh"
   },
   "796602386857021400": {
-    "score": "undefined",
+    "score": "=2",
     "payload": "Die Linien #S1 + #S3 fahren wieder durch den Citytunnel. Grund: Feuerwehreinsatz beendet. #hvv #sbahnhh"
   }
 }

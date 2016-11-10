@@ -710,5 +710,9 @@
   "796599979251036200": {
     "score": "undefined",
     "payload": "S1, S3\nfahren derzeit über Dammtor. S3 fährt Altona nicht an. S2 fällt aus. Grund: Feuerwehreinsatz im Citytunnel.\n#HVV"
+  },
+  "796600184201510900": {
+    "score": "undefined",
+    "payload": "U1, U2, U4\nKein Betrieb am Jungfernstieg wegen Feuerwehreinsatzes. Alarm wird geprüft. Es kommt zu Verspätungen.\n#HVV"
   }
 }

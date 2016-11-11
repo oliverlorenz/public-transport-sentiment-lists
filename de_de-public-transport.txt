@@ -137,8 +137,13 @@ wegen eines unfalles-1
 wegen personen	-1
 wegen personen im gleis	-1
 wegen Ampelausfalls	-1
+Unregelmäßiger Betrieb durch Straßenglätte	-1
+Linien zur Zeit.*#?Verspätung	-1
+kommt es immer noch zu gr(\.|oßen) Verspätungen	-1
 Wetterbedingt derzeit Verspätungslage	-1
 derzeit unregelmäßig durch	-1
+Betriebslage.*beruhigt sich (gerade )?wieder	-1
+kann es zu Verspätungen kommen	-1
 wegen glatter Straßenverhältnisse	-1
 Ausfälle wegen Unfall	-1
 wegen (stellenweise extremer )?Straßenglätte	-1

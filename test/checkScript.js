@@ -42,5 +42,8 @@ accounts.forEach((index) => {
     }
     fs.writeFileSync(`./test/assets/tweets/${index}.json`, JSON.stringify(assets, null, 2))
     rl.close()
+    const spawn = require('child_process').spawn;
+    const ls = spawn('npm', ['test']);
+    ls.stdout.pipe(process.stdout)
   })
 })

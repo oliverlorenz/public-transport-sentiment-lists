@@ -116,13 +116,15 @@ taktlücken	-1
 teilsperrung	-1
 umleitung (wg. |wegen )(Sperrung|Straßenglätte)	-1
 umleitungen & verzögerungen	-1
-umleitung	-1
+(beidseitige )?umleitung	-1
+Sperrung zwischen	-1
 unregelmäßiger verkehr	-1
 verkehren wieder	1
 verkehren wieder normal	1
 verkehren wieder planmäßig	1
 Züge fahren.* durchgehend	1
 Witterungsbedingt kommt es derzeit	-1
+aufgrund einer witterungsbedingten Störung	-1
 verkehrschaos	-1
 verkehrslage hat sich beruhigt	1
 verspätet -1
@@ -131,12 +133,16 @@ verspätet -1
 verzögert sich	-1
 verzögerung im betriebsablauf	-1
 verzögerungen im betriebsablauf	-1
+wegen Sperrung	-1
+kommt es in beiden Ri. zu Verspätungen	-1
 wegen einer fahrzeugstörung	-1
 wegen eines umgekippten baumes	-1
 wegen eines unfalles-1
 wegen personen	-1
 wegen personen im gleis	-1
 wegen Ampelausfalls	-1
+Streckenmeldung besteht aber noch	-1
+Mit Verspätungen ist zu rechnen	-1
 Unregelmäßiger Betrieb durch Straßenglätte	-1
 Linien zur Zeit.*#?Verspätung	-1
 kommt es immer noch zu gr(\.|oßen) Verspätungen	-1

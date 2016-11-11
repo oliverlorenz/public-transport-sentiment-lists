@@ -74,6 +74,7 @@ hat sich wieder beruhigt	1
 ist beendet	1
 (können |können.*)?nicht bedient werden	-1
 (können |können.*)?wieder bedient werden	1
+Verspätungen bis \d+ ?(Min|min.|Minuten)	-1
 liegengeblieben	-1
 (bis zu )?((\d+-)?\d+ ?Min(\.|uten|) ?)?(später|verspätete?) (Züge)?	-1
 (erheblich(e|en|)|witterungsbedingt(er|e|)) verspät(et|ung|ungen)	-1
@@ -135,6 +136,17 @@ wegen eines umgekippten baumes	-1
 wegen eines unfalles-1
 wegen personen	-1
 wegen personen im gleis	-1
+wegen Ampelausfalls	-1
+Wetterbedingt derzeit Verspätungslage	-1
+derzeit unregelmäßig durch	-1
+wegen glatter Straßenverhältnisse	-1
+Ausfälle wegen Unfall	-1
+wegen (stellenweise extremer )?Straßenglätte	-1
+Busse können nicht.*fahren	-1
+Derzeit keine Bedienung der Haltestellen	-1
+weiterhin zu extremen Verspätungen	-1
+Fahrtausfälle sind möglich	-1
+Wetter- und Verkehrsbedingt kommt auf	-1
 weichenstörung	-1
 weiterhin nur	-1
 wieder den normalen linienweg	1

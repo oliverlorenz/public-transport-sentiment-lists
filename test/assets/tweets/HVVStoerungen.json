@@ -1246,5 +1246,9 @@
   "798512973954175000": {
     "score": "undefined",
     "payload": "S3\n&gt;&gt;Pinneberg ab Altona um 14:09h verspätet sich un ca 13 Min wg einer technischen Störung am Zug.\n#hvv"
+  },
+  "798528569714602000": {
+    "score": "undefined",
+    "payload": "S3, S21 Update\n\nDie Linien S3 und S21 haben sich wieder vollständig eingetaktet. \n\n#HVV"
   }
 }

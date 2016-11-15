@@ -26,39 +26,218 @@
   },
   "797018923401117700": {
     "score": "=0",
-    "payload": "#Helau - #Alaaf - #Kamelle? Wir wissen es doch auch nicht. Hauptsache Freitag ;) #TGIF #Karneval https://t.co/ZBpDXtIyik",
-    "id": "797018923401117700",
-    "sentiment": {
-      "phrases": {
-        "positive": [],
-        "negative": [],
-        "neutral": []
-      },
-      "score": 0,
-      "comparative": 0,
-      "tokens": [
-        "helau",
-        "-",
-        "alaaf",
-        "-",
-        "kamelle",
-        "wir",
-        "wissen",
-        "es",
-        "doch",
-        "auch",
-        "nicht",
-        "hauptsache",
-        "freitag",
-        "",
-        "tgif",
-        "karneval",
-        "httpstcozbpdxtiyik"
-      ],
-      "words": [],
-      "positive": [],
-      "negative": [],
-      "debugMessage": "#Helau - #Alaaf - #Kamelle? Wir wissen es doch auch nicht. Hauptsache Freitag ;) #TGIF #Karneval https://t.co/ZBpDXtIyik \u001b[33m(0)\u001b[39m"
-    }
+    "payload": "#Helau - #Alaaf - #Kamelle? Wir wissen es doch auch nicht. Hauptsache Freitag ;) #TGIF #Karneval https://t.co/ZBpDXtIyik"
+  },
+  "797020424362229800": {
+    "score": "undefined",
+    "payload": "@FAKTOR_3 😜🎉/as"
+  },
+  "797020899673309200": {
+    "score": "undefined",
+    "payload": "@Beschwerdinator Genau! Trööööthhhh 😜🎉/as"
+  },
+  "797032598073708500": {
+    "score": "undefined",
+    "payload": "@ChrizRummel Wir haben deswegen gestern oft hin und her telefoniert. Wir machen das gerne noch mal. ❤️ /as"
+  },
+  "797059882608427000": {
+    "score": "undefined",
+    "payload": "\"Die U1 ist leeeider verspätet...\" Gefühlt vergeht gerade kein Tag ohne Störung auf der #U1. Warum? https://t.co/ar0QTVcz5k #verbloggt"
+  },
+  "797063533104169000": {
+    "score": "undefined",
+    "payload": "@LtValeris Bitte den Blog-Beitrag zuerst lesen, dann tauschen wir uns gerne aus. :) /as"
+  },
+  "797083754581913600": {
+    "score": "undefined",
+    "payload": "@kurzandklein ;) /as https://t.co/EMuSbcbIWw"
+  },
+  "797084028281192400": {
+    "score": "undefined",
+    "payload": "@LtValeris War das etwa gestern? Da hatten wir einen Kabelschaden. Heute alles wieder gut. :) /as"
+  },
+  "797084744341188600": {
+    "score": "undefined",
+    "payload": "@JoernBullwinkel ;) /as https://t.co/7IEGEukoCL"
+  },
+  "797086254391300100": {
+    "score": "undefined",
+    "payload": "@derhaendler1887 Bitte Blog-Beitrag lesen. :) /as"
+  },
+  "797087064458227700": {
+    "score": "undefined",
+    "payload": "@JULIANGAWER25 Wegen der A1-Sperrung (Asphaltierungsarbeiten) stockender Verkehr, immer noch... /as"
+  },
+  "797088097536241700": {
+    "score": "undefined",
+    "payload": "@ChrizRummel Wir haben erneut mit unseren Kollegen gesprochen, die drehen den Schalter um. Sagen Sie uns gerne, ob es geklappt hat. /as"
+  },
+  "797090163704926200": {
+    "score": "undefined",
+    "payload": "@1887Raphael @JoernBullwinkel Wir werden mit der Sprecherin ein Wörtchen reden. ;) /as"
+  },
+  "797092386421796900": {
+    "score": "undefined",
+    "payload": "@JoernBullwinkel @1887Raphael Machen wir und Grüße zurück! #läuftbeiuns :) /as"
+  },
+  "797103334285017100": {
+    "score": "undefined",
+    "payload": "#U2 #U4: Samstag Busse statt Bahnen zw. #HornerRennbahn &amp; #Billstedt, Sonntag Pendelzug https://t.co/KTJe2YJcBm #Brückenarbeiten #LSBG #hvv"
+  },
+  "797111134721450000": {
+    "score": "undefined",
+    "payload": "#U1: Von 21.30 Uhr, bis Sonntag, 13.11., Betriebsende, Busse statt Bahnen zw. #Ochsenzoll &amp; #NorderstedtMitte https://t.co/U1IJdQO6yg #hvv"
+  },
+  "798081298002804700": {
+    "score": "undefined",
+    "payload": "@santapauli1980 Danke für die Bilder, geben wir auch weiter. /as"
+  },
+  "798086869846265900": {
+    "score": "undefined",
+    "payload": "@digitalkorn Einfach so machen wir das nicht. In Lattenkamp war eine erkrankte Person im Wagen, deswegen Verspätung auf der ganzen Linie./as"
+  },
+  "798087576334827500": {
+    "score": "undefined",
+    "payload": "@hh_juliane Wir hatten tatsächlich eine Türstörung und eine erkrankte Peron im Wagen. Wir wünschen trotzdem guten Start in die Woche! /as"
+  },
+  "798088225449513000": {
+    "score": "undefined",
+    "payload": "@Sill_O Ja, leider doof. /as"
+  },
+  "798089538853703700": {
+    "score": "undefined",
+    "payload": "@ubahnporsche @ulfsch @Baltasar89 Wir tüfteln an der Sache hier: https://t.co/o4vjKD1P6P /as"
+  },
+  "798089786787561500": {
+    "score": "undefined",
+    "payload": "@scytto Dann war das ein Fehelr, in der Regel soll alles übereinstimmen. /as"
+  },
+  "798093361420894200": {
+    "score": "undefined",
+    "payload": "@scytto Dann war das ein Fehler, in der Regel soll alles übereinstimmen. /as"
+  },
+  "798094186037788700": {
+    "score": "undefined",
+    "payload": "@PsychoTR0N Wir haben hier am WE geschlossen. Sind Sie noch angekommen. /as"
+  },
+  "798095329455263700": {
+    "score": "undefined",
+    "payload": "@crismancich Wir antworten am WE hier nicht, haben Sie noch einen Bus erwischt? /as"
+  },
+  "798096374243921900": {
+    "score": "undefined",
+    "payload": "@ojhwel Das hat etwas mit der U4 zu tun, diese fährt zeitweise bis Hammer Kirche, deswegen mussten Sie 2 x umsteigen. /as"
+  },
+  "798096526866157600": {
+    "score": "undefined",
+    "payload": "@derdirk Was waar denn los? /as"
+  },
+  "798096765543059500": {
+    "score": "undefined",
+    "payload": "@Mynios_HH Nicht U2, sondern U4, diese fährt zeitweise bis Hammer Kriche. /as"
+  },
+  "798099706794668000": {
+    "score": "undefined",
+    "payload": "@_micha @Telekom_hilft Welcher Tunnel? Wo genau? /as"
+  },
+  "798099827091390500": {
+    "score": "undefined",
+    "payload": "@SimonMpunkt Wo? Wann genau? War etwas mit der U-Bahn? /as"
+  },
+  "798100122550747100": {
+    "score": "undefined",
+    "payload": "@Aus_der_UBahn @ubahnporsche :) /as"
+  },
+  "798100762949808100": {
+    "score": "undefined",
+    "payload": "@AlexanderCKuhn War Polizeieinsatz. /as"
+  },
+  "798100841785860100": {
+    "score": "undefined",
+    "payload": "@SimonMpunkt PS: Das war ein Polizeieinsatz. /as"
+  },
+  "798101394070847500": {
+    "score": "undefined",
+    "payload": "@jkhhs S-Bahn gehört uns nicht, Verkehrsmeldungen der S-Bahn sind hier @SBahnHamburg /as"
+  },
+  "798157633861615600": {
+    "score": "undefined",
+    "payload": "@misterdpc Gut, danke für die Details. Wir lassen das checken. /as"
+  },
+  "798174175693312000": {
+    "score": "undefined",
+    "payload": "@CNLDN22 Das werden uns die Hamburger nie verzeihen. ;) /as"
+  },
+  "798175482923679700": {
+    "score": "undefined",
+    "payload": "@crismancich Diese Busse sind noch nicht im Einsatz, bald, ganz bald! :) /as"
+  },
+  "798182318674296800": {
+    "score": "undefined",
+    "payload": "@CNLDN22 @Mastercard @Visa Wir sind dran: https://t.co/o4vjKD1P6P /as"
+  },
+  "798446766366556200": {
+    "score": "undefined",
+    "payload": "@lappenjammer Können wir konkret weiterhelfen? /as"
+  },
+  "798447439145533400": {
+    "score": "undefined",
+    "payload": "@hofstatt Wegen Stau gab es Verspätungen auf den beiden Linien, sind Sie noch angekommen? /as"
+  },
+  "798449175419637800": {
+    "score": "undefined",
+    "payload": "@keineantwort Wir haben das gecheckt, alles wie gewohnt. Verstärker? /as"
+  },
+  "798451155751895000": {
+    "score": "undefined",
+    "payload": "@Dragonicyt Tatsächlich sind dort nur Stadtbusse unterwegs, wir hören uns um, ob Gelenkbusse in Planung sind. /as"
+  },
+  "798453969282592800": {
+    "score": "undefined",
+    "payload": "@Dragonicyt Das hat etwas mit der Verkehrslage + Fahrgastwechsel tun. /as"
+  },
+  "798456464343871500": {
+    "score": "undefined",
+    "payload": "@PsychoTR0N Größere betriebliche Ströungen geben wir hier auch am Wochenende raus. /as"
+  },
+  "798457026766663700": {
+    "score": "undefined",
+    "payload": "@Dragonicyt Das ist uns nicht bekannt. Sie können beim HVV nachfragen 040/19449 /as"
+  },
+  "798458970130317300": {
+    "score": "undefined",
+    "payload": "@mefynn Das ist die Aufgabe der Polizei wir können dort nicht tätig werden. /as"
+  },
+  "798482252162207700": {
+    "score": "undefined",
+    "payload": "@Karlimoor Wir können das gerne checken, welche Haltestelle + Fahrtrichtung? /as"
+  },
+  "798488468296966100": {
+    "score": "undefined",
+    "payload": "@Dragonicyt Wenn die Busse verspätet ankommen, dann entsteht Pulkbildung. /as"
+  },
+  "798489414355845100": {
+    "score": "undefined",
+    "payload": "@Dragonicyt Tatsächlich sind für diese Linie künftig Gelenkbusse geplant, die Haltestellen müssen entsprechen ausgebaut werden. /as"
+  },
+  "798523514810679300": {
+    "score": "undefined",
+    "payload": "@PsychoTR0N Fragen dann telefonsich unter 040/19449 /as"
+  },
+  "798523726191009800": {
+    "score": "undefined",
+    "payload": "@keineantwort Es gibt Menschen die freuen sich, wenn er kommt. /as"
+  },
+  "798523973814325200": {
+    "score": "undefined",
+    "payload": "@misterdpc Wir haben mit unseren Kollegen gesprochen, die 7 ist unter Beobachtung. /as"
+  },
+  "798548890953859100": {
+    "score": "undefined",
+    "payload": "@dieFelge  Danke, wir geben das weiter. /as"
+  },
+  "798559628162433000": {
+    "score": "undefined",
+    "payload": "@HVVStoerungen @Xcytress Geben wir weiter! /as"
   }
 }

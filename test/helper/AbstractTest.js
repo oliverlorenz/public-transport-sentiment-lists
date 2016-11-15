@@ -8,7 +8,7 @@ module.exports = (() => {
     const description = `check "${asset}" with "${list}"-list`
     describe(description, () => {
       const assets = require(`../assets/${asset}`)
-      const sentiment = require('../../../sentiment-custom-lists/lib')
+      const sentiment = require('sentiment-custom-lists')
       var counter = 0
       Object.keys(assets).forEach((key, item) => {
         const assetItem = assets[key]

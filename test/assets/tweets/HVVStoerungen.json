@@ -1,978 +1,4156 @@
 {
   "1": {
     "score": "=-2",
-    "payload": "U2 In Ri Mümmelmannsberg bis zu 20 Min Verspätung wegen eines schadhaften Zuges. #hvv"
+    "payload": "U2 In Ri Mümmelmannsberg bis zu 20 Min Verspätung wegen eines schadhaften Zuges. #hvv",
+    "id": "1"
   },
   "2": {
     "score": "=2",
-    "payload": "S1, S31, S21 Update Derzeit wieder planmäßiger Betrieb im S-Bahnverkehr. Verspätungen von heute morgen sind ausgefahren."
+    "payload": "S1, S31, S21 Update Derzeit wieder planmäßiger Betrieb im S-Bahnverkehr. Verspätungen von heute morgen sind ausgefahren.",
+    "id": "2"
   },
   "3": {
     "score": "=3",
-    "payload": "U3 Update Der Betrieb in Ri Barmbek läuft ab Dehnhaide wieder störungsfrei. RTW-Einsatz beendet. #hvv"
+    "payload": "U3 Update Der Betrieb in Ri Barmbek läuft ab Dehnhaide wieder störungsfrei. RTW-Einsatz beendet. #hvv",
+    "id": "3"
   },
   "4": {
     "score": "=1",
-    "payload": "U1, U3 Update In Ri Norderstedt Mitte sowie Schlump - Barmbek wieder planmäßiger U-Bahnverkehr. #HVV"
+    "payload": "U1, U3 Update In Ri Norderstedt Mitte sowie Schlump - Barmbek wieder planmäßiger U-Bahnverkehr. #HVV",
+    "id": "4"
   },
   "5": {
     "score": "=-1",
-    "payload": "U1, U3 In Ri Norderstedt & Hbf Süd - Schlump - Barmbek derzeit 5-10 Min. Verspätung möglich. #HVV"
+    "payload": "U1, U3 In Ri Norderstedt & Hbf Süd - Schlump - Barmbek derzeit 5-10 Min. Verspätung möglich. #HVV",
+    "id": "5"
   },
   "6": {
     "score": "=3",
-    "payload": "U3 Update Der Betrieb in Ri Barmbek läuft ab Dehnhaide wieder störungsfrei. RTW-Einsatz beendet. #hvv"
+    "payload": "U3 Update Der Betrieb in Ri Barmbek läuft ab Dehnhaide wieder störungsfrei. RTW-Einsatz beendet. #hvv",
+    "id": "6"
   },
   "7": {
     "score": "=2",
-    "payload": "U2 U3 U4 Update Die Verspätungen sind ausgefahren. Die Linien verkehren wieder nach Fahrplan. #HVV"
+    "payload": "U2 U3 U4 Update Die Verspätungen sind ausgefahren. Die Linien verkehren wieder nach Fahrplan. #HVV",
+    "id": "7"
   },
   "8": {
     "score": "=1",
-    "payload": "RT @hochbahn: #U2 #U3 #U4 halten ab sofort auch wieder am Berliner Tor. #hvv"
+    "payload": "RT @hochbahn: #U2 #U3 #U4 halten ab sofort auch wieder am Berliner Tor. #hvv",
+    "id": "8"
   },
   "9": {
     "score": "=-2",
-    "payload": "U2 U3 U4 verspäten sich jedoch dadurch aktuell um 5-10 Min. durch deutlich längere Fahrgastwechsel! #HVV https://t.co/nUul"
+    "payload": "U2 U3 U4 verspäten sich jedoch dadurch aktuell um 5-10 Min. durch deutlich längere Fahrgastwechsel! #HVV https://t.co/nUul",
+    "id": "9"
   },
   "10": {
     "score": "=-1",
-    "payload": "U2, U4 Durch den RTW-Einsatz Berliner Tor aktuell bis zu 10 Min verspätet U1, U3 derzeit bis zu 5 Min später im Bereich Lü"
+    "payload": "U2, U4 Durch den RTW-Einsatz Berliner Tor aktuell bis zu 10 Min verspätet U1, U3 derzeit bis zu 5 Min später im Bereich Lü",
+    "id": "10"
   },
   "11": {
     "score": "=-2",
-    "payload": "U1 In Ri Norderstedt wegen einer techn. Störung ab Farmsen derzeit 5-10 Min. verspätete Züge. #HVV"
+    "payload": "U1 In Ri Norderstedt wegen einer techn. Störung ab Farmsen derzeit 5-10 Min. verspätete Züge. #HVV",
+    "id": "11"
   },
   "12": {
     "score": "=-2",
-    "payload": "S21, A1, S3 Aufgrund einer Signalstörung zw. Elbgaustr./Eidelstedt & Diebsteich/Altona derzeit 10-15 Min. verspätete Züge."
+    "payload": "S21, A1, S3 Aufgrund einer Signalstörung zw. Elbgaustr./Eidelstedt & Diebsteich/Altona derzeit 10-15 Min. verspätete Züge.",
+    "id": "12"
   },
   "13": {
     "score": "=2",
-    "payload": "S1 Update Der Betrieb läuft nun auch wieder zwischen Wedel<>Sülldorf. Betriebsstörung ist beendet. #HVV"
+    "payload": "S1 Update Der Betrieb läuft nun auch wieder zwischen Wedel<>Sülldorf. Betriebsstörung ist beendet. #HVV",
+    "id": "13"
   },
   "14": {
     "score": "=-1",
-    "payload": "RT @SBahnHamburg: #S1 Heute bis Betriebsschluss noch Busse statt S-Bahnen zw. Barmbek<>Ohlsdorf. Grund: Bauarbeiten. #sbah"
+    "payload": "RT @SBahnHamburg: #S1 Heute bis Betriebsschluss noch Busse statt S-Bahnen zw. Barmbek<>Ohlsdorf. Grund: Bauarbeiten. #sbah",
+    "id": "14"
   },
   "15": {
     "score": "=-2",
-    "payload": "S1 Derzeit kein Betrieb Sülldorf<>Wedel wegen einer Betriebsstörung. #HVV"
+    "payload": "S1 Derzeit kein Betrieb Sülldorf<>Wedel wegen einer Betriebsstörung. #HVV",
+    "id": "15"
   },
   "16": {
     "score": "=-2",
-    "payload": "S3 >>Pinneberg ab Stade 4:35, ab Buxtehude 4:55h ca. 20 Min später aufgrund eines Polizeieinsatzes. #HVV"
+    "payload": "S3 >>Pinneberg ab Stade 4:35, ab Buxtehude 4:55h ca. 20 Min später aufgrund eines Polizeieinsatzes. #HVV",
+    "id": "16"
   },
   "17": {
     "score": "=-2",
-    "payload": "S3 >>Elbgaustr. ab Reeperbahn 4:04h, ab Altona 4:10h ca 15 Min. später wg Polizeieinsatzes. #HVV"
+    "payload": "S3 >>Elbgaustr. ab Reeperbahn 4:04h, ab Altona 4:10h ca 15 Min. später wg Polizeieinsatzes. #HVV",
+    "id": "17"
   },
   "18": {
     "score": "=-2",
-    "payload": "U1 >>Norderstedt Mitte ab Wandsbek-Markt 23:25h ca. 7 Min. später aufgrund einer Signalstörung in Volksdorf. #HVV"
+    "payload": "U1 >>Norderstedt Mitte ab Wandsbek-Markt 23:25h ca. 7 Min. später aufgrund einer Signalstörung in Volksdorf. #HVV",
+    "id": "18"
   },
   "19": {
     "score": "=-1",
-    "payload": "S1 Korrektur: Erw. Streckensperrung Hasselbrook <> Ohlsdorf ab heute (Sa.) 23:50h bis So. früh ca. 6 Uhr gültig. Sonst: Ba"
+    "payload": "S1 Korrektur: Erw. Streckensperrung Hasselbrook <> Ohlsdorf ab heute (Sa.) 23:50h bis So. früh ca. 6 Uhr gültig. Sonst: Ba",
+    "id": "19"
   },
   "20": {
     "score": "=1",
-    "payload": "Li. 13 Update Wieder normaler Linienverlauf. Der Falschparker hat sich entfernt. #HVV"
+    "payload": "Li. 13 Update Wieder normaler Linienverlauf. Der Falschparker hat sich entfernt. #HVV",
+    "id": "20"
   },
   "21": {
     "score": "=-2",
-    "payload": "U1 >>Großhansdorf 21:28h ca. 10 Min. später >>Ohlstedt 21:38h ca. 7 Min. später // techn. Störung. #HVV"
+    "payload": "U1 >>Großhansdorf 21:28h ca. 10 Min. später >>Ohlstedt 21:38h ca. 7 Min. später // techn. Störung. #HVV",
+    "id": "21"
   },
   "22": {
     "score": "=-2",
-    "payload": "13 Wg Falschparkers entfällt die Hst. Krankenhaus Groß-Sand & Veringstr. wird in Ri Veddel in der Neuhöfer Str. bei Li. 151 bedient. #HVV"
+    "payload": "13 Wg Falschparkers entfällt die Hst. Krankenhaus Groß-Sand & Veringstr. wird in Ri Veddel in der Neuhöfer Str. bei Li. 151 bedient. #HVV",
+    "id": "22"
   },
   "23": {
     "score": "=2",
-    "payload": "RE8 RE80 RB81 Update Die Gegenstände aus den Gleisen zw. Rahlstedt<>Ahrensburg wurden entfernt. Der Zugverkehr läuft störungsfrei. #HVV"
+    "payload": "RE8 RE80 RB81 Update Die Gegenstände aus den Gleisen zw. Rahlstedt<>Ahrensburg wurden entfernt. Der Zugverkehr läuft störungsfrei. #HVV",
+    "id": "23"
   },
   "24": {
     "score": "=2",
-    "payload": "Busverkehr Hamburger Westen & Hamburger Süden Sämtliche Li. haben sich wieder eingetaktet und die Busse verkehren planmäßig. #HVV"
+    "payload": "Busverkehr Hamburger Westen & Hamburger Süden Sämtliche Li. haben sich wieder eingetaktet und die Busse verkehren planmäßig. #HVV",
+    "id": "24"
   },
   "25": {
     "score": "=-2",
-    "payload": "U3 Update In Ri Schlump - Barmbek noch bis zu 5 Min. Verspätung. U2, U4 vereinzelt noch bis zu 10 Min. verspätet durch Folgeverspätung #HVV"
+    "payload": "U3 Update In Ri Schlump - Barmbek noch bis zu 5 Min. Verspätung. U2, U4 vereinzelt noch bis zu 10 Min. verspätet durch Folgeverspätung #HVV",
+    "id": "25"
   },
   "26": {
     "score": "=1",
-    "payload": "S1, S31, S3 Update Die Stellwerks- und Signalstörung am Hbf ist behoben. Verzeinzelt bis zu 10 Min. Verspätung auf der Li. S1. #HVV"
+    "payload": "S1, S31, S3 Update Die Stellwerks- und Signalstörung am Hbf ist behoben. Verzeinzelt bis zu 10 Min. Verspätung auf der Li. S1. #HVV",
+    "id": "26"
   },
   "27": {
     "score": "=-2",
-    "payload": "S1, S11, S3, S31 Durch eine Stellwerks- & Signalstörung am Hbf kommt es zu Verspätungen von bis zu 15 Min & S11-Ausfällen."
+    "payload": "S1, S11, S3, S31 Durch eine Stellwerks- & Signalstörung am Hbf kommt es zu Verspätungen von bis zu 15 Min & S11-Ausfällen.",
+    "id": "27"
   },
   "28": {
     "score": "=-2",
-    "payload": "S1, S11 Durch eine Stellwerks- & Signalstörung am Hbf kommt es zu Verspätungen von bis zu 15 Min & S11-Ausfällen. #hvv"
+    "payload": "S1, S11 Durch eine Stellwerks- & Signalstörung am Hbf kommt es zu Verspätungen von bis zu 15 Min & S11-Ausfällen. #hvv",
+    "id": "28"
   },
   "29": {
     "score": "=-2",
-    "payload": "RE8 RE80 RB81 Wg Gegenständen im Gleis zw Rahlstedt<>Ahrensburg kommt es zu Verspätungen zw 10 & 20 Min."
+    "payload": "RE8 RE80 RB81 Wg Gegenständen im Gleis zw Rahlstedt<>Ahrensburg kommt es zu Verspätungen zw 10 & 20 Min.",
+    "id": "29"
   },
   "30": {
     "score": "=-1",
-    "payload": "U2, U3, U4 Update Grund für die Sperrung U Berliner Tor ist ein Polizei- & Feuerwehreinsatz. S-Bahnen fahren. #hvv"
+    "payload": "U2, U3, U4 Update Grund für die Sperrung U Berliner Tor ist ein Polizei- & Feuerwehreinsatz. S-Bahnen fahren. #hvv",
+    "id": "30"
   },
   "31": {
     "score": "=-2",
-    "payload": "112, 154, 261 Zurzeit unregelmäßiger Betrieb auf allen 3 Buslinien durch Stau. #hvv"
+    "payload": "112, 154, 261 Zurzeit unregelmäßiger Betrieb auf allen 3 Buslinien durch Stau. #hvv",
+    "id": "31"
   },
   "32": {
     "score": "=-2",
-    "payload": "U2 U3 U4 Wg eines Feuerwehreinsatzes Berliner Tor kommt es zu Ausfällen & Verspätungen in jeweils beide Richtungen. #hvv"
+    "payload": "U2 U3 U4 Wg eines Feuerwehreinsatzes Berliner Tor kommt es zu Ausfällen & Verspätungen in jeweils beide Richtungen. #hvv",
+    "id": "32"
   },
   "33": {
     "score": "=-3",
-    "payload": "Li. 27 Taktlücken von bis zu 15 Min. durch Folgeverspätungen nach Stau auf Hinfahrt. #HVV"
+    "payload": "Li. 27 Taktlücken von bis zu 15 Min. durch Folgeverspätungen nach Stau auf Hinfahrt. #HVV",
+    "id": "33"
   },
   "34": {
     "score": "=-3",
-    "payload": "S2 >>Bergedorf ab Hamburg Hbf 16h fällt aus S3 >>Buxtehude 15:58h endet bereits in Neugraben wg fehlendem Stromabnehmerwagen. #HVV"
+    "payload": "S2 >>Bergedorf ab Hamburg Hbf 16h fällt aus S3 >>Buxtehude 15:58h endet bereits in Neugraben wg fehlendem Stromabnehmerwagen. #HVV",
+    "id": "34"
   },
   "35": {
     "score": "=-2",
-    "payload": "U1 >>Norderstedt Mitte ab Jungfernstieg 15:39h, ab Kellinghusenstr. 15:47h ca. 13 Min. später aufgrund eines Feuerwehreinsatzes #HVV"
+    "payload": "U1 >>Norderstedt Mitte ab Jungfernstieg 15:39h, ab Kellinghusenstr. 15:47h ca. 13 Min. später aufgrund eines Feuerwehreinsatzes #HVV",
+    "id": "35"
   },
   "36": {
     "score": "=-1",
-    "payload": "Li. 5, 191, 193, 195, 24, 284, 185 ebenfalls mit Verspätungen zw. 10 & 20 Min. im Bereich Niendorf, Schnelsen betroffen. #HVV"
+    "payload": "Li. 5, 191, 193, 195, 24, 284, 185 ebenfalls mit Verspätungen zw. 10 & 20 Min. im Bereich Niendorf, Schnelsen betroffen. #HVV",
+    "id": "36"
   },
   "794945658214088700": {
     "score": "=-2",
-    "payload": "Busverkehr Innenstadt \n\nWg Stau bis zu 20-30 Min Verspätung möglich \nBitte Schnellbahnen nutzen \n#HVV"
+    "payload": "Busverkehr Innenstadt \n\nWg Stau bis zu 20-30 Min Verspätung möglich \nBitte Schnellbahnen nutzen \n#HVV",
+    "id": "794945658214088700"
   },
   "794981879527182300": {
     "score": "=-1",
-    "payload": "RB81\n&gt;&gt;Ahrensburg ab Bad Oldesloe 0:39h fällt wegen Bauarbeiten aus.\n#HVV"
+    "payload": "RB81\n&gt;&gt;Ahrensburg ab Bad Oldesloe 0:39h fällt wegen Bauarbeiten aus.\n#HVV",
+    "id": "794981879527182300"
   },
   "795209129237348400": {
     "score": "=-2",
-    "payload": "Busverkehr Harburg\nWegen eines Laternenumzuges durch die Harburger Innenstadt zw. 18 &amp; 21 Uhr kommt es zu Umleitungen &amp; Verzögerungen.\n#HVV"
+    "payload": "Busverkehr Harburg\nWegen eines Laternenumzuges durch die Harburger Innenstadt zw. 18 &amp; 21 Uhr kommt es zu Umleitungen &amp; Verzögerungen.\n#HVV",
+    "id": "795209129237348400"
   },
   "795262532135120900": {
     "score": "=-1",
-    "payload": "35 36\nZurzeit kommt es in der Lübecker Straße zu Verkehrsbehinterungen die Busse haben in beiden Richtungen bis zu 10 Min Verspätung \n\n#hvv"
+    "payload": "35 36\nZurzeit kommt es in der Lübecker Straße zu Verkehrsbehinterungen die Busse haben in beiden Richtungen bis zu 10 Min Verspätung \n\n#hvv",
+    "id": "795262532135120900"
   },
   "795278085700653000": {
     "score": "=-1",
-    "payload": "Li 6661\nAb Montag Betriebsbeginn Umleitung in Uetersen über Gr. Twiete mit Haltestellenverlegung Kl.Twiete &amp; Herderstr in beiden Ri.\n#HVV"
+    "payload": "Li 6661\nAb Montag Betriebsbeginn Umleitung in Uetersen über Gr. Twiete mit Haltestellenverlegung Kl.Twiete &amp; Herderstr in beiden Ri.\n#HVV",
+    "id": "795278085700653000"
   },
   "795316083788017700": {
     "score": "=-1",
-    "payload": "4, 183, 283\nDie Haltestelle Basselweg entfällt in Richtung stadteinwärts vom 7.11. bis zum 18.11.16 wegen Bauarbeiten.\n#HVV"
+    "payload": "4, 183, 283\nDie Haltestelle Basselweg entfällt in Richtung stadteinwärts vom 7.11. bis zum 18.11.16 wegen Bauarbeiten.\n#HVV",
+    "id": "795316083788017700"
   },
   "795330681576575000": {
     "score": "=-1",
-    "payload": "4407, 4408, 4611, 4618\n\nDie Bahnhofstraße in Brackel wird aufgrund von Asphaltierungsarbeiten vom 07. November... https://t.co/nqvCJagkXv"
+    "payload": "4407, 4408, 4611, 4618\n\nDie Bahnhofstraße in Brackel wird aufgrund von Asphaltierungsarbeiten vom 07. November... https://t.co/nqvCJagkXv",
+    "id": "795330681576575000"
   },
   "795513345361244200": {
     "score": "=-3",
-    "payload": "S21, S2\nDurch eine techn. Störung an einem Zug in Ri Elbgaustr. &amp; Zugrückstau bis zu 12 Min. verspätete Züge derzeit.\n#HVV"
+    "payload": "S21, S2\nDurch eine techn. Störung an einem Zug in Ri Elbgaustr. &amp; Zugrückstau bis zu 12 Min. verspätete Züge derzeit.\n#HVV",
+    "id": "795513345361244200"
   },
   "795522255799414800": {
     "score": "=-1",
-    "payload": "RE5\n&gt;&gt;Hamburg Hbf ab Stade 9:03h, ab Buxtehude 9:21h entfällt heute.\n#HVV"
+    "payload": "RE5\n&gt;&gt;Hamburg Hbf ab Stade 9:03h, ab Buxtehude 9:21h entfällt heute.\n#HVV",
+    "id": "795522255799414800"
   },
   "795523868345716700": {
     "score": "=1",
-    "payload": "S21 Update \n\nDie Verspätungen laufen jetzt in Ri. Bergedorf auf. In Ri. Elbgaustraße verkehrt die S21 wieder planmäßig.\n\n#HVV"
+    "payload": "S21 Update \n\nDie Verspätungen laufen jetzt in Ri. Bergedorf auf. In Ri. Elbgaustraße verkehrt die S21 wieder planmäßig.\n\n#HVV",
+    "id": "795523868345716700"
   },
   "795527107652763600": {
     "score": "=-1",
-    "payload": "Li. 22\nIn beiden Richtungen erheblich verspätet.\n#HVV"
+    "payload": "Li. 22\nIn beiden Richtungen erheblich verspätet.\n#HVV",
+    "id": "795527107652763600"
   },
   "795528789937811500": {
     "score": "=-1",
-    "payload": "Li. 4, 39, 183, 283\nVerkehrsstillstand in Stellingen &amp; Verspätungen dadurch. Li. 183 fährt verkürzt bis/ab Holstenstr. statt Altona.\n#HVV"
+    "payload": "Li. 4, 39, 183, 283\nVerkehrsstillstand in Stellingen &amp; Verspätungen dadurch. Li. 183 fährt verkürzt bis/ab Holstenstr. statt Altona.\n#HVV",
+    "id": "795528789937811500"
   },
   "795541732003840000": {
     "score": "=-2",
-    "payload": "RE5\n&gt;&gt;Cuxhaven ab Hamburg Hbf 10:06h entfällt heute bis Stade. Ab dort verkehrt ein Busnotverkehr ab 10:57h in Ri. Cuxhaven.\n#HVV"
+    "payload": "RE5\n&gt;&gt;Cuxhaven ab Hamburg Hbf 10:06h entfällt heute bis Stade. Ab dort verkehrt ein Busnotverkehr ab 10:57h in Ri. Cuxhaven.\n#HVV",
+    "id": "795541732003840000"
   },
   "795552038658699300": {
     "score": "=-2",
-    "payload": "S3, RE5\nAufgrund einer Bahnübergangsstörung verspäten sich die Züge aus Stade in Ri Hamburg um bis zu 10 Min.\n#hvv"
+    "payload": "S3, RE5\nAufgrund einer Bahnübergangsstörung verspäten sich die Züge aus Stade in Ri Hamburg um bis zu 10 Min.\n#hvv",
+    "id": "795552038658699300"
   },
   "795554809365532700": {
     "score": "=-2",
-    "payload": "S1 \nStreckensperrung zw. Blankenese&lt;&gt;Wedel. Ersatzverkehr wird/ist eingerichtet.\nGrund: Dringende Instandsetzungsarbeiten \n#hvv"
+    "payload": "S1 \nStreckensperrung zw. Blankenese&lt;&gt;Wedel. Ersatzverkehr wird/ist eingerichtet.\nGrund: Dringende Instandsetzungsarbeiten \n#hvv",
+    "id": "795554809365532700"
   },
   "795568119855120400": {
     "score": "=-1",
-    "payload": "RT @Kersten_Artus: Mega-Stau Kieler Straße. Metrobus 4 zum Glück gemütlich und warm. Haben doch alle n Knall irgendwie. #zuvieleAutos @HVVS…"
+    "payload": "RT @Kersten_Artus: Mega-Stau Kieler Straße. Metrobus 4 zum Glück gemütlich und warm. Haben doch alle n Knall irgendwie. #zuvieleAutos @HVVS…",
+    "id": "795568119855120400"
   },
   "795574732183732200": {
     "score": "=-2",
-    "payload": "U1\n&gt;&gt;Norderstedt Mitte ab Kellinghusenstr. 11:27h, ab Ohlsdorf 11:36h ca 9 Min. verspätet durch eine techn. Störung\n#HVV"
+    "payload": "U1\n&gt;&gt;Norderstedt Mitte ab Kellinghusenstr. 11:27h, ab Ohlsdorf 11:36h ca 9 Min. verspätet durch eine techn. Störung\n#HVV",
+    "id": "795574732183732200"
   },
   "795631103382089700": {
     "score": "=-2",
-    "payload": "321\n Wegen Feuerwehreinsatz ist der Allermöher Deich gesperrt. Die Hast. zwischen Nettelnb. Landweg (Süd) bis Eichbaumsee entfallen. #HVV"
+    "payload": "321\n Wegen Feuerwehreinsatz ist der Allermöher Deich gesperrt. Die Hast. zwischen Nettelnb. Landweg (Süd) bis Eichbaumsee entfallen. #HVV",
+    "id": "795631103382089700"
   },
   "795635243852165100": {
     "score": "=-2",
-    "payload": "321\nWegen Feuerwehreinsatzes ist der Allermöher Deich gesperrt. Die Hst. zwischen Nettelnb. Landweg (Süd) bis Eichbaumsee entfallen.\n#HVV"
+    "payload": "321\nWegen Feuerwehreinsatzes ist der Allermöher Deich gesperrt. Die Hst. zwischen Nettelnb. Landweg (Süd) bis Eichbaumsee entfallen.\n#HVV",
+    "id": "795635243852165100"
   },
   "795643814262304800": {
     "score": "=2",
-    "payload": "RT @vhhbus: #vhh321 Der Allermöher Deich ist wieder frei. Normaler Linienweg. #HVV"
+    "payload": "RT @vhhbus: #vhh321 Der Allermöher Deich ist wieder frei. Normaler Linienweg. #HVV",
+    "id": "795643814262304800"
   },
   "795645490805219300": {
     "score": "=-1",
-    "payload": "S2 Ausfälle\n&gt;&gt;Bergedorf ab Altona 16:27h, ab Hbf 16:40h &amp;\n&gt;&gt;Altona ab Bergedorf 17:10h fallen heute betriebsbedingt aus.\n#HVV"
+    "payload": "S2 Ausfälle\n&gt;&gt;Bergedorf ab Altona 16:27h, ab Hbf 16:40h &amp;\n&gt;&gt;Altona ab Bergedorf 17:10h fallen heute betriebsbedingt aus.\n#HVV",
+    "id": "795645490805219300"
   },
   "795645884943962100": {
     "score": "=-2",
-    "payload": "S1, S11\nWg einer techn. Störung an einem Zug Höhe Wandsbek kommt es zu Teilausfällen Ohlsdorf&lt;&gt;Poppenbüttel &amp; zu Verspätungen bis zu 14 Min."
+    "payload": "S1, S11\nWg einer techn. Störung an einem Zug Höhe Wandsbek kommt es zu Teilausfällen Ohlsdorf&lt;&gt;Poppenbüttel &amp; zu Verspätungen bis zu 14 Min.",
+    "id": "795645884943962100"
   },
   "795654220980584400": {
     "score": "=0",
-    "payload": "S1, S11 Update\nDer schadhafte Zug wurde entfernt. Die Linien S1 und S11 verkehren wieder planmäßig.\n#HVV"
+    "payload": "S1, S11 Update\nDer schadhafte Zug wurde entfernt. Die Linien S1 und S11 verkehren wieder planmäßig.\n#HVV",
+    "id": "795654220980584400"
   },
   "795655560989384700": {
     "score": "=-2",
-    "payload": "594\nUmleitung wg. Sperrung des Harksheider Weg. Haltestelle Quickborn, Heidefriedhof entfällt beidseitig.\n#HVV"
+    "payload": "594\nUmleitung wg. Sperrung des Harksheider Weg. Haltestelle Quickborn, Heidefriedhof entfällt beidseitig.\n#HVV",
+    "id": "795655560989384700"
   },
   "795657654928625700": {
     "score": "=-1",
-    "payload": "RB33\n&gt;&gt;Harsefeld ab Buxtehude um 17:32h , 18:32h &amp; Fahrt &gt;&gt;Bremervörde ab Buxtehude 20:52h fallen heute streikbedingt aus.\n#HVV"
+    "payload": "RB33\n&gt;&gt;Harsefeld ab Buxtehude um 17:32h , 18:32h &amp; Fahrt &gt;&gt;Bremervörde ab Buxtehude 20:52h fallen heute streikbedingt aus.\n#HVV",
+    "id": "795657654928625700"
   },
   "795668552695115800": {
     "score": "=2",
-    "payload": "RT @vhhbus: #vhh594 Sperrung aufgehoben, wieder normaler Linienweg, Heidefriedhof wird wieder bedient. Mit Verspätungen ist noch zu rechnen…"
+    "payload": "RT @vhhbus: #vhh594 Sperrung aufgehoben, wieder normaler Linienweg, Heidefriedhof wird wieder bedient. Mit Verspätungen ist noch zu rechnen…",
+    "id": "795668552695115800"
   },
   "795719744435404800": {
     "score": "=-2",
-    "payload": "RE5\n&gt;&gt;Cuxhaven ab Hamburg Hbf 21:06h verspätet sich um ca. 30 Min. aufgrund einer Signalstörung zw. Harburg &amp; Hbf.\n#HVV"
+    "payload": "RE5\n&gt;&gt;Cuxhaven ab Hamburg Hbf 21:06h verspätet sich um ca. 30 Min. aufgrund einer Signalstörung zw. Harburg &amp; Hbf.\n#HVV",
+    "id": "795719744435404800"
   },
   "795721888383254500": {
     "score": "=-2",
-    "payload": "RB31\n&gt;&gt;Lüneburg ab Hamburg Hbf 21:34h verspätet sich in der Abfahrt um ca. 10-15 Min. aufgrund einer Signalstörung.\n#HVV"
+    "payload": "RB31\n&gt;&gt;Lüneburg ab Hamburg Hbf 21:34h verspätet sich in der Abfahrt um ca. 10-15 Min. aufgrund einer Signalstörung.\n#HVV",
+    "id": "795721888383254500"
   },
   "795726622615892000": {
     "score": "=-2",
-    "payload": "RT @metronom4me: Wegen eines ueberfahrenen Gegenstandes im Gleis muss 81637von Hamburg nach Lueneburg heute leider ausfallen, Fahrgaeste nu…"
+    "payload": "RT @metronom4me: Wegen eines ueberfahrenen Gegenstandes im Gleis muss 81637von Hamburg nach Lueneburg heute leider ausfallen, Fahrgaeste nu…",
+    "id": "795726622615892000"
   },
   "795855993016057900": {
     "score": "=-2",
-    "payload": "RE5\n&gt;&gt;Hamburg Hbf ab Stade 6:44h, ab Buxtehude 7:02h fällt wg einer techn. Störung aus. Restl. Züge witterungsbedingt ca 10 Min verspätet."
+    "payload": "RE5\n&gt;&gt;Hamburg Hbf ab Stade 6:44h, ab Buxtehude 7:02h fällt wg einer techn. Störung aus. Restl. Züge witterungsbedingt ca 10 Min verspätet.",
+    "id": "795855993016057900"
   },
   "795865114805203000": {
     "score": "=-1",
-    "payload": "U1\n&gt;&gt;Großhansdorf ab Lattenkamp 6:52h, ab Kellinghusenstr. 6:56h ca. 7 Min. aufgrund einer techn. Störung. Nachfolgende Züge planm."
+    "payload": "U1\n&gt;&gt;Großhansdorf ab Lattenkamp 6:52h, ab Kellinghusenstr. 6:56h ca. 7 Min. aufgrund einer techn. Störung. Nachfolgende Züge planm.",
+    "id": "795865114805203000"
   },
   "795871645189685200": {
     "score": "=-2",
-    "payload": "U1\nIn Ri Volksdorf bis zu 12 Min. verspätete Züge durch eine techn. Störung ab Ohlsdorf.\n#HVV"
+    "payload": "U1\nIn Ri Volksdorf bis zu 12 Min. verspätete Züge durch eine techn. Störung ab Ohlsdorf.\n#HVV",
+    "id": "795871645189685200"
   },
   "795872524907270100": {
     "score": "=-1",
-    "payload": "RE1\n&gt;&gt;Hamburg Hbf ab Büchen 7:55h, ab Bergedorf 8:23h fällt wg schadhaftem Zug aus.\n#HVV"
+    "payload": "RE1\n&gt;&gt;Hamburg Hbf ab Büchen 7:55h, ab Bergedorf 8:23h fällt wg schadhaftem Zug aus.\n#HVV",
+    "id": "795872524907270100"
   },
   "795882949690400800": {
     "score": "=-1",
-    "payload": "A2\nAufgrund einer technischen Störung kommt es zwischen Ulzburg Süd &amp; Norderstedt zu Verspätungen in beiden Ri.\n#HVV"
+    "payload": "A2\nAufgrund einer technischen Störung kommt es zwischen Ulzburg Süd &amp; Norderstedt zu Verspätungen in beiden Ri.\n#HVV",
+    "id": "795882949690400800"
   },
   "795884414467211300": {
     "score": "=2",
-    "payload": "U1 Update\nDie technische Störung in Ohlsdorf ist behoben. In Ri Volksdorf wieder planmäßige Züge.\n#HVV"
+    "payload": "U1 Update\nDie technische Störung in Ohlsdorf ist behoben. In Ri Volksdorf wieder planmäßige Züge.\n#HVV",
+    "id": "795884414467211300"
   },
   "795888898014646300": {
     "score": "=-1",
-    "payload": "8800\nDie Fahrt 08:03 von Bf. Bergedorf nach Geesthacht, Oberstadt verzögert sich um ca. 20 Minuten\n#HVV"
+    "payload": "8800\nDie Fahrt 08:03 von Bf. Bergedorf nach Geesthacht, Oberstadt verzögert sich um ca. 20 Minuten\n#HVV",
+    "id": "795888898014646300"
   },
   "795889302525907000": {
     "score": "=-2",
-    "payload": "Li. 20, 22, 25, 34, 39, 114, 281\nderzeit ca. 10 Min. verspätet durch Stau.\n#HVV"
+    "payload": "Li. 20, 22, 25, 34, 39, 114, 281\nderzeit ca. 10 Min. verspätet durch Stau.\n#HVV",
+    "id": "795889302525907000"
   },
   "795891546398801900": {
     "score": "=-1",
-    "payload": "RT @vhhbus: #vhhbus Wetter- und Verkehrsbedingt kommt es auf vielen Linien zu Verspätungen von bis zu 20 Minuten. Einzelne Ausfälle sind mö…"
+    "payload": "RT @vhhbus: #vhhbus Wetter- und Verkehrsbedingt kommt es auf vielen Linien zu Verspätungen von bis zu 20 Minuten. Einzelne Ausfälle sind mö…",
+    "id": "795891546398801900"
   },
   "795894108933988400": {
     "score": "=-2",
-    "payload": "U1\n&gt;&gt;Norderstedt Mitte ab Wandsbek-Markt 8:45h &amp; 8:55h wg einer techn. Störung ca. 8 Min. verspätet.\n#HVV"
+    "payload": "U1\n&gt;&gt;Norderstedt Mitte ab Wandsbek-Markt 8:45h &amp; 8:55h wg einer techn. Störung ca. 8 Min. verspätet.\n#HVV",
+    "id": "795894108933988400"
   },
   "795918082061570000": {
     "score": "=-1",
-    "payload": "494 \nDie Fahrt um 10:28 Uhr ab Norderstedt Mitte, fällt aufgrund eines Defekts am Fahrzeug aus. #HVV"
+    "payload": "494 \nDie Fahrt um 10:28 Uhr ab Norderstedt Mitte, fällt aufgrund eines Defekts am Fahrzeug aus. #HVV",
+    "id": "795918082061570000"
   },
   "795926126786965500": {
     "score": "=1",
-    "payload": "RT @vhhbus: #vhhbus Die Verkehrslage hat sich bis auf wenige Einzelfälle weitestgehend beruhigt. #HVV"
+    "payload": "RT @vhhbus: #vhhbus Die Verkehrslage hat sich bis auf wenige Einzelfälle weitestgehend beruhigt. #HVV",
+    "id": "795926126786965500"
   },
   "795930454650191900": {
     "score": "=-1",
-    "payload": "RE3\nErsatzverkehr zw. Bad Bevensen&lt;&gt;Uelzen wg. Baum auf d. Gleisen. Busnotverkehr ebenfalls durch Baum stark verzögert.\n#HVV"
+    "payload": "RE3\nErsatzverkehr zw. Bad Bevensen&lt;&gt;Uelzen wg. Baum auf d. Gleisen. Busnotverkehr ebenfalls durch Baum stark verzögert.\n#HVV",
+    "id": "795930454650191900"
   },
   "795933935188447200": {
     "score": "=-3",
-    "payload": "109\nWegen eines Unfalles entfällt die Hst. Wilhelm-Metzger-Str. in Ri Innenstadt &amp; es kommt zu Verspätungen.\n#HVV"
+    "payload": "109\nWegen eines Unfalles entfällt die Hst. Wilhelm-Metzger-Str. in Ri Innenstadt &amp; es kommt zu Verspätungen.\n#HVV",
+    "id": "795933935188447200"
   },
   "795940883686457300": {
     "score": "=-2",
-    "payload": "S3, RE5\nDerzeit kein Zugverkehr zw. Neugraben&lt;&gt;Buxtehude. Ersatzverkehr wird /ist eingerichtet.Grund: Weichenstörung.\n#hvv"
+    "payload": "S3, RE5\nDerzeit kein Zugverkehr zw. Neugraben&lt;&gt;Buxtehude. Ersatzverkehr wird /ist eingerichtet.Grund: Weichenstörung.\n#hvv",
+    "id": "795940883686457300"
   },
   "795941579693457400": {
     "score": "=-2",
-    "payload": "RB31 RB32\nDie Westseite in Lüneburg kann wg Baum in der Oberleitung nicht angefahren werden. Es kommt zu Ausfällen &amp; Verspätungen.\n#HVV"
+    "payload": "RB31 RB32\nDie Westseite in Lüneburg kann wg Baum in der Oberleitung nicht angefahren werden. Es kommt zu Ausfällen &amp; Verspätungen.\n#HVV",
+    "id": "795941579693457400"
   },
   "795941872845910000": {
     "score": "=-2",
-    "payload": "RT @metronom4me: Wegen witterungsbedingen Störungen kommt es zur Zeit auf allen Strecken zu erheblichen Verspätungen"
+    "payload": "RT @metronom4me: Wegen witterungsbedingen Störungen kommt es zur Zeit auf allen Strecken zu erheblichen Verspätungen",
+    "id": "795941872845910000"
   },
   "795942028504952800": {
     "score": "=-3",
-    "payload": "RB32\nStrecke zw Lüneburg&lt;&gt; Dannenberg Ost ist wg mehrerer Bäume auf den Gleisen / Oberleitung voll gesperrt &amp; wird durch Busse ersetzt.\n#HVV"
+    "payload": "RB32\nStrecke zw Lüneburg&lt;&gt; Dannenberg Ost ist wg mehrerer Bäume auf den Gleisen / Oberleitung voll gesperrt &amp; wird durch Busse ersetzt.\n#HVV",
+    "id": "795942028504952800"
   },
   "795943574563131400": {
     "score": "=-2",
-    "payload": "338 \nUmleitung wegen Straßenglätte. Hastellen Fährtreppe, Elbschiffahrtsmuseum, Neustadt u. Grünstraße entfallen bis auf Weiteres. \n#HVV"
+    "payload": "338 \nUmleitung wegen Straßenglätte. Hastellen Fährtreppe, Elbschiffahrtsmuseum, Neustadt u. Grünstraße entfallen bis auf Weiteres. \n#HVV",
+    "id": "795943574563131400"
   },
   "795944951112695800": {
     "score": "=2",
-    "payload": "S3, RE5 Update\nDie Sperrun zw. Neugraben &lt;&gt; Buxtehude wurde aufgehoben. Die Züge fahren teilweise mit Verspätung, aber durchgehend.\n#HVV"
+    "payload": "S3, RE5 Update\nDie Sperrun zw. Neugraben &lt;&gt; Buxtehude wurde aufgehoben. Die Züge fahren teilweise mit Verspätung, aber durchgehend.\n#HVV",
+    "id": "795944951112695800"
   },
   "795946521275539500": {
     "score": "=-2",
-    "payload": "U1, U3\nWitterungsbedingt kommt es derzeit in jeweils beide Richtungen zu Verspätungen zw. 5 &amp; 8 Min. Mehr Zeit bei Anschlüssen einplanen."
+    "payload": "U1, U3\nWitterungsbedingt kommt es derzeit in jeweils beide Richtungen zu Verspätungen zw. 5 &amp; 8 Min. Mehr Zeit bei Anschlüssen einplanen.",
+    "id": "795946521275539500"
   },
   "795952940745945100": {
     "score": "=-2",
-    "payload": "U2\nErsatzverkehr mit Taxen und Bussen zw. Billstedt und Mümmelmannsberg. Grund: Feueralarm. \n#hvv"
+    "payload": "U2\nErsatzverkehr mit Taxen und Bussen zw. Billstedt und Mümmelmannsberg. Grund: Feueralarm. \n#hvv",
+    "id": "795952940745945100"
   },
   "795954811858456600": {
     "score": "=1",
-    "payload": "U1, U3 Update\nDie Verspätungen gehen deutlich zurück und die meisten Züge auf beiden Li. verkehren wieder planmäßig.\n#HVV"
+    "payload": "U1, U3 Update\nDie Verspätungen gehen deutlich zurück und die meisten Züge auf beiden Li. verkehren wieder planmäßig.\n#HVV",
+    "id": "795954811858456600"
   },
   "795956015216947200": {
     "score": "=-1",
-    "payload": "186\nDie Haltestellen Moorweg, Jahnstraße, Siedlung, Kreuzweg und Gorch-Fock-Str. können in beiden Richtungen nicht bedient werden.\n#HVV"
+    "payload": "186\nDie Haltestellen Moorweg, Jahnstraße, Siedlung, Kreuzweg und Gorch-Fock-Str. können in beiden Richtungen nicht bedient werden.\n#HVV",
+    "id": "795956015216947200"
   },
   "795957287538065400": {
     "score": "=-1",
-    "payload": "RE3\nWeiterhin Streckensperrung Uelzen&lt;&gt;Bad Bevensen\nRB32\nWeiterhin Streckensperrung Lüneburg&lt;&gt;Dannenberg. Ersatzverkehr läuft.\n#HVV"
+    "payload": "RE3\nWeiterhin Streckensperrung Uelzen&lt;&gt;Bad Bevensen\nRB32\nWeiterhin Streckensperrung Lüneburg&lt;&gt;Dannenberg. Ersatzverkehr läuft.\n#HVV",
+    "id": "795957287538065400"
   },
   "795957319750139900": {
     "score": "=2",
-    "payload": "RT @vhhbus: #vhh186 Die Friedrich-Ebert-Allee ist wieder frei. Die Haltestellen können wieder bedient werden. #HVV"
+    "payload": "RT @vhhbus: #vhh186 Die Friedrich-Ebert-Allee ist wieder frei. Die Haltestellen können wieder bedient werden. #HVV",
+    "id": "795957319750139900"
   },
   "795958398185603100": {
     "score": "=-2",
-    "payload": "RE83\nZw. Lauenburg&lt;&gt;Lüneburg verkehren derzeit nur Busse als Ersatz durch umgestürzte Bäume. Reststrecke bis zu 40 Min. verspätet.\n#HVV"
+    "payload": "RE83\nZw. Lauenburg&lt;&gt;Lüneburg verkehren derzeit nur Busse als Ersatz durch umgestürzte Bäume. Reststrecke bis zu 40 Min. verspätet.\n#HVV",
+    "id": "795958398185603100"
   },
   "795964226472972300": {
     "score": "=2",
-    "payload": "RT @hochbahn: #U2: Wir fahren auch wieder zw. #Billstedt und #Mümmelmannsberg. Gute Fahrt! #hvv"
+    "payload": "RT @hochbahn: #U2: Wir fahren auch wieder zw. #Billstedt und #Mümmelmannsberg. Gute Fahrt! #hvv",
+    "id": "795964226472972300"
   },
   "795980488066338800": {
     "score": "=-2",
-    "payload": "@0_fpmic_0 Der verkehrt zurzeit mit bis zu 40 Minuten Verspätung durch Stau."
+    "payload": "@0_fpmic_0 Der verkehrt zurzeit mit bis zu 40 Minuten Verspätung durch Stau.",
+    "id": "795980488066338800"
   },
   "795989427634012200": {
     "score": "=-2",
-    "payload": "RE83 Update\nVerkehr zw. Lüneburg&lt;&gt;Lübeck eingestellt &amp; durch Busse ersetzt.\nRB32\nWeiterhin Ersatzverkehr mit Bussen zw. Lüneburg&lt;&gt;Dannenberg"
+    "payload": "RE83 Update\nVerkehr zw. Lüneburg&lt;&gt;Lübeck eingestellt &amp; durch Busse ersetzt.\nRB32\nWeiterhin Ersatzverkehr mit Bussen zw. Lüneburg&lt;&gt;Dannenberg",
+    "id": "795989427634012200"
   },
   "795991422088388600": {
     "score": "=-1",
-    "payload": "RB41\n&gt;&gt;Bremen ab Hamburg Hbf 15:38h fällt witterungsbedingt aus\n&gt;&gt;Hamburg ab Buchholz 18:59h fällt ebenfalls aus.\n#HVV"
+    "payload": "RB41\n&gt;&gt;Bremen ab Hamburg Hbf 15:38h fällt witterungsbedingt aus\n&gt;&gt;Hamburg ab Buchholz 18:59h fällt ebenfalls aus.\n#HVV",
+    "id": "795991422088388600"
   },
   "795997976057487400": {
     "score": "=-1",
-    "payload": "RE3\n&gt;&gt;Uelzen ab Hamburg Hbf 15:57h beginnt heute aufgrund hoher witterungsbedingter Verspätung erst in Harburg um 16:07h."
+    "payload": "RE3\n&gt;&gt;Uelzen ab Hamburg Hbf 15:57h beginnt heute aufgrund hoher witterungsbedingter Verspätung erst in Harburg um 16:07h.",
+    "id": "795997976057487400"
   },
   "795998554967969800": {
     "score": "=-1",
-    "payload": "S2 Ausfälle\n&gt;&gt;Bergedorf ab Altona 15:37h, ab Hbf 15:50h &amp;\n&gt;&gt;Altona ab Bergedorf 16 Uhr &amp; 16:20 Uhr fallen betriebsbedingt aus.\n#HVV"
+    "payload": "S2 Ausfälle\n&gt;&gt;Bergedorf ab Altona 15:37h, ab Hbf 15:50h &amp;\n&gt;&gt;Altona ab Bergedorf 16 Uhr &amp; 16:20 Uhr fallen betriebsbedingt aus.\n#HVV",
+    "id": "795998554967969800"
   },
   "796014454588801000": {
     "score": "=2",
-    "payload": "RT @vhhbus: #vhh338 Busse fahren ab sofort wieder den normalen Linienweg #HVV"
+    "payload": "RT @vhhbus: #vhh338 Busse fahren ab sofort wieder den normalen Linienweg #HVV",
+    "id": "796014454588801000"
   },
   "796014749255340000": {
     "score": "=-2",
-    "payload": "RT @metronom4me: Wegen einer Streckensperrung zwischen Uelzen  und Bad Bevensen werden heute keine Züge zwischen Lüneburg und Uelzen fahren."
+    "payload": "RT @metronom4me: Wegen einer Streckensperrung zwischen Uelzen  und Bad Bevensen werden heute keine Züge zwischen Lüneburg und Uelzen fahren.",
+    "id": "796014749255340000"
   },
   "796020923946176500": {
     "score": "=-2",
-    "payload": "RT @th_schulze: @HVVStoerungen U1 Hbf =&gt; Volksdorf Signalstörung. Dadurch Verspätung bis zu 10 Min."
+    "payload": "RT @th_schulze: @HVVStoerungen U1 Hbf =&gt; Volksdorf Signalstörung. Dadurch Verspätung bis zu 10 Min.",
+    "id": "796020923946176500"
   },
   "796021619672121300": {
     "score": "=-1",
-    "payload": "RE5\n&gt;&gt; Stade ab Hamburg Hbf 17:39h entfällt heute witterungsbedingt.\n\n#hvv"
+    "payload": "RE5\n&gt;&gt; Stade ab Hamburg Hbf 17:39h entfällt heute witterungsbedingt.\n\n#hvv",
+    "id": "796021619672121300"
   },
   "796039728889991200": {
     "score": "=-2",
-    "payload": "S3 + S31 \nhalten momentan nicht in Neuwiedenthal. Ersatzverkehr mit Bussen zw. Neugraben &lt;&gt; Neuwiedenthal angefordert.\n #hvv"
+    "payload": "S3 + S31 \nhalten momentan nicht in Neuwiedenthal. Ersatzverkehr mit Bussen zw. Neugraben &lt;&gt; Neuwiedenthal angefordert.\n #hvv",
+    "id": "796039728889991200"
   },
   "796050421919924200": {
     "score": "=-1",
-    "payload": "143, 443\nAm Mi., den 9.11., zw. 7 &amp; 15 Uhr ist die Hst. Lichtenauerweg in Ri. Harburg ersatzlos aufgehoben. Grund: Bauarbeiten.\n#HVV"
+    "payload": "143, 443\nAm Mi., den 9.11., zw. 7 &amp; 15 Uhr ist die Hst. Lichtenauerweg in Ri. Harburg ersatzlos aufgehoben. Grund: Bauarbeiten.\n#HVV",
+    "id": "796050421919924200"
   },
   "796077046162137100": {
     "score": "=1",
-    "payload": "RT @SBahnHamburg: #S3 + #S31 halten wieder in Neuwiedenthal. Ersatzverkehr mit Bussen zw. Neugraben &lt;&gt; Neuwiedenthal läuft aus. #hvv #sbahn…"
+    "payload": "RT @SBahnHamburg: #S3 + #S31 halten wieder in Neuwiedenthal. Ersatzverkehr mit Bussen zw. Neugraben &lt;&gt; Neuwiedenthal läuft aus. #hvv #sbahn…",
+    "id": "796077046162137100"
   },
   "796077203276632000": {
     "score": "=-1",
-    "payload": "RT @metronom4me: metronom Strecke Uelzen-Lüneburg gesperrt\nhttps://t.co/cuYcyzwW2e"
+    "payload": "RT @metronom4me: metronom Strecke Uelzen-Lüneburg gesperrt\nhttps://t.co/cuYcyzwW2e",
+    "id": "796077203276632000"
   },
   "796091278693990400": {
     "score": "=-1",
-    "payload": "U1\n&gt;&gt;Großhansdorf ab Jungfernstieg 21:43h, ab Hbf Süd 21:48h ca. 12 Min. später. Nachfolgende Züge ca 5 Min. verspätet."
+    "payload": "U1\n&gt;&gt;Großhansdorf ab Jungfernstieg 21:43h, ab Hbf Süd 21:48h ca. 12 Min. später. Nachfolgende Züge ca 5 Min. verspätet.",
+    "id": "796091278693990400"
   },
   "796196887594434600": {
     "score": "=-2",
-    "payload": "Im Busverkehr der Kreise Lüneburg, Lauenburg &amp; Soltau kommt es heute zu erheblichen Beeinträchtigungen &amp; witterungsbedingten Ausfällen.\n#HVV"
+    "payload": "Im Busverkehr der Kreise Lüneburg, Lauenburg &amp; Soltau kommt es heute zu erheblichen Beeinträchtigungen &amp; witterungsbedingten Ausfällen.\n#HVV",
+    "id": "796196887594434600"
   },
   "796228950318075900": {
     "score": "=-1",
-    "payload": "RT @metronom4me: update 05:30: Strecke Uelzen-Lüneburg weiterhin gesperrt\nSperrung bis mindestens 10:30 Uhr\n\nhttps://t.co/cuYcyzwW2e"
+    "payload": "RT @metronom4me: update 05:30: Strecke Uelzen-Lüneburg weiterhin gesperrt\nSperrung bis mindestens 10:30 Uhr\n\nhttps://t.co/cuYcyzwW2e",
+    "id": "796228950318075900"
   },
   "796231943797047300": {
     "score": "=-2",
-    "payload": "RE3 RB31\nDurch Streckensperrung Uelzen&lt;&gt;Lüneburg unregelmäßiger Betrieb zw Lüneburg&lt;&gt;Hamburg.\nRE4 RB41\nZw. 10 &amp; 20 Min. Verspätung möglich."
+    "payload": "RE3 RB31\nDurch Streckensperrung Uelzen&lt;&gt;Lüneburg unregelmäßiger Betrieb zw Lüneburg&lt;&gt;Hamburg.\nRE4 RB41\nZw. 10 &amp; 20 Min. Verspätung möglich.",
+    "id": "796231943797047300"
   },
   "796234012218052600": {
     "score": "=-1",
-    "payload": "U1\n&gt;&gt;Volksdorf ab Kellinghusenstr. 7:11h, ab Hbf Süd 7:23h fällt aufgrund einer Betriebsstörung aus.\n#HVV"
+    "payload": "U1\n&gt;&gt;Volksdorf ab Kellinghusenstr. 7:11h, ab Hbf Süd 7:23h fällt aufgrund einer Betriebsstörung aus.\n#HVV",
+    "id": "796234012218052600"
   },
   "796234638494666800": {
     "score": "=-2",
-    "payload": "S1, S2, S3\nDurch eine schadhafte S2 in Ri Bergedorf kommt es ab Altona zu Verspätungen zw. 5-10 Min. In Ri Hbf.\n#HVV"
+    "payload": "S1, S2, S3\nDurch eine schadhafte S2 in Ri Bergedorf kommt es ab Altona zu Verspätungen zw. 5-10 Min. In Ri Hbf.\n#HVV",
+    "id": "796234638494666800"
   },
   "796238071327027200": {
     "score": "=1",
-    "payload": "RE83 Update\nDer Zugverkehr zw. Lübeck/Büchen&lt;&gt;Lüneburg wurde wieder aufgenommen. Jedoch verkehren die Züge noch stark unregelmäßig.\n#HVV"
+    "payload": "RE83 Update\nDer Zugverkehr zw. Lübeck/Büchen&lt;&gt;Lüneburg wurde wieder aufgenommen. Jedoch verkehren die Züge noch stark unregelmäßig.\n#HVV",
+    "id": "796238071327027200"
   },
   "796242867157135400": {
     "score": "=-2",
-    "payload": "S21, S2\nIn Ri. Elbgaustr. / Altona 5-10 Min. verspätete Züge durch einen schadhaften Zug.\n#HVV"
+    "payload": "S21, S2\nIn Ri. Elbgaustr. / Altona 5-10 Min. verspätete Züge durch einen schadhaften Zug.\n#HVV",
+    "id": "796242867157135400"
   },
   "796245654959951900": {
     "score": "=-2",
-    "payload": "195, 295\nWegen Baustelle und Stau in Rellingen, Verspätungen bis 20 Minuten\n#HVV"
+    "payload": "195, 295\nWegen Baustelle und Stau in Rellingen, Verspätungen bis 20 Minuten\n#HVV",
+    "id": "796245654959951900"
   },
   "796246134364733400": {
     "score": "=-2",
-    "payload": "237, 337, 437\nVerspätung von bis zu 30 Minuten wegen Ampelausfalls in Siek.\n #HVV"
+    "payload": "237, 337, 437\nVerspätung von bis zu 30 Minuten wegen Ampelausfalls in Siek.\n #HVV",
+    "id": "796246134364733400"
   },
   "796247448784093200": {
     "score": "=-1",
-    "payload": "Li. 2\nIn Ri Schenefeld können die Haltestellen Eckhoffplatz, Flurstr. (Nord), Luckmoor und Engelbrechtweg nicht bedient werden.\n#HVV"
+    "payload": "Li. 2\nIn Ri Schenefeld können die Haltestellen Eckhoffplatz, Flurstr. (Nord), Luckmoor und Engelbrechtweg nicht bedient werden.\n#HVV",
+    "id": "796247448784093200"
   },
   "796250039689609200": {
     "score": "=-1",
-    "payload": "124\nVerkehrsbedingt derzeit Verspätung von bis zu 20 Minuten\n#HVV"
+    "payload": "124\nVerkehrsbedingt derzeit Verspätung von bis zu 20 Minuten\n#HVV",
+    "id": "796250039689609200"
   },
   "796251932784369700": {
     "score": "=-1",
-    "payload": "RT @vhhbus: #vhhbus Wetterbedingt derzeit Verspätungslage von ca. 20 Minuten im westlichen Bedienungsgebiet. #HVV"
+    "payload": "RT @vhhbus: #vhhbus Wetterbedingt derzeit Verspätungslage von ca. 20 Minuten im westlichen Bedienungsgebiet. #HVV",
+    "id": "796251932784369700"
   },
   "796255280988307500": {
     "score": "=-2",
-    "payload": "Busverkehr in Harburg, Meckelfeld, Fleestedt sowie im gesamten Hamburger Süden derzeit unregelmäßig durch die Witterung &amp; Folgeverspätungen."
+    "payload": "Busverkehr in Harburg, Meckelfeld, Fleestedt sowie im gesamten Hamburger Süden derzeit unregelmäßig durch die Witterung &amp; Folgeverspätungen.",
+    "id": "796255280988307500"
   },
   "796262914319585300": {
     "score": "=-2",
-    "payload": "RT @vhhbus: #vhh223 Fahrt 08:24 Uhr ab Howe verspätet sich wegen glatter Straßenverhältnisse #HVV"
+    "payload": "RT @vhhbus: #vhh223 Fahrt 08:24 Uhr ab Howe verspätet sich wegen glatter Straßenverhältnisse #HVV",
+    "id": "796262914319585300"
   },
   "796264537548668900": {
     "score": "=-1",
-    "payload": "RT @maofdes: @HVVStoerungen 135 und 332 Störungen und Ausfälle wegen Unfall und nicht geräumten \"Seitenstraßen\""
+    "payload": "RT @maofdes: @HVVStoerungen 135 und 332 Störungen und Ausfälle wegen Unfall und nicht geräumten \"Seitenstraßen\"",
+    "id": "796264537548668900"
   },
   "796266490160889900": {
     "score": "=-2",
-    "payload": "Busverkehr\n Im Osten Hamburgs wegen stellenweise extremer Straßenglätte Verspätungen von bis zu 30 Minuten.\n#HVV"
+    "payload": "Busverkehr\n Im Osten Hamburgs wegen stellenweise extremer Straßenglätte Verspätungen von bis zu 30 Minuten.\n#HVV",
+    "id": "796266490160889900"
   },
   "796271378412503000": {
     "score": "=-2",
-    "payload": "228 \nUmleitung wegen Sperrung Elbdeich. Haltestellen Zeltplatz Altengamme bis Elbwiesen können derzeit nicht bedient werden #HVV"
+    "payload": "228 \nUmleitung wegen Sperrung Elbdeich. Haltestellen Zeltplatz Altengamme bis Elbwiesen können derzeit nicht bedient werden #HVV",
+    "id": "796271378412503000"
   },
   "796271765341077500": {
     "score": "=-1",
-    "payload": "RT @vhhbus: #vhh234 Sperrung Höhe Fockenweide. Busse können nicht durch den Friedrich-Frank-Bogen fahren. #HVV"
+    "payload": "RT @vhhbus: #vhh234 Sperrung Höhe Fockenweide. Busse können nicht durch den Friedrich-Frank-Bogen fahren. #HVV",
+    "id": "796271765341077500"
   },
   "796273288876060700": {
     "score": "=-1",
-    "payload": "378\nStraßensperrung. Derzeit keine Bedienung der Haltestellen Bützberg, Gut Wulksfelde, Wragekamp, Lohe u. Mesterbrooksweg.\n#HVV"
+    "payload": "378\nStraßensperrung. Derzeit keine Bedienung der Haltestellen Bützberg, Gut Wulksfelde, Wragekamp, Lohe u. Mesterbrooksweg.\n#HVV",
+    "id": "796273288876060700"
   },
   "796273633798791200": {
     "score": "=-1",
-    "payload": "RT @vhhbus: #vhh234 Umleitung über Ladenbeker Furtweg. Haltestellen Friedrich-Frank-Bogen Mitte und Nord sowie Fockenweide können nicht bed…"
+    "payload": "RT @vhhbus: #vhh234 Umleitung über Ladenbeker Furtweg. Haltestellen Friedrich-Frank-Bogen Mitte und Nord sowie Fockenweide können nicht bed…",
+    "id": "796273633798791200"
   },
   "796273904973189100": {
     "score": "=-1",
-    "payload": "RT @metronom4me: update 09:30 Uhr:\nStrecke Uelzen-Lüneburg weiterhin gesperrt, voraussichtlich auch über 10:30 hinaus\nhttps://t.co/cuYcyzwW…"
+    "payload": "RT @metronom4me: update 09:30 Uhr:\nStrecke Uelzen-Lüneburg weiterhin gesperrt, voraussichtlich auch über 10:30 hinaus\nhttps://t.co/cuYcyzwW…",
+    "id": "796273904973189100"
   },
   "796276626451480600": {
     "score": "=-3",
-    "payload": "RT @vhhbus: #vhhbus Wetter- und Verkehrsbedingt kommt auf vielen Linien weiterhin zu extremen Verspätungen. Fahrtausfälle sind möglich. #HVV"
+    "payload": "RT @vhhbus: #vhhbus Wetter- und Verkehrsbedingt kommt auf vielen Linien weiterhin zu extremen Verspätungen. Fahrtausfälle sind möglich. #HVV",
+    "id": "796276626451480600"
   },
   "796277291592450000": {
     "score": "=2",
-    "payload": "RT @vhhbus: #vhh228 Sperrung wurde aufgehoben. Im Bereich Altengamme wieder normaler Linienweg. #HVV"
+    "payload": "RT @vhhbus: #vhh228 Sperrung wurde aufgehoben. Im Bereich Altengamme wieder normaler Linienweg. #HVV",
+    "id": "796277291592450000"
   },
   "796277819420659700": {
     "score": "=-3",
-    "payload": "Li. 120, 124\nDerzeit mind. 60 Min. verspätet &amp; Taktlücken möglich. Unregelmäßiger Betrieb durch Straßenglätte.\n#HVV"
+    "payload": "Li. 120, 124\nDerzeit mind. 60 Min. verspätet &amp; Taktlücken möglich. Unregelmäßiger Betrieb durch Straßenglätte.\n#HVV",
+    "id": "796277819420659700"
   },
   "796279972826673200": {
     "score": "=-2",
-    "payload": "RT @vhhbus: #vhh221 #vhh234 Unfall + Glätte: Beidseitig Umleitung über Ladenbeker Furtweg. Hast. im Fr.-Frank-Bogen können nicht bedient we…"
+    "payload": "RT @vhhbus: #vhh221 #vhh234 Unfall + Glätte: Beidseitig Umleitung über Ladenbeker Furtweg. Hast. im Fr.-Frank-Bogen können nicht bedient we…",
+    "id": "796279972826673200"
   },
   "796285005127413800": {
     "score": "=-1",
-    "payload": "RT @wacker_tobias: @HVVStoerungen Busse in und um #Lüneburg sind allen Linien zur Zeit noxh mit großer #Verspätung unterwegs."
+    "payload": "RT @wacker_tobias: @HVVStoerungen Busse in und um #Lüneburg sind allen Linien zur Zeit noxh mit großer #Verspätung unterwegs.",
+    "id": "796285005127413800"
   },
   "796289485004795900": {
     "score": "=2",
-    "payload": "RT @vhhbus: #vhh221 #vhh234 Busse fahren ab sofort wieder den normalen Linienweg durch den Friedrich-Frank-Bogen #HVV"
+    "payload": "RT @vhhbus: #vhh221 #vhh234 Busse fahren ab sofort wieder den normalen Linienweg durch den Friedrich-Frank-Bogen #HVV",
+    "id": "796289485004795900"
   },
   "796317872649867300": {
     "score": "=-1",
-    "payload": "Busverkehr Kr. Lüneburg\nWitterungsbedingt kommt es immer noch zu gr. Verspätungen. Die KVG rät deshalb, eine Verbindung früher zu nehmen."
+    "payload": "Busverkehr Kr. Lüneburg\nWitterungsbedingt kommt es immer noch zu gr. Verspätungen. Die KVG rät deshalb, eine Verbindung früher zu nehmen.",
+    "id": "796317872649867300"
   },
   "796318984018788400": {
     "score": "=-2",
-    "payload": "Li. 120, 124 Update\nDie Betriebslage auf beiden Linien beruhigt sich gerade wieder. Zur Späthauptverkehrszeit kann es zu Verspätungen kommen"
+    "payload": "Li. 120, 124 Update\nDie Betriebslage auf beiden Linien beruhigt sich gerade wieder. Zur Späthauptverkehrszeit kann es zu Verspätungen kommen",
+    "id": "796318984018788400"
   },
   "796331934284742700": {
     "score": "=-1",
-    "payload": "RE1 RE83\nAufgrundwitterungsbedingter &amp; techn  Störungen derzeit zw Büchen&lt;&gt;Hamburg / Lüneburgbis zu 35 Min verspätete Züge.\n#hvv"
+    "payload": "RE1 RE83\nAufgrundwitterungsbedingter &amp; techn  Störungen derzeit zw Büchen&lt;&gt;Hamburg / Lüneburgbis zu 35 Min verspätete Züge.\n#hvv",
+    "id": "796331934284742700"
   },
   "796337975756001300": {
     "score": "=-3",
-    "payload": "RT @vhhbus: #vhh31 #vhh8800 Wegen Sperrung B5 Höhe Schnakenbek fahren die Busse derzeit Umleitung. Mit Verspätungen ist zu rechnen #HVV"
+    "payload": "RT @vhhbus: #vhh31 #vhh8800 Wegen Sperrung B5 Höhe Schnakenbek fahren die Busse derzeit Umleitung. Mit Verspätungen ist zu rechnen #HVV",
+    "id": "796337975756001300"
   },
   "796346668308463600": {
     "score": "=1",
-    "payload": "RT @vhhbus: #vhh8800 #vhh31 Die Sperrung in Schnakenbek ist aufgehoben. #HVV"
+    "payload": "RT @vhhbus: #vhh8800 #vhh31 Die Sperrung in Schnakenbek ist aufgehoben. #HVV",
+    "id": "796346668308463600"
   },
   "796346804438700000": {
     "score": "=-2",
-    "payload": "8800\nSperrung zwischen Geesthacht, Freibad und Pumpspeicherwerk. Beidseitige Umleitung über B5 und Krümmel, Langer Hals.\n#HVV"
+    "payload": "8800\nSperrung zwischen Geesthacht, Freibad und Pumpspeicherwerk. Beidseitige Umleitung über B5 und Krümmel, Langer Hals.\n#HVV",
+    "id": "796346804438700000"
   },
   "796349273889706000": {
     "score": "=1",
-    "payload": "RE1, RE83 Update\nDie Züge zw. Büchen &lt;&gt; Hamburg / Lüneburg verkehren wieder planmäßig.\n#HVV"
+    "payload": "RE1, RE83 Update\nDie Züge zw. Büchen &lt;&gt; Hamburg / Lüneburg verkehren wieder planmäßig.\n#HVV",
+    "id": "796349273889706000"
   },
   "796351119278673900": {
     "score": "=-2",
-    "payload": "U1\n&gt;&gt;Norderstedt ab Kellinghusenstr. 14:57h, ab Ohlsdorf 15:06h ca. 9 Min. später aufgrund einer witterungsbedingten Störung.\n#HVV"
+    "payload": "U1\n&gt;&gt;Norderstedt ab Kellinghusenstr. 14:57h, ab Ohlsdorf 15:06h ca. 9 Min. später aufgrund einer witterungsbedingten Störung.\n#HVV",
+    "id": "796351119278673900"
   },
   "796355507749617700": {
     "score": "=-2",
-    "payload": "U1\nAb Wandsbek-Markt in Ri Norderstedt derzeit 5-10 Min. verspätete Züge aufgrund einer techn. Störung.\n#HVV"
+    "payload": "U1\nAb Wandsbek-Markt in Ri Norderstedt derzeit 5-10 Min. verspätete Züge aufgrund einer techn. Störung.\n#HVV",
+    "id": "796355507749617700"
   },
   "796357932111818800": {
     "score": "=-2",
-    "payload": "RE7 RE70 RB71\nWg einer Bahnübergangsstörung zw. Elmshorn&lt;&gt;Wrist kommt es im Zugverkehr zu Verspätungen von bis zu 30 Min.\n#HVV"
+    "payload": "RE7 RE70 RB71\nWg einer Bahnübergangsstörung zw. Elmshorn&lt;&gt;Wrist kommt es im Zugverkehr zu Verspätungen von bis zu 30 Min.\n#HVV",
+    "id": "796357932111818800"
   },
   "796358433134014500": {
     "score": "=-2",
-    "payload": "S3\nWegen einer Signalstörung zw. Neugraben &amp; Wilhelmsburg kommt es in beiden Ri. zu Verspätungen von ca. 5-10 Min.\n#HVV"
+    "payload": "S3\nWegen einer Signalstörung zw. Neugraben &amp; Wilhelmsburg kommt es in beiden Ri. zu Verspätungen von ca. 5-10 Min.\n#HVV",
+    "id": "796358433134014500"
   },
   "796359000669515800": {
     "score": "=-2",
-    "payload": "S1\n&gt;&gt;Wedel ab Altona 15:32h ca. 10 Min. später\nS11\n&gt;&gt;Poppenbüttel ab Blankenese 15:43h fällt wg techn. Störungen bis Altona aus.\n#HVV"
+    "payload": "S1\n&gt;&gt;Wedel ab Altona 15:32h ca. 10 Min. später\nS11\n&gt;&gt;Poppenbüttel ab Blankenese 15:43h fällt wg techn. Störungen bis Altona aus.\n#HVV",
+    "id": "796359000669515800"
   },
   "796359075365843000": {
     "score": "=-2",
-    "payload": "RT @metronom4me: Wegen Fahrzeugmangels infolge Streckensperrung entfällt 81961 von Hamburg nach Tostedt, Abfahrt 15:20 Uhr"
+    "payload": "RT @metronom4me: Wegen Fahrzeugmangels infolge Streckensperrung entfällt 81961 von Hamburg nach Tostedt, Abfahrt 15:20 Uhr",
+    "id": "796359075365843000"
   },
   "796360546832490500": {
     "score": "=-2",
-    "payload": "RE7,70 RB71 Update\nDerzeit keine Verspätungen durch die Bahnübergangsstörung zw. Elmshorn&lt;&gt;Wrist.\nDie Streckenmeldung besteht aber noch."
+    "payload": "RE7,70 RB71 Update\nDerzeit keine Verspätungen durch die Bahnübergangsstörung zw. Elmshorn&lt;&gt;Wrist.\nDie Streckenmeldung besteht aber noch.",
+    "id": "796360546832490500"
   },
   "796362941427748900": {
-    "score": "undefined",
-    "payload": "135\nStraßensperrung, Umleitung: Die Hst. J.-Brinckm.-Str., A.-Bebel-Str., Bethesda Krkhs., Wentorfer Str. u. Pfingstberg entfallen.\n#HVV"
+    "score": "=-2",
+    "payload": "135\nStraßensperrung, Umleitung: Die Hst. J.-Brinckm.-Str., A.-Bebel-Str., Bethesda Krkhs., Wentorfer Str. u. Pfingstberg entfallen.\n#HVV",
+    "id": "796362941427748900"
   },
   "796363306600542200": {
-    "score": "undefined",
-    "payload": "RT @vhhbus: #vhh135 Sperrung ist aufgehoben, wieder normaler Linienweg #HVV"
+    "score": "=2",
+    "payload": "RT @vhhbus: #vhh135 Sperrung ist aufgehoben, wieder normaler Linienweg #HVV",
+    "id": "796363306600542200"
   },
   "796363718674088000": {
-    "score": "undefined",
-    "payload": "U1 Update\nIn Ri Norderstedt wieder planmäßiger Zugverkehr. In Ri Ohlstedt vereinzelt noch Folgeverspätungen möglich.\n#HVV"
+    "score": "=0",
+    "payload": "U1 Update\nIn Ri Norderstedt wieder planmäßiger Zugverkehr. In Ri Ohlstedt vereinzelt noch Folgeverspätungen möglich.\n#HVV",
+    "id": "796363718674088000"
   },
   "796364219163770900": {
     "score": "undefined",
-    "payload": "RT @vhhbus: #vhh8800 #vhh31 Dafür erneut: Wegen Sperrung B5 Höhe Schnakenbek fahren die Busse derzeit Umleitung. Mit Verspätungen ist zu re…"
+    "payload": "RT @vhhbus: #vhh8800 #vhh31 Dafür erneut: Wegen Sperrung B5 Höhe Schnakenbek fahren die Busse derzeit Umleitung. Mit Verspätungen ist zu re…",
+    "id": "796364219163770900",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "Umleitung",
+          "Wegen Sperrung"
+        ],
+        "neutral": []
+      },
+      "score": -2,
+      "comparative": -0.1,
+      "tokens": [
+        "rt",
+        "vhhbus",
+        "vhh8800",
+        "vhh31",
+        "dafür",
+        "erneut",
+        "replace",
+        "b5",
+        "höhe",
+        "schnakenbek",
+        "fahren",
+        "die",
+        "busse",
+        "derzeit",
+        "replace",
+        "mit",
+        "verspätungen",
+        "ist",
+        "zu",
+        "re"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @vhhbus: #vhh8800 #vhh31 Dafür erneut: \u001b[44mWegen Sperrung\u001b[49m\u001b[33m(-1)\u001b[39m B5 Höhe Schnakenbek fahren die Busse derzeit \u001b[44mUmleitung\u001b[49m\u001b[33m(-1)\u001b[39m. Mit Verspätungen ist zu re… \u001b[31m(-2)\u001b[39m"
+    }
   },
   "796365170314477600": {
     "score": "undefined",
-    "payload": "S11\n&gt;&gt;Poppenbüttel ab Blankenese 15:53h entfällt\nS1\n&gt;&gt;Airport/Poppenbüttel ab Wedel 16:03h entfällt bis Blankenese.\n#HVV"
+    "payload": "S11 >>Poppenbüttel ab Blankenese 15:53h entfällt S1 >>Airport/Poppenbüttel ab Wedel 16:03h entfällt bis Blankenese. #HVV",
+    "id": "796365170314477600",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "entfällt"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.06666666666666667,
+      "tokens": [
+        "s11",
+        "poppenbüttel",
+        "ab",
+        "blankenese",
+        "1553h",
+        "replace",
+        "s1",
+        "airportpoppenbüttel",
+        "ab",
+        "wedel",
+        "1603h",
+        "replace",
+        "bis",
+        "blankenese",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S11 >>Poppenbüttel ab Blankenese 15:53h \u001b[44mentfällt\u001b[49m\u001b[33m(-1)\u001b[39m S1 >>Airport/Poppenbüttel ab Wedel 16:03h \u001b[44mentfällt\u001b[49m\u001b[33m(-1)\u001b[39m bis Blankenese. #HVV \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796365460807643100": {
     "score": "undefined",
-    "payload": "RT @erixxinfo: Wegen Streckensperrung (umgestürzte Bäume) zwischen Lüneburg und Dannenberg fallen für heute zusätzlich 83096 - 83099 aus.\nE…"
+    "payload": "RT @erixxinfo: Wegen Streckensperrung (umgestürzte Bäume) zwischen Lüneburg und Dannenberg fallen für heute zusätzlich 83096 - 83099 aus. E…",
+    "id": "796365460807643100",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          " Streckensperrung"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.05555555555555555,
+      "tokens": [
+        "rt",
+        "erixxinfo",
+        "wegenreplace",
+        "umgestürzte",
+        "bäume",
+        "zwischen",
+        "lüneburg",
+        "und",
+        "dannenberg",
+        "fallen",
+        "für",
+        "heute",
+        "zusätzlich",
+        "83096",
+        "-",
+        "83099",
+        "aus",
+        "e"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @erixxinfo: Wegen\u001b[44m Streckensperrung\u001b[49m\u001b[33m(-1)\u001b[39m (umgestürzte Bäume) zwischen Lüneburg und Dannenberg fallen für heute zusätzlich 83096 - 83099 aus. E… \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796365618635227100": {
     "score": "undefined",
-    "payload": "RB32\nAuch heute fallen alle Züge zw. Lüneburg &lt;&gt; Danneberg Ost wg Streckenschäden aus. Busse verkehren als Ersatz.\n#HVV"
+    "payload": "RB32 Auch heute fallen alle Züge zw. Lüneburg <> Danneberg Ost wg Streckenschäden aus. Busse verkehren als Ersatz. #HVV",
+    "id": "796365618635227100",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "rb32",
+        "auch",
+        "heute",
+        "fallen",
+        "alle",
+        "züge",
+        "zw",
+        "lüneburg",
+        "",
+        "danneberg",
+        "ost",
+        "wg",
+        "streckenschäden",
+        "aus",
+        "busse",
+        "verkehren",
+        "als",
+        "ersatz",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RB32 Auch heute fallen alle Züge zw. Lüneburg <> Danneberg Ost wg Streckenschäden aus. Busse verkehren als Ersatz. #HVV \u001b[33m(0)\u001b[39m"
+    }
   },
   "796367493287858200": {
     "score": "undefined",
-    "payload": "RE3 RB31 RE4 RB41\nAufgrund der Streckensperrung bei Uelzen kommt es zw. Hamburg&lt;&gt;Lüneburg/Bremen zu Verspätungen &amp; Zugausfällen."
+    "payload": "RE3 RB31 RE4 RB41 Aufgrund der Streckensperrung bei Uelzen kommt es zw. Hamburg<>Lüneburg/Bremen zu Verspätungen & Zugausfällen.",
+    "id": "796367493287858200",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          " Streckensperrung"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.0625,
+      "tokens": [
+        "re3",
+        "rb31",
+        "re4",
+        "rb41",
+        "aufgrund",
+        "derreplace",
+        "bei",
+        "uelzen",
+        "kommt",
+        "es",
+        "zw",
+        "hamburglüneburgbremen",
+        "zu",
+        "verspätungen",
+        "",
+        "zugausfällen"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RE3 RB31 RE4 RB41 Aufgrund der\u001b[44m Streckensperrung\u001b[49m\u001b[33m(-1)\u001b[39m bei Uelzen kommt es zw. Hamburg<>Lüneburg/Bremen zu Verspätungen & Zugausfällen. \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796374204845326300": {
     "score": "undefined",
-    "payload": "RT @hochbahn: #U1: Von Freitag, 11.11., 21.30 Uhr, bis Sonntag, 13.11., Betriebsende, fahren zw. #Ochsenzoll &amp; #NorderstedtMitte Busse stat…"
+    "payload": "RT @hochbahn: #U1: Von Freitag, 11.11., 21.30 Uhr, bis Sonntag, 13.11., Betriebsende, fahren zw. #Ochsenzoll & #NorderstedtMitte Busse stat…",
+    "id": "796374204845326300",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "rt",
+        "hochbahn",
+        "u1",
+        "von",
+        "freitag",
+        "1111",
+        "2130",
+        "uhr",
+        "bis",
+        "sonntag",
+        "1311",
+        "betriebsende",
+        "fahren",
+        "zw",
+        "ochsenzoll",
+        "",
+        "norderstedtmitte",
+        "busse",
+        "stat"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @hochbahn: #U1: Von Freitag, 11.11., 21.30 Uhr, bis Sonntag, 13.11., Betriebsende, fahren zw. #Ochsenzoll & #NorderstedtMitte Busse stat… \u001b[33m(0)\u001b[39m"
+    }
   },
   "796375937013190700": {
     "score": "undefined",
-    "payload": "S3\nBis 18:35 Uhr fällt die S3 mit Ziel Buxtehude zw. Neugraben &lt;&gt; Buxtehude in beiden Richtungen aus. Grund: Langsamfahrstellen \n#hvv"
+    "payload": "S3 Bis 18:35 Uhr fällt die S3 mit Ziel Buxtehude zw. Neugraben <> Buxtehude in beiden Richtungen aus. Grund: Langsamfahrstellen #hvv",
+    "id": "796375937013190700",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "Bis 18:35 Uhr fällt die",
+          "Grund: Langsamfahrstellen"
+        ],
+        "neutral": []
+      },
+      "score": -2,
+      "comparative": -0.125,
+      "tokens": [
+        "s3",
+        "replace",
+        "s3",
+        "mit",
+        "ziel",
+        "buxtehude",
+        "zw",
+        "neugraben",
+        "",
+        "buxtehude",
+        "in",
+        "beiden",
+        "richtungen",
+        "aus",
+        "replace",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S3 \u001b[44mBis 18:35 Uhr fällt die\u001b[49m\u001b[33m(-1)\u001b[39m S3 mit Ziel Buxtehude zw. Neugraben <> Buxtehude in beiden Richtungen aus. \u001b[44mGrund: Langsamfahrstellen\u001b[49m\u001b[33m(-1)\u001b[39m #hvv \u001b[31m(-2)\u001b[39m"
+    }
   },
   "796387973302341600": {
     "score": "undefined",
-    "payload": "S3 Update\nDie Züge mit dem Ziel/Start Stade verkehren durchgehend &amp; bis zu 10 Min verspätet.\nDer metronom ebenfalls bis zu 10 Min. verspätet"
+    "payload": "S3 Update Die Züge mit dem Ziel/Start Stade verkehren durchgehend & bis zu 10 Min verspätet. Der metronom ebenfalls bis zu 10 Min. verspätet",
+    "id": "796387973302341600",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "bis zu 10 Min verspätet"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.0625,
+      "tokens": [
+        "s3",
+        "update",
+        "die",
+        "züge",
+        "mit",
+        "dem",
+        "zielstart",
+        "stade",
+        "verkehren",
+        "durchgehend",
+        "",
+        "replace",
+        "der",
+        "metronom",
+        "ebenfalls",
+        "replace"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S3 Update Die Züge mit dem Ziel/Start Stade verkehren durchgehend & \u001b[44mbis zu 10 Min verspätet\u001b[49m\u001b[33m(-1)\u001b[39m. Der metronom ebenfalls \u001b[44mbis zu 10 Min verspätet\u001b[49m\u001b[33m(-1)\u001b[39m \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796417336815263700": {
     "score": "undefined",
-    "payload": "332\nAm Do. (10.11.) entfällt zw. 7 &amp; 18 Uhr die Hst. Friedhof Bergedorf, Kapelle 2. Die Fahrten beginnen/enden am Friedhof Bergedorf.\n#hvv"
+    "payload": "332 Am Do. (10.11.) entfällt zw. 7 & 18 Uhr die Hst. Friedhof Bergedorf, Kapelle 2. Die Fahrten beginnen/enden am Friedhof Bergedorf. #hvv",
+    "id": "796417336815263700",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "entfällt"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.043478260869565216,
+      "tokens": [
+        "332",
+        "am",
+        "do",
+        "1011",
+        "replace",
+        "zw",
+        "7",
+        "",
+        "18",
+        "uhr",
+        "die",
+        "hst",
+        "friedhof",
+        "bergedorf",
+        "kapelle",
+        "2",
+        "die",
+        "fahrten",
+        "beginnenenden",
+        "am",
+        "friedhof",
+        "bergedorf",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "332 Am Do. (10.11.) \u001b[44mentfällt\u001b[49m\u001b[33m(-1)\u001b[39m zw. 7 & 18 Uhr die Hst. Friedhof Bergedorf, Kapelle 2. Die Fahrten beginnen/enden am Friedhof Bergedorf. #hvv \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796425109682716700": {
     "score": "undefined",
-    "payload": "S3 RE5 Update\nWg techn. Störungen an  der Strecke können sich die Züge nach &amp; aus Stade noch um bis zu 10  Minuten verspäten. \n#HVV"
+    "payload": "S3 RE5 Update Wg techn. Störungen an der Strecke können sich die Züge nach & aus Stade noch um bis zu 10 Minuten verspäten. #HVV",
+    "id": "796425109682716700",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "bis zu 10 Minuten verspät",
+          "Wg techn. Störung"
+        ],
+        "neutral": []
+      },
+      "score": -2,
+      "comparative": -0.10526315789473684,
+      "tokens": [
+        "s3",
+        "re5",
+        "update",
+        "replaceen",
+        "an",
+        "der",
+        "strecke",
+        "können",
+        "sich",
+        "die",
+        "züge",
+        "nach",
+        "",
+        "aus",
+        "stade",
+        "noch",
+        "um",
+        "replaceen",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S3 RE5 Update \u001b[44mWg techn. Störung\u001b[49m\u001b[33m(-1)\u001b[39men an der Strecke können sich die Züge nach & aus Stade noch um \u001b[44mbis zu 10 Minuten verspät\u001b[49m\u001b[33m(-1)\u001b[39men. #HVV \u001b[31m(-2)\u001b[39m"
+    }
   },
   "796427378297864200": {
     "score": "undefined",
-    "payload": "31, 8800\nDie B5 ist bis zum 10.11.,17 Uhr zwischen Schnakenbek &amp; Grünhof gesperrt. Durch die Umleitung kann es zu Verspätungen kommen.\n#HVV"
+    "payload": "31, 8800 Die B5 ist bis zum 10.11.,17 Uhr zwischen Schnakenbek & Grünhof gesperrt. Durch die Umleitung kann es zu Verspätungen kommen. #HVV",
+    "id": "796427378297864200",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "Umleitung",
+          "kann es zu Verspätungen kommen"
+        ],
+        "neutral": []
+      },
+      "score": -2,
+      "comparative": -0.10526315789473684,
+      "tokens": [
+        "31",
+        "8800",
+        "die",
+        "b5",
+        "ist",
+        "bis",
+        "zum",
+        "101117",
+        "uhr",
+        "zwischen",
+        "schnakenbek",
+        "",
+        "grünhof",
+        "gesperrt",
+        "durch",
+        "die",
+        "replace",
+        "replace",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "31, 8800 Die B5 ist bis zum 10.11.,17 Uhr zwischen Schnakenbek & Grünhof gesperrt. Durch die \u001b[44mUmleitung\u001b[49m\u001b[33m(-1)\u001b[39m \u001b[44mkann es zu Verspätungen kommen\u001b[49m\u001b[33m(-1)\u001b[39m. #HVV \u001b[31m(-2)\u001b[39m"
+    }
   },
   "796428662702800900": {
     "score": "undefined",
-    "payload": "Linien 133, 233, 236, 433 - Umleitung wegen Bauarbeiten\nVon Donnerstag, 10.11.2016 - Betriebsbeginn - bis... https://t.co/cQbaxTRS8I"
+    "payload": "Linien 133, 233, 236, 433 - Umleitung wegen Bauarbeiten Von Donnerstag, 10.11.2016 - Betriebsbeginn - bis... https://t.co/cQbaxTRS8I",
+    "id": "796428662702800900",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "Umleitung"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.058823529411764705,
+      "tokens": [
+        "linien",
+        "133",
+        "233",
+        "236",
+        "433",
+        "-",
+        "replace",
+        "wegen",
+        "bauarbeiten",
+        "von",
+        "donnerstag",
+        "10112016",
+        "-",
+        "betriebsbeginn",
+        "-",
+        "bis",
+        "httpstcocqbaxtrs8i"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "Linien 133, 233, 236, 433 - \u001b[44mUmleitung\u001b[49m\u001b[33m(-1)\u001b[39m wegen Bauarbeiten Von Donnerstag, 10.11.2016 - Betriebsbeginn - bis... https://t.co/cQbaxTRS8I \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796430684768391200": {
     "score": "undefined",
-    "payload": "@StephanieWilsd2 Wegen umgestürzter Bäume auf der Fahrbahn."
+    "payload": "@StephanieWilsd2 Wegen umgestürzter Bäume auf der Fahrbahn.",
+    "id": "796430684768391200",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "stephaniewilsd2",
+        "wegen",
+        "umgestürzter",
+        "bäume",
+        "auf",
+        "der",
+        "fahrbahn"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "@StephanieWilsd2 Wegen umgestürzter Bäume auf der Fahrbahn. \u001b[33m(0)\u001b[39m"
+    }
   },
   "796441282323316700": {
     "score": "undefined",
-    "payload": "S3, RE5\nAufgrund einer technischen Störung an der Strecke Stade&lt;&gt;Neugraben derzeit bis zu 10 Min. verspätete Züge.\n#HVV"
+    "payload": "S3, RE5 Aufgrund einer technischen Störung an der Strecke Stade<>Neugraben derzeit bis zu 10 Min. verspätete Züge. #HVV",
+    "id": "796441282323316700",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "bis zu 10 Min. verspätet",
+          "Aufgrund einer technischen Störung"
+        ],
+        "neutral": []
+      },
+      "score": -2,
+      "comparative": -0.18181818181818182,
+      "tokens": [
+        "s3",
+        "re5",
+        "replace",
+        "an",
+        "der",
+        "strecke",
+        "stadeneugraben",
+        "derzeit",
+        "replacee",
+        "züge",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S3, RE5 \u001b[44mAufgrund einer technischen Störung\u001b[49m\u001b[33m(-1)\u001b[39m an der Strecke Stade<>Neugraben derzeit \u001b[44mbis zu 10 Min. verspätet\u001b[49m\u001b[33m(-1)\u001b[39me Züge. #HVV \u001b[31m(-2)\u001b[39m"
+    }
   },
   "796452847831445500": {
     "score": "undefined",
-    "payload": "RT @vhhbus: #vhhbus Was für ein Tag. Danke für Ihre / eure Geduld. Die Busse sind nun weitestgehend im Plan. Einzelne Ausnahmen bestätigen…"
+    "payload": "RT @vhhbus: #vhhbus Was für ein Tag. Danke für Ihre / eure Geduld. Die Busse sind nun weitestgehend im Plan. Einzelne Ausnahmen bestätigen…",
+    "id": "796452847831445500",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "rt",
+        "vhhbus",
+        "vhhbus",
+        "was",
+        "für",
+        "ein",
+        "tag",
+        "danke",
+        "für",
+        "ihre",
+        "",
+        "eure",
+        "geduld",
+        "die",
+        "busse",
+        "sind",
+        "nun",
+        "weitestgehend",
+        "im",
+        "plan",
+        "einzelne",
+        "ausnahmen",
+        "bestätigen"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @vhhbus: #vhhbus Was für ein Tag. Danke für Ihre / eure Geduld. Die Busse sind nun weitestgehend im Plan. Einzelne Ausnahmen bestätigen… \u001b[33m(0)\u001b[39m"
+    }
   },
   "796479057688928300": {
     "score": "undefined",
-    "payload": "S1\nAufgrund von einer Gezogener Notbremse verzögert sich die Züge in Richtung Blankenese ab Altona \n\n#hvv"
+    "payload": "S1 Aufgrund von einer Gezogener Notbremse verzögert sich die Züge in Richtung Blankenese ab Altona #hvv",
+    "id": "796479057688928300",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "verzögert sich"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.06666666666666667,
+      "tokens": [
+        "s1",
+        "aufgrund",
+        "von",
+        "einer",
+        "gezogener",
+        "notbremse",
+        "replace",
+        "die",
+        "züge",
+        "in",
+        "richtung",
+        "blankenese",
+        "ab",
+        "altona",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S1 Aufgrund von einer Gezogener Notbremse \u001b[44mverzögert sich\u001b[49m\u001b[33m(-1)\u001b[39m die Züge in Richtung Blankenese ab Altona #hvv \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796599979251036200": {
     "score": "undefined",
-    "payload": "S1, S3\nfahren derzeit über Dammtor. S3 fährt Altona nicht an. S2 fällt aus. Grund: Feuerwehreinsatz im Citytunnel.\n#HVV"
+    "payload": "S1, S3 fahren derzeit über Dammtor. S3 fährt Altona nicht an. S2 fällt aus. Grund: Feuerwehreinsatz im Citytunnel. #HVV",
+    "id": "796599979251036200",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "fällt aus",
+          "Grund: Feuerwehreinsatz"
+        ],
+        "neutral": []
+      },
+      "score": -2,
+      "comparative": -0.11764705882352941,
+      "tokens": [
+        "s1",
+        "s3",
+        "fahren",
+        "derzeit",
+        "über",
+        "dammtor",
+        "s3",
+        "fährt",
+        "altona",
+        "nicht",
+        "an",
+        "s2",
+        "replace",
+        "replace",
+        "im",
+        "citytunnel",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S1, S3 fahren derzeit über Dammtor. S3 fährt Altona nicht an. S2 \u001b[44mfällt aus\u001b[49m\u001b[33m(-1)\u001b[39m. \u001b[44mGrund: Feuerwehreinsatz\u001b[49m\u001b[33m(-1)\u001b[39m im Citytunnel. #HVV \u001b[31m(-2)\u001b[39m"
+    }
   },
   "796600184201510900": {
     "score": "undefined",
-    "payload": "U1, U2, U4\nKein Betrieb am Jungfernstieg wegen Feuerwehreinsatzes. Alarm wird geprüft. Es kommt zu Verspätungen.\n#HVV"
+    "payload": "U1, U2, U4 Kein Betrieb am Jungfernstieg wegen Feuerwehreinsatzes. Alarm wird geprüft. Es kommt zu Verspätungen. #HVV",
+    "id": "796600184201510900",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "wegen Feuerwehreinsatzes",
+          "Es kommt zu Verspätungen"
+        ],
+        "neutral": []
+      },
+      "score": -2,
+      "comparative": -0.15384615384615385,
+      "tokens": [
+        "u1",
+        "u2",
+        "u4",
+        "kein",
+        "betrieb",
+        "am",
+        "jungfernstieg",
+        "replace",
+        "alarm",
+        "wird",
+        "geprüft",
+        "replace",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "U1, U2, U4 Kein Betrieb am Jungfernstieg \u001b[44mwegen Feuerwehreinsatzes\u001b[49m\u001b[33m(-1)\u001b[39m. Alarm wird geprüft. \u001b[44mEs kommt zu Verspätungen\u001b[49m\u001b[33m(-1)\u001b[39m. #HVV \u001b[31m(-2)\u001b[39m"
+    }
   },
   "796601737180221400": {
     "score": "undefined",
-    "payload": "S3\nWegen Streckenstörung fallen Züge mit Ziel/Start Buxtehude zw. Neugraben&lt;&gt;Buxtehude aus. Züge aus/nach Stade bis zu 20 Min. verspätet."
+    "payload": "S3 Wegen Streckenstörung fallen Züge mit Ziel/Start Buxtehude zw. Neugraben<>Buxtehude aus. Züge aus/nach Stade bis zu 20 Min. verspätet.",
+    "id": "796601737180221400",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "bis zu 20 Min. verspätet"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.06666666666666667,
+      "tokens": [
+        "s3",
+        "wegen",
+        "streckenstörung",
+        "fallen",
+        "züge",
+        "mit",
+        "zielstart",
+        "buxtehude",
+        "zw",
+        "neugrabenbuxtehude",
+        "aus",
+        "züge",
+        "ausnach",
+        "stade",
+        "replace"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S3 Wegen Streckenstörung fallen Züge mit Ziel/Start Buxtehude zw. Neugraben<>Buxtehude aus. Züge aus/nach Stade \u001b[44mbis zu 20 Min. verspätet\u001b[49m\u001b[33m(-1)\u001b[39m. \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796601945268121600": {
     "score": "undefined",
-    "payload": "RT @hochbahn: #U1 #U2 #U4 Wir fahren wieder auf den kompletten Linien. #hvv #@"
+    "payload": "RT @hochbahn: #U1 #U2 #U4 Wir fahren wieder auf den kompletten Linien. #hvv #@",
+    "id": "796601945268121600",
+    "sentiment": {
+      "phrases": {
+        "positive": [
+          "fahren wieder"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 1,
+      "comparative": 0.07692307692307693,
+      "tokens": [
+        "rt",
+        "hochbahn",
+        "u1",
+        "u2",
+        "u4",
+        "wir",
+        "replace",
+        "auf",
+        "den",
+        "kompletten",
+        "linien",
+        "hvv",
+        ""
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @hochbahn: #U1 #U2 #U4 Wir \u001b[44mfahren wieder\u001b[49m\u001b[33m(1)\u001b[39m auf den kompletten Linien. #hvv #@ \u001b[32m(1)\u001b[39m"
+    }
   },
   "796602314698215400": {
     "score": "undefined",
-    "payload": "U1, U2, U4\nFolgeverspätungen in jeweils beide Richtungen von bis zu 10 Minuten möglich.\n#HVV"
+    "payload": "U1, U2, U4 Folgeverspätungen in jeweils beide Richtungen von bis zu 10 Minuten möglich. #HVV",
+    "id": "796602314698215400",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          " Folgeverspätungen"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.07142857142857142,
+      "tokens": [
+        "u1",
+        "u2",
+        "u4replace",
+        "in",
+        "jeweils",
+        "beide",
+        "richtungen",
+        "von",
+        "bis",
+        "zu",
+        "10",
+        "minuten",
+        "möglich",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "U1, U2, U4\u001b[44m Folgeverspätungen\u001b[49m\u001b[33m(-1)\u001b[39m in jeweils beide Richtungen von bis zu 10 Minuten möglich. #HVV \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796602519266988000": {
     "score": "undefined",
-    "payload": "RT @SBahnHamburg: Die Linien #S1 + #S3 fahren wieder durch den Citytunnel. Grund: Feuerwehreinsatz beendet. #hvv #sbahnhh"
+    "payload": "RT @SBahnHamburg: Die Linien #S1 + #S3 fahren wieder durch den Citytunnel. Grund: Feuerwehreinsatz beendet. #hvv #sbahnhh",
+    "id": "796602519266988000",
+    "sentiment": {
+      "phrases": {
+        "positive": [
+          "fahren wieder",
+          "Grund: Feuerwehreinsatz beendet"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 2,
+      "comparative": 0.14285714285714285,
+      "tokens": [
+        "rt",
+        "sbahnhamburg",
+        "die",
+        "linien",
+        "s1",
+        "",
+        "s3",
+        "replace",
+        "durch",
+        "den",
+        "citytunnel",
+        "replace",
+        "hvv",
+        "sbahnhh"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @SBahnHamburg: Die Linien #S1 + #S3 \u001b[44mfahren wieder\u001b[49m\u001b[33m(1)\u001b[39m durch den Citytunnel. \u001b[44mGrund: Feuerwehreinsatz beendet\u001b[49m\u001b[33m(1)\u001b[39m. #hvv #sbahnhh \u001b[32m(2)\u001b[39m"
+    }
   },
   "796604742868860900": {
     "score": "undefined",
-    "payload": "RT @vhhbus: #vhh31 #vhh8800 #vhh8891 Sperrung B5 zwischen Grünhof und Schnakenbek. Busse fahren Umleitung, Verspätung bis 25 Minuten #HVV"
+    "payload": "RT @vhhbus: #vhh31 #vhh8800 #vhh8891 Sperrung B5 zwischen Grünhof und Schnakenbek. Busse fahren Umleitung, Verspätung bis 25 Minuten #HVV",
+    "id": "796604742868860900",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "Umleitung"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.05263157894736842,
+      "tokens": [
+        "rt",
+        "vhhbus",
+        "vhh31",
+        "vhh8800",
+        "vhh8891",
+        "sperrung",
+        "b5",
+        "zwischen",
+        "grünhof",
+        "und",
+        "schnakenbek",
+        "busse",
+        "fahren",
+        "replace",
+        "verspätung",
+        "bis",
+        "25",
+        "minuten",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @vhhbus: #vhh31 #vhh8800 #vhh8891 Sperrung B5 zwischen Grünhof und Schnakenbek. Busse fahren \u001b[44mUmleitung\u001b[49m\u001b[33m(-1)\u001b[39m, Verspätung bis 25 Minuten #HVV \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796606449925423100": {
     "score": "undefined",
-    "payload": "RT @vhhbus: #vhh31 #vhh8800 #vhh8891 Hast. Krukower Weg in Ri. Lauenburg an den Fahrbahnrand der B5 verlegt. Dauer der Sperrung: Heute, ca.…"
+    "payload": "RT @vhhbus: #vhh31 #vhh8800 #vhh8891 Hast. Krukower Weg in Ri. Lauenburg an den Fahrbahnrand der B5 verlegt. Dauer der Sperrung: Heute, ca.…",
+    "id": "796606449925423100",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "rt",
+        "vhhbus",
+        "vhh31",
+        "vhh8800",
+        "vhh8891",
+        "hast",
+        "krukower",
+        "weg",
+        "in",
+        "ri",
+        "lauenburg",
+        "an",
+        "den",
+        "fahrbahnrand",
+        "der",
+        "b5",
+        "verlegt",
+        "dauer",
+        "der",
+        "sperrung",
+        "heute",
+        "ca"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @vhhbus: #vhh31 #vhh8800 #vhh8891 Hast. Krukower Weg in Ri. Lauenburg an den Fahrbahnrand der B5 verlegt. Dauer der Sperrung: Heute, ca.… \u001b[33m(0)\u001b[39m"
+    }
   },
   "796606516602273800": {
     "score": "undefined",
-    "payload": "RT @vhhbus: #vhh31 #vhh8800 #vhh8891 Haltestelle Lärchenhain beidseitig aufgehoben. Hast Twiete in Richtung Geesthacht in den Krüzener Weg…"
+    "payload": "RT @vhhbus: #vhh31 #vhh8800 #vhh8891 Haltestelle Lärchenhain beidseitig aufgehoben. Hast Twiete in Richtung Geesthacht in den Krüzener Weg…",
+    "id": "796606516602273800",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "rt",
+        "vhhbus",
+        "vhh31",
+        "vhh8800",
+        "vhh8891",
+        "haltestelle",
+        "lärchenhain",
+        "beidseitig",
+        "aufgehoben",
+        "hast",
+        "twiete",
+        "in",
+        "richtung",
+        "geesthacht",
+        "in",
+        "den",
+        "krüzener",
+        "weg"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @vhhbus: #vhh31 #vhh8800 #vhh8891 Haltestelle Lärchenhain beidseitig aufgehoben. Hast Twiete in Richtung Geesthacht in den Krüzener Weg… \u001b[33m(0)\u001b[39m"
+    }
   },
   "796607022049480700": {
     "score": "undefined",
-    "payload": "@Fee_derleicht HAben wir hier: https://t.co/FLUKagQIa7  und hier: https://t.co/NMwve2UZp9 gemeldet ;)"
+    "payload": "@Fee_derleicht HAben wir hier: https://t.co/FLUKagQIa7 und hier: https://t.co/NMwve2UZp9 gemeldet ;)",
+    "id": "796607022049480700",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "feederleicht",
+        "haben",
+        "wir",
+        "hier",
+        "httpstcoflukagqia7",
+        "und",
+        "hier",
+        "httpstconmwve2uzp9",
+        "gemeldet",
+        ""
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "@Fee_derleicht HAben wir hier: https://t.co/FLUKagQIa7 und hier: https://t.co/NMwve2UZp9 gemeldet ;) \u001b[33m(0)\u001b[39m"
+    }
   },
   "796609425851170800": {
     "score": "undefined",
-    "payload": "S1, S11, S3 Update\nDerzeit noch bis zu 10 Min. verspätet als Folge eines Feuerwehreinsatzes\nS2 fällt vollständig aus. S21 wieder planmäßig."
+    "payload": "S1, S11, S3 Update Derzeit noch bis zu 10 Min. verspätet als Folge eines Feuerwehreinsatzes S2 fällt vollständig aus. S21 wieder planmäßig.",
+    "id": "796609425851170800",
+    "sentiment": {
+      "phrases": {
+        "positive": [
+          "wieder planmäßig"
+        ],
+        "negative": [
+          "bis zu 10 Min. verspätet"
+        ],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "s1",
+        "s11",
+        "s3",
+        "update",
+        "derzeit",
+        "noch",
+        "replace",
+        "als",
+        "folge",
+        "eines",
+        "feuerwehreinsatzes",
+        "s2",
+        "fällt",
+        "vollständig",
+        "aus",
+        "s21",
+        "replace"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S1, S11, S3 Update Derzeit noch \u001b[44mbis zu 10 Min. verspätet\u001b[49m\u001b[33m(-1)\u001b[39m als Folge eines Feuerwehreinsatzes S2 fällt vollständig aus. S21 \u001b[44mwieder planmäßig\u001b[49m\u001b[33m(1)\u001b[39m. \u001b[33m(0)\u001b[39m"
+    }
   },
   "796634895959343100": {
     "score": "undefined",
-    "payload": "S1, S3, S21\nWeiterhin bis zu 10 Min. verspätete Züge in Ri Wedel / Elbgaustr. durch techn. Störungen an Zügen &amp; Feuerwehreinsätze.\n#HVV"
+    "payload": "S1, S3, S21 Weiterhin bis zu 10 Min. verspätete Züge in Ri Wedel / Elbgaustr. durch techn. Störungen an Zügen & Feuerwehreinsätze. #HVV",
+    "id": "796634895959343100",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "bis zu 10 Min. verspätet",
+          "techn. Störung"
+        ],
+        "neutral": []
+      },
+      "score": -2,
+      "comparative": -0.1111111111111111,
+      "tokens": [
+        "s1",
+        "s3",
+        "s21",
+        "weiterhin",
+        "replacee",
+        "züge",
+        "in",
+        "ri",
+        "wedel",
+        "",
+        "elbgaustr",
+        "durch",
+        "replaceen",
+        "an",
+        "zügen",
+        "",
+        "feuerwehreinsätze",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S1, S3, S21 Weiterhin \u001b[44mbis zu 10 Min. verspätet\u001b[49m\u001b[33m(-1)\u001b[39me Züge in Ri Wedel / Elbgaustr. durch \u001b[44mtechn. Störung\u001b[49m\u001b[33m(-1)\u001b[39men an Zügen & Feuerwehreinsätze. #HVV \u001b[31m(-2)\u001b[39m"
+    }
   },
   "796635610991775700": {
     "score": "undefined",
-    "payload": "S1, S3, S21, S31 Update\nSignalstörung am Hbf / Es kommt zu Verspätungen auf allen S-Bahnlinien (max. 10 Min. derzeit).\n#HVV"
+    "payload": "S1, S3, S21, S31 Update Signalstörung am Hbf / Es kommt zu Verspätungen auf allen S-Bahnlinien (max. 10 Min. derzeit). #HVV",
+    "id": "796635610991775700",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "Es kommt zu Verspätungen",
+          "Signalstörung"
+        ],
+        "neutral": []
+      },
+      "score": -2,
+      "comparative": -0.1111111111111111,
+      "tokens": [
+        "s1",
+        "s3",
+        "s21",
+        "s31",
+        "update",
+        "replace",
+        "am",
+        "hbf",
+        "",
+        "replace",
+        "auf",
+        "allen",
+        "s-bahnlinien",
+        "max",
+        "10",
+        "min",
+        "derzeit",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S1, S3, S21, S31 Update \u001b[44mSignalstörung\u001b[49m\u001b[33m(-1)\u001b[39m am Hbf / \u001b[44mEs kommt zu Verspätungen\u001b[49m\u001b[33m(-1)\u001b[39m auf allen S-Bahnlinien (max. 10 Min. derzeit). #HVV \u001b[31m(-2)\u001b[39m"
+    }
   },
   "796636346794307600": {
     "score": "undefined",
-    "payload": "S1, S3, S21, S31 Update\nSignalstörung zw. Hbf &lt;&gt; Berliner Tor / Hammerbrook. Aktuell bis zu 15 Min. Verspätung möglich in beiden Ri.\n#HVV"
+    "payload": "S1, S3, S21, S31 Update Signalstörung zw. Hbf <> Berliner Tor / Hammerbrook. Aktuell bis zu 15 Min. Verspätung möglich in beiden Ri. #HVV",
+    "id": "796636346794307600",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "bis zu 15 Min. Verspätung",
+          "Signalstörung"
+        ],
+        "neutral": []
+      },
+      "score": -2,
+      "comparative": -0.1,
+      "tokens": [
+        "s1",
+        "s3",
+        "s21",
+        "s31",
+        "update",
+        "replace",
+        "zw",
+        "hbf",
+        "",
+        "berliner",
+        "tor",
+        "",
+        "hammerbrook",
+        "aktuell",
+        "replace",
+        "möglich",
+        "in",
+        "beiden",
+        "ri",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S1, S3, S21, S31 Update \u001b[44mSignalstörung\u001b[49m\u001b[33m(-1)\u001b[39m zw. Hbf <> Berliner Tor / Hammerbrook. Aktuell \u001b[44mbis zu 15 Min. Verspätung\u001b[49m\u001b[33m(-1)\u001b[39m möglich in beiden Ri. #HVV \u001b[31m(-2)\u001b[39m"
+    }
   },
   "796638856074448900": {
     "score": "undefined",
-    "payload": "U3\nAb Höhe Kellinghusenstr. &amp; Folgehst. in Ri Wandsbek-Gartenstadt derzeit bis zu 7 Min. Verspätung möglich.\n#HVV"
+    "payload": "U3 Ab Höhe Kellinghusenstr. & Folgehst. in Ri Wandsbek-Gartenstadt derzeit bis zu 7 Min. Verspätung möglich. #HVV",
+    "id": "796638856074448900",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "bis zu 7 Min. Verspätung"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.07692307692307693,
+      "tokens": [
+        "u3",
+        "ab",
+        "höhe",
+        "kellinghusenstr",
+        "",
+        "folgehst",
+        "in",
+        "ri",
+        "wandsbek-gartenstadt",
+        "derzeit",
+        "replace",
+        "möglich",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "U3 Ab Höhe Kellinghusenstr. & Folgehst. in Ri Wandsbek-Gartenstadt derzeit \u001b[44mbis zu 7 Min. Verspätung\u001b[49m\u001b[33m(-1)\u001b[39m möglich. #HVV \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796641000991105000": {
     "score": "undefined",
-    "payload": "S1, S3, S21, S31 Update\n\nDie Signalstörung am Hbf ist behoben. Die Züge verkehren mit Folgeverspätungen von bis zu 10 Minuten. \n\n#HVV"
+    "payload": "S1, S3, S21, S31 Update Die Signalstörung am Hbf ist behoben. Die Züge verkehren mit Folgeverspätungen von bis zu 10 Minuten. #HVV",
+    "id": "796641000991105000",
+    "sentiment": {
+      "phrases": {
+        "positive": [
+          "Signalstörung am Hbf ist behoben"
+        ],
+        "negative": [
+          "verspätungen von bis zu 10 Minuten"
+        ],
+        "neutral": []
+      },
+      "score": 1,
+      "comparative": 0.07692307692307693,
+      "tokens": [
+        "s1",
+        "s3",
+        "s21",
+        "s31",
+        "update",
+        "die",
+        "replace",
+        "die",
+        "züge",
+        "verkehren",
+        "mit",
+        "folgereplace",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S1, S3, S21, S31 Update Die \u001b[44mSignalstörung am Hbf ist behoben\u001b[49m\u001b[33m(2)\u001b[39m. Die Züge verkehren mit Folge\u001b[44mverspätungen von bis zu 10 Minuten\u001b[49m\u001b[33m(-1)\u001b[39m. #HVV \u001b[32m(1)\u001b[39m"
+    }
   },
   "796643913603960800": {
     "score": "undefined",
-    "payload": "@nJensen_HH @derbervogel Die @SBahnHamburg wird hier nicht auf Anfragen reagieren.Wir machen auch nicht deren Job,sondern tun das freiwillig"
+    "payload": "@nJensen_HH @derbervogel Die @SBahnHamburg wird hier nicht auf Anfragen reagieren.Wir machen auch nicht deren Job,sondern tun das freiwillig",
+    "id": "796643913603960800",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "njensenhh",
+        "derbervogel",
+        "die",
+        "sbahnhamburg",
+        "wird",
+        "hier",
+        "nicht",
+        "auf",
+        "anfragen",
+        "reagierenwir",
+        "machen",
+        "auch",
+        "nicht",
+        "deren",
+        "jobsondern",
+        "tun",
+        "das",
+        "freiwillig"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "@nJensen_HH @derbervogel Die @SBahnHamburg wird hier nicht auf Anfragen reagieren.Wir machen auch nicht deren Job,sondern tun das freiwillig \u001b[33m(0)\u001b[39m"
+    }
   },
   "796648588403163100": {
     "score": "undefined",
-    "payload": "U3 Update\nIn Ri Wandsbek-Gartenstadt wieder planmäßiger Zugbetrieb. \n#HVV"
+    "payload": "U3 Update In Ri Wandsbek-Gartenstadt wieder planmäßiger Zugbetrieb. #HVV",
+    "id": "796648588403163100",
+    "sentiment": {
+      "phrases": {
+        "positive": [
+          "wieder planmäßiger"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 1,
+      "comparative": 0.125,
+      "tokens": [
+        "u3",
+        "update",
+        "in",
+        "ri",
+        "wandsbek-gartenstadt",
+        "replace",
+        "zugbetrieb",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "U3 Update In Ri Wandsbek-Gartenstadt \u001b[44mwieder planmäßiger\u001b[49m\u001b[33m(1)\u001b[39m Zugbetrieb. #HVV \u001b[32m(1)\u001b[39m"
+    }
   },
   "796653241912225800": {
     "score": "undefined",
-    "payload": "S3, S21, S31 Update\nDie Betriebslage auf diesen Linien hat sich wieder normalisiert und läuft weitgehend im Plan.\n#HVV"
+    "payload": "S3, S21, S31 Update Die Betriebslage auf diesen Linien hat sich wieder normalisiert und läuft weitgehend im Plan. #HVV",
+    "id": "796653241912225800",
+    "sentiment": {
+      "phrases": {
+        "positive": [
+          "normal"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 1,
+      "comparative": 0.05263157894736842,
+      "tokens": [
+        "s3",
+        "s21",
+        "s31",
+        "update",
+        "die",
+        "betriebslage",
+        "auf",
+        "diesen",
+        "linien",
+        "hat",
+        "sich",
+        "wieder",
+        "replaceisiert",
+        "und",
+        "läuft",
+        "weitgehend",
+        "im",
+        "plan",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S3, S21, S31 Update Die Betriebslage auf diesen Linien hat sich wieder \u001b[44mnormal\u001b[49m\u001b[33m(1)\u001b[39misiert und läuft weitgehend im Plan. #HVV \u001b[32m(1)\u001b[39m"
+    }
   },
   "796653353447067600": {
     "score": "undefined",
-    "payload": "S1\n&gt;&gt;Airport/Poppenbüttel ab Blankenese 11:07h entfällt bis Othmarschen wegen technischer Störung.\n#HVV"
+    "payload": "S1 >>Airport/Poppenbüttel ab Blankenese 11:07h entfällt bis Othmarschen wegen technischer Störung. #HVV",
+    "id": "796653353447067600",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "entfällt"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.08333333333333333,
+      "tokens": [
+        "s1",
+        "airportpoppenbüttel",
+        "ab",
+        "blankenese",
+        "1107h",
+        "replace",
+        "bis",
+        "othmarschen",
+        "wegen",
+        "technischer",
+        "störung",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S1 >>Airport/Poppenbüttel ab Blankenese 11:07h \u001b[44mentfällt\u001b[49m\u001b[33m(-1)\u001b[39m bis Othmarschen wegen technischer Störung. #HVV \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796662004945735700": {
     "score": "undefined",
-    "payload": "U1\nIm Bereich Volksdorf-Großhansdorf derzeit wg einer Signalstörung vereinzelt 30-40 Min Verspätung möglich.\n#hvv"
+    "payload": "U1 Im Bereich Volksdorf-Großhansdorf derzeit wg einer Signalstörung vereinzelt 30-40 Min Verspätung möglich. #hvv",
+    "id": "796662004945735700",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "Min Verspätung",
+          "Signalstörung"
+        ],
+        "neutral": []
+      },
+      "score": -2,
+      "comparative": -0.15384615384615385,
+      "tokens": [
+        "u1",
+        "im",
+        "bereich",
+        "volksdorf-grohansdorf",
+        "derzeit",
+        "wg",
+        "einer",
+        "replace",
+        "vereinzelt",
+        "30-40",
+        "replace",
+        "möglich",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "U1 Im Bereich Volksdorf-Großhansdorf derzeit wg einer \u001b[44mSignalstörung\u001b[49m\u001b[33m(-1)\u001b[39m vereinzelt 30-40 \u001b[44mMin Verspätung\u001b[49m\u001b[33m(-1)\u001b[39m möglich. #hvv \u001b[31m(-2)\u001b[39m"
+    }
   },
   "796662689372262400": {
     "score": "undefined",
-    "payload": "RT @hochbahn: #U1 wg. Kabelschaden 40-Min-Takt + Busse zw. #Großhansdorf und #Volksdorf vsl. bis heute Abend. #Großhansdorfwirlassendichnic…"
+    "payload": "RT @hochbahn: #U1 wg. Kabelschaden 40-Min-Takt + Busse zw. #Großhansdorf und #Volksdorf vsl. bis heute Abend. #Großhansdorfwirlassendichnic…",
+    "id": "796662689372262400",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "schaden"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.058823529411764705,
+      "tokens": [
+        "rt",
+        "hochbahn",
+        "u1",
+        "wg",
+        "kabelreplace",
+        "40-min-takt",
+        "",
+        "busse",
+        "zw",
+        "grohansdorf",
+        "und",
+        "volksdorf",
+        "vsl",
+        "bis",
+        "heute",
+        "abend",
+        "grohansdorfwirlassendichnic"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @hochbahn: #U1 wg. Kabel\u001b[44mschaden\u001b[49m\u001b[33m(-1)\u001b[39m 40-Min-Takt + Busse zw. #Großhansdorf und #Volksdorf vsl. bis heute Abend. #Großhansdorfwirlassendichnic… \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796667566114635800": {
     "score": "undefined",
-    "payload": "RT @KViP_de: #KViP Li 6663 Leichte Verspätungen wg. Bauarbeiten an der Klappbrücke in Uetersen #HVV"
+    "payload": "RT @KViP_de: #KViP Li 6663 Leichte Verspätungen wg. Bauarbeiten an der Klappbrücke in Uetersen #HVV",
+    "id": "796667566114635800",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "rt",
+        "kvipde",
+        "kvip",
+        "li",
+        "6663",
+        "leichte",
+        "verspätungen",
+        "wg",
+        "bauarbeiten",
+        "an",
+        "der",
+        "klappbrücke",
+        "in",
+        "uetersen",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @KViP_de: #KViP Li 6663 Leichte Verspätungen wg. Bauarbeiten an der Klappbrücke in Uetersen #HVV \u001b[33m(0)\u001b[39m"
+    }
   },
   "796689241937952800": {
     "score": "undefined",
-    "payload": "RT @erixxinfo: Wegen umgestürzter Bäume im Gleis bleibt die Strecke RB 32 Lüneburg nach Dannenberg und zurück bis auf Weiteres  voll gesper…"
+    "payload": "RT @erixxinfo: Wegen umgestürzter Bäume im Gleis bleibt die Strecke RB 32 Lüneburg nach Dannenberg und zurück bis auf Weiteres voll gesper…",
+    "id": "796689241937952800",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "rt",
+        "erixxinfo",
+        "wegen",
+        "umgestürzter",
+        "bäume",
+        "im",
+        "gleis",
+        "bleibt",
+        "die",
+        "strecke",
+        "rb",
+        "32",
+        "lüneburg",
+        "nach",
+        "dannenberg",
+        "und",
+        "zurück",
+        "bis",
+        "auf",
+        "weiteres",
+        "voll",
+        "gesper"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @erixxinfo: Wegen umgestürzter Bäume im Gleis bleibt die Strecke RB 32 Lüneburg nach Dannenberg und zurück bis auf Weiteres voll gesper… \u001b[33m(0)\u001b[39m"
+    }
   },
   "796704440581496800": {
     "score": "undefined",
-    "payload": "332\nSperrung Richtung Bergedorf Friedhof. Derzeit keine Bedienung Sternwarte Besucherzentrum bis Kapelle2 in beiden Richtungen\n#HVV"
+    "payload": "332 Sperrung Richtung Bergedorf Friedhof. Derzeit keine Bedienung Sternwarte Besucherzentrum bis Kapelle2 in beiden Richtungen #HVV",
+    "id": "796704440581496800",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "332",
+        "sperrung",
+        "richtung",
+        "bergedorf",
+        "friedhof",
+        "derzeit",
+        "keine",
+        "bedienung",
+        "sternwarte",
+        "besucherzentrum",
+        "bis",
+        "kapelle2",
+        "in",
+        "beiden",
+        "richtungen",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "332 Sperrung Richtung Bergedorf Friedhof. Derzeit keine Bedienung Sternwarte Besucherzentrum bis Kapelle2 in beiden Richtungen #HVV \u001b[33m(0)\u001b[39m"
+    }
   },
   "796715041529692200": {
     "score": "undefined",
-    "payload": "RT @vhhbus: #vhh31 #vhh8800 #vhh8891 Die Sperrung der B5 zwischen Schnakenbek und Grünhof wurde bis 11.10.2016, ca. 17 Uhr verlängert. #HVV"
+    "payload": "RT @vhhbus: #vhh31 #vhh8800 #vhh8891 Die Sperrung der B5 zwischen Schnakenbek und Grünhof wurde bis 11.10.2016, ca. 17 Uhr verlängert. #HVV",
+    "id": "796715041529692200",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "rt",
+        "vhhbus",
+        "vhh31",
+        "vhh8800",
+        "vhh8891",
+        "die",
+        "sperrung",
+        "der",
+        "b5",
+        "zwischen",
+        "schnakenbek",
+        "und",
+        "grünhof",
+        "wurde",
+        "bis",
+        "11102016",
+        "ca",
+        "17",
+        "uhr",
+        "verlängert",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @vhhbus: #vhh31 #vhh8800 #vhh8891 Die Sperrung der B5 zwischen Schnakenbek und Grünhof wurde bis 11.10.2016, ca. 17 Uhr verlängert. #HVV \u001b[33m(0)\u001b[39m"
+    }
   },
   "796718248003797000": {
     "score": "undefined",
-    "payload": "RB32\nBis einschl. So, 13.11. bleibt die Strecke Lüneburg-Dannenberg gesperrt &amp; durch Busse ersetzt. Grund sind Räumungsarbeiten.\n#hvv"
+    "payload": "RB32 Bis einschl. So, 13.11. bleibt die Strecke Lüneburg-Dannenberg gesperrt & durch Busse ersetzt. Grund sind Räumungsarbeiten. #hvv",
+    "id": "796718248003797000",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "durch Busse ersetzt",
+          "Strecke Lüneburg-Dannenberg gesperrt"
+        ],
+        "neutral": []
+      },
+      "score": -2,
+      "comparative": -0.14285714285714285,
+      "tokens": [
+        "rb32",
+        "bis",
+        "einschl",
+        "so",
+        "1311",
+        "bleibt",
+        "die",
+        "replace",
+        "",
+        "replace",
+        "grund",
+        "sind",
+        "räumungsarbeiten",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RB32 Bis einschl. So, 13.11. bleibt die \u001b[44mStrecke Lüneburg-Dannenberg gesperrt\u001b[49m\u001b[33m(-1)\u001b[39m & \u001b[44mdurch Busse ersetzt\u001b[49m\u001b[33m(-1)\u001b[39m. Grund sind Räumungsarbeiten. #hvv \u001b[31m(-2)\u001b[39m"
+    }
   },
   "796718716142678000": {
     "score": "undefined",
-    "payload": "S3\nNach/ab Buxtehude verkehren nur Züge mit Ziel/Start Stade. Züge mit Ziel/Start Buxtehude fallen zw. Neugraben&lt;&gt;Buxtehude aus.\n#HVV"
+    "payload": "S3 Nach/ab Buxtehude verkehren nur Züge mit Ziel/Start Stade. Züge mit Ziel/Start Buxtehude fallen zw. Neugraben<>Buxtehude aus. #HVV",
+    "id": "796718716142678000",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "s3",
+        "nachab",
+        "buxtehude",
+        "verkehren",
+        "nur",
+        "züge",
+        "mit",
+        "zielstart",
+        "stade",
+        "züge",
+        "mit",
+        "zielstart",
+        "buxtehude",
+        "fallen",
+        "zw",
+        "neugrabenbuxtehude",
+        "aus",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S3 Nach/ab Buxtehude verkehren nur Züge mit Ziel/Start Stade. Züge mit Ziel/Start Buxtehude fallen zw. Neugraben<>Buxtehude aus. #HVV \u001b[33m(0)\u001b[39m"
+    }
   },
   "796719145261957100": {
     "score": "undefined",
-    "payload": "@HVVStoerungen S3\nGrund sind Streckenstörungen. Dauer: Bis ca. 18:35 Uhr. Restl. Züge zw. Neugraben&lt;&gt;Stade um bis zu 10 Min. verspätet.\n#HVV"
+    "payload": "@HVVStoerungen S3 Grund sind Streckenstörungen. Dauer: Bis ca. 18:35 Uhr. Restl. Züge zw. Neugraben<>Stade um bis zu 10 Min. verspätet. #HVV",
+    "id": "796719145261957100",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "bis zu 10 Min. verspätet"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.058823529411764705,
+      "tokens": [
+        "hvvstoerungen",
+        "s3",
+        "grund",
+        "sind",
+        "streckenstörungen",
+        "dauer",
+        "bis",
+        "ca",
+        "1835",
+        "uhr",
+        "restl",
+        "züge",
+        "zw",
+        "neugrabenstade",
+        "um",
+        "replace",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "@HVVStoerungen S3 Grund sind Streckenstörungen. Dauer: Bis ca. 18:35 Uhr. Restl. Züge zw. Neugraben<>Stade um \u001b[44mbis zu 10 Min. verspätet\u001b[49m\u001b[33m(-1)\u001b[39m. #HVV \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796727252369162200": {
     "score": "undefined",
-    "payload": "U1\n&gt;&gt;Norderstedt Mitte ab Wandsbek-Markt 15:55h, ab Kellinghusenstr. 16:17h fällt infolge einer Betriebsstörung aus.\n#HVV"
+    "payload": "U1 >>Norderstedt Mitte ab Wandsbek-Markt 15:55h, ab Kellinghusenstr. 16:17h fällt infolge einer Betriebsstörung aus. #HVV",
+    "id": "796727252369162200",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "Betriebsstörung"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.06666666666666667,
+      "tokens": [
+        "u1",
+        "norderstedt",
+        "mitte",
+        "ab",
+        "wandsbek-markt",
+        "1555h",
+        "ab",
+        "kellinghusenstr",
+        "1617h",
+        "fällt",
+        "infolge",
+        "einer",
+        "replace",
+        "aus",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "U1 >>Norderstedt Mitte ab Wandsbek-Markt 15:55h, ab Kellinghusenstr. 16:17h fällt infolge einer \u001b[44mBetriebsstörung\u001b[49m\u001b[33m(-1)\u001b[39m aus. #HVV \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796732886892347400": {
     "score": "undefined",
-    "payload": "U1\nWeiterhin Pendelverkehr zw Volksdorf&lt;&gt;Großhansdorf im 40-Min-Takt wg Kabelschaden. Zusätzlich verkehren Busse als Ersatz.\n#HVV"
+    "payload": "U1 Weiterhin Pendelverkehr zw Volksdorf<>Großhansdorf im 40-Min-Takt wg Kabelschaden. Zusätzlich verkehren Busse als Ersatz. #HVV",
+    "id": "796732886892347400",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "schaden"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.06666666666666667,
+      "tokens": [
+        "u1",
+        "weiterhin",
+        "pendelverkehr",
+        "zw",
+        "volksdorfgrohansdorf",
+        "im",
+        "40-min-takt",
+        "wg",
+        "kabelreplace",
+        "zusätzlich",
+        "verkehren",
+        "busse",
+        "als",
+        "ersatz",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "U1 Weiterhin Pendelverkehr zw Volksdorf<>Großhansdorf im 40-Min-Takt wg Kabel\u001b[44mschaden\u001b[49m\u001b[33m(-1)\u001b[39m. Zusätzlich verkehren Busse als Ersatz. #HVV \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796733308851880000": {
     "score": "undefined",
-    "payload": "Li. 21, 22, 23, 24, 26, 39\nDerzeit unregelmäßiger Betrieb durch Stau an Baustellen &amp; Umleitungen.\n#HVV"
+    "payload": "Li. 21, 22, 23, 24, 26, 39 Derzeit unregelmäßiger Betrieb durch Stau an Baustellen & Umleitungen. #HVV",
+    "id": "796733308851880000",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "durch Stau",
+          "Umleitung"
+        ],
+        "neutral": [
+          "Baustelle"
+        ]
+      },
+      "score": -2,
+      "comparative": -0.125,
+      "tokens": [
+        "li",
+        "21",
+        "22",
+        "23",
+        "24",
+        "26",
+        "39",
+        "derzeit",
+        "unregelmäiger",
+        "betrieb",
+        "replace",
+        "an",
+        "replacen",
+        "",
+        "replaceen",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "Li. 21, 22, 23, 24, 26, 39 Derzeit unregelmäßiger Betrieb \u001b[44mdurch Stau\u001b[49m\u001b[33m(-1)\u001b[39m an \u001b[44mBaustelle\u001b[49m\u001b[33m(0)\u001b[39mn & \u001b[44mUmleitung\u001b[49m\u001b[33m(-1)\u001b[39men. #HVV \u001b[31m(-2)\u001b[39m"
+    }
   },
   "796733581301338100": {
     "score": "undefined",
-    "payload": "RT @vhhbus: #vhh21 #vhh22 #vhh189 Derzeit bis zu 20 min Verspätung, Richtung Klein Flottbek / Blankenese / Wedel. #HVV"
+    "payload": "RT @vhhbus: #vhh21 #vhh22 #vhh189 Derzeit bis zu 20 min Verspätung, Richtung Klein Flottbek / Blankenese / Wedel. #HVV",
+    "id": "796733581301338100",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "bis zu 20 min Verspätung"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.06666666666666667,
+      "tokens": [
+        "rt",
+        "vhhbus",
+        "vhh21",
+        "vhh22",
+        "vhh189",
+        "derzeit",
+        "replace",
+        "richtung",
+        "klein",
+        "flottbek",
+        "",
+        "blankenese",
+        "",
+        "wedel",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @vhhbus: #vhh21 #vhh22 #vhh189 Derzeit \u001b[44mbis zu 20 min Verspätung\u001b[49m\u001b[33m(-1)\u001b[39m, Richtung Klein Flottbek / Blankenese / Wedel. #HVV \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796737434801283100": {
     "score": "undefined",
-    "payload": "RT @vhhbus: #vhh195 Fahrten 16:41 ab Modering bis Niendorf Nord und Rückfahrt 16:56 Uhr ab Niendorf bis Modering entfallen verkehrsbedingt.…"
+    "payload": "RT @vhhbus: #vhh195 Fahrten 16:41 ab Modering bis Niendorf Nord und Rückfahrt 16:56 Uhr ab Niendorf bis Modering entfallen verkehrsbedingt.…",
+    "id": "796737434801283100",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "entfallen"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.05,
+      "tokens": [
+        "rt",
+        "vhhbus",
+        "vhh195",
+        "fahrten",
+        "1641",
+        "ab",
+        "modering",
+        "bis",
+        "niendorf",
+        "nord",
+        "und",
+        "rückfahrt",
+        "1656",
+        "uhr",
+        "ab",
+        "niendorf",
+        "bis",
+        "modering",
+        "replace",
+        "verkehrsbedingt"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @vhhbus: #vhh195 Fahrten 16:41 ab Modering bis Niendorf Nord und Rückfahrt 16:56 Uhr ab Niendorf bis Modering \u001b[44mentfallen\u001b[49m\u001b[33m(-1)\u001b[39m verkehrsbedingt.… \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796747922016768000": {
     "score": "undefined",
-    "payload": "RT @otbhh: Wasserrohrbruch Rahlstedter Bahnhofstraße. M26 wird Ri. Farmsen umgeleitet, Hst. Liliencronpark nicht bedient. @HVVStoerungen #H…"
+    "payload": "RT @otbhh: Wasserrohrbruch Rahlstedter Bahnhofstraße. M26 wird Ri. Farmsen umgeleitet, Hst. Liliencronpark nicht bedient. @HVVStoerungen #H…",
+    "id": "796747922016768000",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "nicht bedient"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.06666666666666667,
+      "tokens": [
+        "rt",
+        "otbhh",
+        "wasserrohrbruch",
+        "rahlstedter",
+        "bahnhofstrae",
+        "m26",
+        "wird",
+        "ri",
+        "farmsen",
+        "umgeleitet",
+        "hst",
+        "liliencronpark",
+        "replace",
+        "hvvstoerungen",
+        "h"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @otbhh: Wasserrohrbruch Rahlstedter Bahnhofstraße. M26 wird Ri. Farmsen umgeleitet, Hst. Liliencronpark \u001b[44mnicht bedient\u001b[49m\u001b[33m(-1)\u001b[39m. @HVVStoerungen #H… \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796796699540947000": {
     "score": "undefined",
-    "payload": "RT @dt5_online: #HVV #U1 weiterhin 40min Takt und Busse zw Volksdorf und Großhansdorf @HVVStoerungen"
+    "payload": "RT @dt5_online: #HVV #U1 weiterhin 40min Takt und Busse zw Volksdorf und Großhansdorf @HVVStoerungen",
+    "id": "796796699540947000",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "rt",
+        "dt5online",
+        "hvv",
+        "u1",
+        "weiterhin",
+        "40min",
+        "takt",
+        "und",
+        "busse",
+        "zw",
+        "volksdorf",
+        "und",
+        "grohansdorf",
+        "hvvstoerungen"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @dt5_online: #HVV #U1 weiterhin 40min Takt und Busse zw Volksdorf und Großhansdorf @HVVStoerungen \u001b[33m(0)\u001b[39m"
+    }
   },
   "796796820022296600": {
     "score": "undefined",
-    "payload": "RT @hochbahn: Auf der #U1 ab sofort wieder normaler Betrieb zw. Volksdorf u. Großhandsdorf. Kabel repariert. Gute Fahrt durch die Nacht #hvv"
+    "payload": "RT @hochbahn: Auf der #U1 ab sofort wieder normaler Betrieb zw. Volksdorf u. Großhandsdorf. Kabel repariert. Gute Fahrt durch die Nacht #hvv",
+    "id": "796796820022296600",
+    "sentiment": {
+      "phrases": {
+        "positive": [
+          "ab sofort wieder",
+          "normal"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 2,
+      "comparative": 0.1,
+      "tokens": [
+        "rt",
+        "hochbahn",
+        "auf",
+        "der",
+        "u1",
+        "replace",
+        "replaceer",
+        "betrieb",
+        "zw",
+        "volksdorf",
+        "u",
+        "grohandsdorf",
+        "kabel",
+        "repariert",
+        "gute",
+        "fahrt",
+        "durch",
+        "die",
+        "nacht",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @hochbahn: Auf der #U1 \u001b[44mab sofort wieder\u001b[49m\u001b[33m(1)\u001b[39m \u001b[44mnormal\u001b[49m\u001b[33m(1)\u001b[39mer Betrieb zw. Volksdorf u. Großhandsdorf. Kabel repariert. Gute Fahrt durch die Nacht #hvv \u001b[32m(2)\u001b[39m"
+    }
   },
   "796799150935470100": {
     "score": "undefined",
-    "payload": "RE5\n&gt;&gt;Cuxhaven ab Hamburg Hbf 21:06h beginnt wegen einer Fahrzeugstörung heute erst in Harburg.\n#hvv"
+    "payload": "RE5 >>Cuxhaven ab Hamburg Hbf 21:06h beginnt wegen einer Fahrzeugstörung heute erst in Harburg. #hvv",
+    "id": "796799150935470100",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "wegen einer Fahrzeugstörung"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.07692307692307693,
+      "tokens": [
+        "re5",
+        "cuxhaven",
+        "ab",
+        "hamburg",
+        "hbf",
+        "2106h",
+        "beginnt",
+        "replace",
+        "heute",
+        "erst",
+        "in",
+        "harburg",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RE5 >>Cuxhaven ab Hamburg Hbf 21:06h beginnt \u001b[44mwegen einer Fahrzeugstörung\u001b[49m\u001b[33m(-1)\u001b[39m heute erst in Harburg. #hvv \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796799677622612000": {
     "score": "undefined",
-    "payload": "RT @MicKuester: @HVVStoerungen Schadhafter Zug in der Reeperbahn Richtung Altona, Dauer noch ungewiss."
+    "payload": "RT @MicKuester: @HVVStoerungen Schadhafter Zug in der Reeperbahn Richtung Altona, Dauer noch ungewiss.",
+    "id": "796799677622612000",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "Schadhaft"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.07692307692307693,
+      "tokens": [
+        "rt",
+        "mickuester",
+        "hvvstoerungen",
+        "replaceer",
+        "zug",
+        "in",
+        "der",
+        "reeperbahn",
+        "richtung",
+        "altona",
+        "dauer",
+        "noch",
+        "ungewiss"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @MicKuester: @HVVStoerungen \u001b[44mSchadhaft\u001b[49m\u001b[33m(-1)\u001b[39mer Zug in der Reeperbahn Richtung Altona, Dauer noch ungewiss. \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796804685076328400": {
     "score": "undefined",
-    "payload": "S3 Update\nSchadhafter Zug Höhe Reeperbahn wurde geräumt. Der Betrieb läuft wieder regulär. \n#HVV"
+    "payload": "S3 Update Schadhafter Zug Höhe Reeperbahn wurde geräumt. Der Betrieb läuft wieder regulär. #HVV",
+    "id": "796804685076328400",
+    "sentiment": {
+      "phrases": {
+        "positive": [
+          "läuft wieder"
+        ],
+        "negative": [
+          "Schadhaft"
+        ],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "s3",
+        "update",
+        "replaceer",
+        "zug",
+        "höhe",
+        "reeperbahn",
+        "wurde",
+        "geräumt",
+        "der",
+        "betrieb",
+        "replace",
+        "regulär",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S3 Update \u001b[44mSchadhaft\u001b[49m\u001b[33m(-1)\u001b[39mer Zug Höhe Reeperbahn wurde geräumt. Der Betrieb \u001b[44mläuft wieder\u001b[49m\u001b[33m(1)\u001b[39m regulär. #HVV \u001b[33m(0)\u001b[39m"
+    }
   },
   "796805276242509800": {
     "score": "undefined",
-    "payload": "Li. 26 Update\nIn Ri Farmsen wieder normaler Linienweg. Die Hst Liliencronpark wird wieder bedient. \n#HVV"
+    "payload": "Li. 26 Update In Ri Farmsen wieder normaler Linienweg. Die Hst Liliencronpark wird wieder bedient. #HVV",
+    "id": "796805276242509800",
+    "sentiment": {
+      "phrases": {
+        "positive": [
+          "normaler Linienweg"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 1,
+      "comparative": 0.06666666666666667,
+      "tokens": [
+        "li",
+        "26",
+        "update",
+        "in",
+        "ri",
+        "farmsen",
+        "wieder",
+        "replace",
+        "die",
+        "hst",
+        "liliencronpark",
+        "wird",
+        "wieder",
+        "bedient",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "Li. 26 Update In Ri Farmsen wieder \u001b[44mnormaler Linienweg\u001b[49m\u001b[33m(1)\u001b[39m. Die Hst Liliencronpark wird wieder bedient. #HVV \u001b[32m(1)\u001b[39m"
+    }
   },
   "796805977488183300": {
     "score": "undefined",
-    "payload": "Li. 21, 22, 23, 24, 26, 39, 189 Update\n\nDer Verkehr hat sich allerortens wieder beruhigt. Die Busse verkehren aktuell nach Fahrplan. \n#HVV"
+    "payload": "Li. 21, 22, 23, 24, 26, 39, 189 Update Der Verkehr hat sich allerortens wieder beruhigt. Die Busse verkehren aktuell nach Fahrplan. #HVV",
+    "id": "796805977488183300",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "li",
+        "21",
+        "22",
+        "23",
+        "24",
+        "26",
+        "39",
+        "189",
+        "update",
+        "der",
+        "verkehr",
+        "hat",
+        "sich",
+        "allerortens",
+        "wieder",
+        "beruhigt",
+        "die",
+        "busse",
+        "verkehren",
+        "aktuell",
+        "nach",
+        "fahrplan",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "Li. 21, 22, 23, 24, 26, 39, 189 Update Der Verkehr hat sich allerortens wieder beruhigt. Die Busse verkehren aktuell nach Fahrplan. #HVV \u001b[33m(0)\u001b[39m"
+    }
   },
   "796816529149005800": {
     "score": "undefined",
-    "payload": "@Oesi345 JA, allerdings finde ich es unschön&amp; merkwürdig, dass nob &amp; nordbahn selbst dazu nix sagen: https://t.co/nIYkN9VPkW"
+    "payload": "@Oesi345 JA, allerdings finde ich es unschön& merkwürdig, dass nob & nordbahn selbst dazu nix sagen: https://t.co/nIYkN9VPkW",
+    "id": "796816529149005800",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "oesi345",
+        "ja",
+        "allerdings",
+        "finde",
+        "ich",
+        "es",
+        "unschön",
+        "merkwürdig",
+        "dass",
+        "nob",
+        "",
+        "nordbahn",
+        "selbst",
+        "dazu",
+        "nix",
+        "sagen",
+        "httpstconiykn9vpkw"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "@Oesi345 JA, allerdings finde ich es unschön& merkwürdig, dass nob & nordbahn selbst dazu nix sagen: https://t.co/nIYkN9VPkW \u001b[33m(0)\u001b[39m"
+    }
   },
   "796817790887923700": {
     "score": "undefined",
-    "payload": "@Oesi345 Oh, stimmt, das melde ich dann auch. Danke."
+    "payload": "@Oesi345 Oh, stimmt, das melde ich dann auch. Danke.",
+    "id": "796817790887923700",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "oesi345",
+        "oh",
+        "stimmt",
+        "das",
+        "melde",
+        "ich",
+        "dann",
+        "auch",
+        "danke"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "@Oesi345 Oh, stimmt, das melde ich dann auch. Danke. \u001b[33m(0)\u001b[39m"
+    }
   },
   "796817913151897600": {
     "score": "undefined",
-    "payload": "RT @NDRsh: Probleme bei Nord-Ostsee-Bahn auf Strecke Hamburg-Sylt. Dort gilt ab Morgen ein Notbetrieb wg. technischer Störungen.https://t.c…"
+    "payload": "RT @NDRsh: Probleme bei Nord-Ostsee-Bahn auf Strecke Hamburg-Sylt. Dort gilt ab Morgen ein Notbetrieb wg. technischer Störungen.https://t.c…",
+    "id": "796817913151897600",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "rt",
+        "ndrsh",
+        "probleme",
+        "bei",
+        "nord-ostsee-bahn",
+        "auf",
+        "strecke",
+        "hamburg-sylt",
+        "dort",
+        "gilt",
+        "ab",
+        "morgen",
+        "ein",
+        "notbetrieb",
+        "wg",
+        "technischer",
+        "störungenhttpstc"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @NDRsh: Probleme bei Nord-Ostsee-Bahn auf Strecke Hamburg-Sylt. Dort gilt ab Morgen ein Notbetrieb wg. technischer Störungen.https://t.c… \u001b[33m(0)\u001b[39m"
+    }
   },
   "796818913610920000": {
     "score": "undefined",
-    "payload": "RE6\nWg technischer Probleme an der Zugflotte der NOB verkehren ab Fr., den 11.11.16, keine Züge mehr zw.... https://t.co/SBKQh5EjaD"
+    "payload": "RE6 Wg technischer Probleme an der Zugflotte der NOB verkehren ab Fr., den 11.11.16, keine Züge mehr zw.... https://t.co/SBKQh5EjaD",
+    "id": "796818913610920000",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "re6",
+        "wg",
+        "technischer",
+        "probleme",
+        "an",
+        "der",
+        "zugflotte",
+        "der",
+        "nob",
+        "verkehren",
+        "ab",
+        "fr",
+        "den",
+        "111116",
+        "keine",
+        "züge",
+        "mehr",
+        "zw",
+        "httpstcosbkqh5ejad"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RE6 Wg technischer Probleme an der Zugflotte der NOB verkehren ab Fr., den 11.11.16, keine Züge mehr zw.... https://t.co/SBKQh5EjaD \u001b[33m(0)\u001b[39m"
+    }
   },
   "796821374220271600": {
     "score": "undefined",
-    "payload": "U1\nSperrung zwischen Norderstedt Mitte &lt;&gt; Ochsenzoll von Fr., 21:30 Uhr bis einschl. Sonntag wegen Arbeiten am... https://t.co/KXOFzzHUET"
+    "payload": "U1 Sperrung zwischen Norderstedt Mitte <> Ochsenzoll von Fr., 21:30 Uhr bis einschl. Sonntag wegen Arbeiten am... https://t.co/KXOFzzHUET",
+    "id": "796821374220271600",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "Sperrung zwischen"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.058823529411764705,
+      "tokens": [
+        "u1",
+        "replace",
+        "norderstedt",
+        "mitte",
+        "",
+        "ochsenzoll",
+        "von",
+        "fr",
+        "2130",
+        "uhr",
+        "bis",
+        "einschl",
+        "sonntag",
+        "wegen",
+        "arbeiten",
+        "am",
+        "httpstcokxofzzhuet"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "U1 \u001b[44mSperrung zwischen\u001b[49m\u001b[33m(-1)\u001b[39m Norderstedt Mitte <> Ochsenzoll von Fr., 21:30 Uhr bis einschl. Sonntag wegen Arbeiten am... https://t.co/KXOFzzHUET \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796821988299903000": {
     "score": "undefined",
-    "payload": "U2, U4\nPendelzug / SEV mit Bussen zw. Horner Rennbahn&lt;&gt;Billstedt am 12.11. bis einschl. 13.11. Betriebsschluss:… https://t.co/Fwa8kb9MEg"
+    "payload": "U2, U4 Pendelzug / SEV mit Bussen zw. Horner Rennbahn<>Billstedt am 12.11. bis einschl. 13.11. Betriebsschluss:… https://t.co/Fwa8kb9MEg",
+    "id": "796821988299903000",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "u2",
+        "u4",
+        "pendelzug",
+        "",
+        "sev",
+        "mit",
+        "bussen",
+        "zw",
+        "horner",
+        "rennbahnbillstedt",
+        "am",
+        "1211",
+        "bis",
+        "einschl",
+        "1311",
+        "betriebsschluss",
+        "httpstcofwa8kb9meg"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "U2, U4 Pendelzug / SEV mit Bussen zw. Horner Rennbahn<>Billstedt am 12.11. bis einschl. 13.11. Betriebsschluss:… https://t.co/Fwa8kb9MEg \u001b[33m(0)\u001b[39m"
+    }
   },
   "796825000489717800": {
     "score": "undefined",
-    "payload": "S21, S31\n\nVon Samstag, 12. + 19. November (1 Uhr) bis Sonntag, 13. + 20. November verkehren keine Züge der S21... https://t.co/DxpfDcbmx8"
+    "payload": "S21, S31 Von Samstag, 12. + 19. November (1 Uhr) bis Sonntag, 13. + 20. November verkehren keine Züge der S21... https://t.co/DxpfDcbmx8",
+    "id": "796825000489717800",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "s21",
+        "s31",
+        "von",
+        "samstag",
+        "12",
+        "",
+        "19",
+        "november",
+        "1",
+        "uhr",
+        "bis",
+        "sonntag",
+        "13",
+        "",
+        "20",
+        "november",
+        "verkehren",
+        "keine",
+        "züge",
+        "der",
+        "s21",
+        "httpstcodxpfdcbmx8"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S21, S31 Von Samstag, 12. + 19. November (1 Uhr) bis Sonntag, 13. + 20. November verkehren keine Züge der S21... https://t.co/DxpfDcbmx8 \u001b[33m(0)\u001b[39m"
+    }
   },
   "796961131474653200": {
     "score": "undefined",
-    "payload": "31 8800 8891\nBeidseitig Umleitung wegen Sperrung B5. Verspätungen bis 30 Minuten möglich.\n#HVV"
+    "payload": "31 8800 8891 Beidseitig Umleitung wegen Sperrung B5. Verspätungen bis 30 Minuten möglich. #HVV",
+    "id": "796961131474653200",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "Verspätungen bis 30 Min",
+          "Umleitung wegen Sperrung"
+        ],
+        "neutral": []
+      },
+      "score": -2,
+      "comparative": -0.2222222222222222,
+      "tokens": [
+        "31",
+        "8800",
+        "8891",
+        "beidseitig",
+        "replace",
+        "b5",
+        "replaceuten",
+        "möglich",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "31 8800 8891 Beidseitig \u001b[44mUmleitung wegen Sperrung\u001b[49m\u001b[33m(-1)\u001b[39m B5. \u001b[44mVerspätungen bis 30 Min\u001b[49m\u001b[33m(-1)\u001b[39muten möglich. #HVV \u001b[31m(-2)\u001b[39m"
+    }
   },
   "796968416468996100": {
     "score": "undefined",
-    "payload": "RT @echtnurich: @HVVStoerungen Diebsteich Ri. Hbf hats ein paar Verspätungen, vermutlich Stau hinter der ersten S21 von 7:44. https://t.co/…"
+    "payload": "RT @echtnurich: @HVVStoerungen Diebsteich Ri. Hbf hats ein paar Verspätungen, vermutlich Stau hinter der ersten S21 von 7:44. https://t.co/…",
+    "id": "796968416468996100",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "Stau"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.05263157894736842,
+      "tokens": [
+        "rt",
+        "echtnurich",
+        "hvvstoerungen",
+        "diebsteich",
+        "ri",
+        "hbf",
+        "hats",
+        "ein",
+        "paar",
+        "verspätungen",
+        "vermutlich",
+        "replace",
+        "hinter",
+        "der",
+        "ersten",
+        "s21",
+        "von",
+        "744",
+        "httpstco"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @echtnurich: @HVVStoerungen Diebsteich Ri. Hbf hats ein paar Verspätungen, vermutlich \u001b[44mStau\u001b[49m\u001b[33m(-1)\u001b[39m hinter der ersten S21 von 7:44. https://t.co/… \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796968573893832700": {
     "score": "undefined",
-    "payload": "S3\nIn beiden Ri wg techn. Störungen bis zu 10 Min. verspätet. S21 ab Elbgaustr. bis zu 5 Min. später\n#HVV"
+    "payload": "S3 In beiden Ri wg techn. Störungen bis zu 10 Min. verspätet. S21 ab Elbgaustr. bis zu 5 Min. später #HVV",
+    "id": "796968573893832700",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "bis zu 10 Min. verspätet",
+          "wg techn. Störung"
+        ],
+        "neutral": []
+      },
+      "score": -2,
+      "comparative": -0.18181818181818182,
+      "tokens": [
+        "s3",
+        "in",
+        "beiden",
+        "ri",
+        "replaceen",
+        "replace",
+        "s21",
+        "ab",
+        "elbgaustr",
+        "replace",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S3 In beiden Ri \u001b[44mwg techn. Störung\u001b[49m\u001b[33m(-1)\u001b[39men \u001b[44mbis zu 10 Min. verspätet\u001b[49m\u001b[33m(-1)\u001b[39m. S21 ab Elbgaustr. \u001b[44mbis zu 10 Min. verspätet\u001b[49m\u001b[33m(-1)\u001b[39m #HVV \u001b[31m(-2)\u001b[39m"
+    }
   },
   "796970211119427600": {
     "score": "undefined",
-    "payload": "Li. 21, 183\nWg Stau auf der Holsteiner Ch. derzeit 10-20 Min. Verspätung möglich.\n#HVV"
+    "payload": "Li. 21, 183 Wg Stau auf der Holsteiner Ch. derzeit 10-20 Min. Verspätung möglich. #HVV",
+    "id": "796970211119427600",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "Wg Stau",
+          "10-20 Min. Verspätung möglich"
+        ],
+        "neutral": []
+      },
+      "score": -2,
+      "comparative": -0.18181818181818182,
+      "tokens": [
+        "li",
+        "21",
+        "183",
+        "replace",
+        "auf",
+        "der",
+        "holsteiner",
+        "ch",
+        "derzeit",
+        "replace",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "Li. 21, 183 \u001b[44mWg Stau\u001b[49m\u001b[33m(-1)\u001b[39m auf der Holsteiner Ch. derzeit \u001b[44m10-20 Min. Verspätung möglich\u001b[49m\u001b[33m(-1)\u001b[39m. #HVV \u001b[31m(-2)\u001b[39m"
+    }
   },
   "796974469470363600": {
     "score": "undefined",
-    "payload": "RE6 Update\nSonderfahrplan zw. Niebüll&lt;&gt;Itzehoe mit Zügen der DB veröffentlicht:\nhttps://t.co/nIYkN9VPkW\n\n#HVV"
+    "payload": "RE6 Update Sonderfahrplan zw. Niebüll<>Itzehoe mit Zügen der DB veröffentlicht: https://t.co/nIYkN9VPkW #HVV",
+    "id": "796974469470363600",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "re6",
+        "update",
+        "sonderfahrplan",
+        "zw",
+        "niebüllitzehoe",
+        "mit",
+        "zügen",
+        "der",
+        "db",
+        "veröffentlicht",
+        "httpstconiykn9vpkw",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RE6 Update Sonderfahrplan zw. Niebüll<>Itzehoe mit Zügen der DB veröffentlicht: https://t.co/nIYkN9VPkW #HVV \u001b[33m(0)\u001b[39m"
+    }
   },
   "796978030472208400": {
     "score": "undefined",
-    "payload": "S3, S21 Update\n\nWegen technischer Störungen derzeit ab Elbgaustr. in beiden Ri. ca. 4-8 Min. Verspätung möglich. \n\n#HVV"
+    "payload": "S3, S21 Update Wegen technischer Störungen derzeit ab Elbgaustr. in beiden Ri. ca. 4-8 Min. Verspätung möglich. #HVV",
+    "id": "796978030472208400",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "ca. 4-8 Min. Verspätung"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.06666666666666667,
+      "tokens": [
+        "s3",
+        "s21",
+        "update",
+        "wegen",
+        "technischer",
+        "störungen",
+        "derzeit",
+        "ab",
+        "elbgaustr",
+        "in",
+        "beiden",
+        "ri",
+        "replace",
+        "möglich",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S3, S21 Update Wegen technischer Störungen derzeit ab Elbgaustr. in beiden Ri. \u001b[44mca. 4-8 Min. Verspätung\u001b[49m\u001b[33m(-1)\u001b[39m möglich. #HVV \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796979507823575000": {
     "score": "undefined",
-    "payload": "Li. 120, 124\nAufgrund von Straßenglätte derzeit bis zu 30 Min. Verspätung möglich.\n#HVV"
+    "payload": "Li. 120, 124 Aufgrund von Straßenglätte derzeit bis zu 30 Min. Verspätung möglich. #HVV",
+    "id": "796979507823575000",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "bis zu 30 Min. Verspätung"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.1,
+      "tokens": [
+        "li",
+        "120",
+        "124",
+        "aufgrund",
+        "von",
+        "straenglätte",
+        "derzeit",
+        "replace",
+        "möglich",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "Li. 120, 124 Aufgrund von Straßenglätte derzeit \u001b[44mbis zu 30 Min. Verspätung\u001b[49m\u001b[33m(-1)\u001b[39m möglich. #HVV \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796984040373059600": {
     "score": "undefined",
-    "payload": "RT @vhhbus: #vhh31 Wegen Sperrung der B5 (Grünhof - Schnakenbek) fährt die Linie ab sofort großräumig Umleitung. #HVV"
+    "payload": "RT @vhhbus: #vhh31 Wegen Sperrung der B5 (Grünhof - Schnakenbek) fährt die Linie ab sofort großräumig Umleitung. #HVV",
+    "id": "796984040373059600",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "Umleitung",
+          "Wegen Sperrung"
+        ],
+        "neutral": []
+      },
+      "score": -2,
+      "comparative": -0.11764705882352941,
+      "tokens": [
+        "rt",
+        "vhhbus",
+        "vhh31",
+        "replace",
+        "der",
+        "b5",
+        "grünhof",
+        "-",
+        "schnakenbek",
+        "fährt",
+        "die",
+        "linie",
+        "ab",
+        "sofort",
+        "groräumig",
+        "replace",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @vhhbus: #vhh31 \u001b[44mWegen Sperrung\u001b[49m\u001b[33m(-1)\u001b[39m der B5 (Grünhof - Schnakenbek) fährt die Linie ab sofort großräumig \u001b[44mUmleitung\u001b[49m\u001b[33m(-1)\u001b[39m. #HVV \u001b[31m(-2)\u001b[39m"
+    }
   },
   "796984644440821800": {
     "score": "undefined",
-    "payload": "RT @vhhbus: #vhh31 Zwischen Geesthacht, ZOB und Schnakenbek fährt die Linie über Gülzow. #HVV"
+    "payload": "RT @vhhbus: #vhh31 Zwischen Geesthacht, ZOB und Schnakenbek fährt die Linie über Gülzow. #HVV",
+    "id": "796984644440821800",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "rt",
+        "vhhbus",
+        "vhh31",
+        "zwischen",
+        "geesthacht",
+        "zob",
+        "und",
+        "schnakenbek",
+        "fährt",
+        "die",
+        "linie",
+        "über",
+        "gülzow",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @vhhbus: #vhh31 Zwischen Geesthacht, ZOB und Schnakenbek fährt die Linie über Gülzow. #HVV \u001b[33m(0)\u001b[39m"
+    }
   },
   "796985641326301200": {
     "score": "undefined",
-    "payload": "RE7, 70, RB61\nSignalstörung zw. Pinneberg &amp; Hamburg Hbf. Verspätungen von bis zu 20 Min. in beiden Richtungen im Zugverkehr\n#hvv"
+    "payload": "RE7, 70, RB61 Signalstörung zw. Pinneberg & Hamburg Hbf. Verspätungen von bis zu 20 Min. in beiden Richtungen im Zugverkehr #hvv",
+    "id": "796985641326301200",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "Verspätungen von bis zu 20 Min.",
+          "Signalstörung"
+        ],
+        "neutral": []
+      },
+      "score": -2,
+      "comparative": -0.125,
+      "tokens": [
+        "re7",
+        "70",
+        "rb61",
+        "replace",
+        "zw",
+        "pinneberg",
+        "",
+        "hamburg",
+        "hbf",
+        "replace",
+        "in",
+        "beiden",
+        "richtungen",
+        "im",
+        "zugverkehr",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RE7, 70, RB61 \u001b[44mSignalstörung\u001b[49m\u001b[33m(-1)\u001b[39m zw. Pinneberg & Hamburg Hbf. \u001b[44mVerspätungen von bis zu 20 Min.\u001b[49m\u001b[33m(-1)\u001b[39m in beiden Richtungen im Zugverkehr #hvv \u001b[31m(-2)\u001b[39m"
+    }
   },
   "796991061726003200": {
     "score": "undefined",
-    "payload": "RT @vhhbus: #vhh164 Die Fahrt 09:01 Uhr von Bf. Rahlstedt zum Bf. Rahlstedt (09:20) entfällt wegen verkehrsbedingter Verspätung. #HVV"
+    "payload": "RT @vhhbus: #vhh164 Die Fahrt 09:01 Uhr von Bf. Rahlstedt zum Bf. Rahlstedt (09:20) entfällt wegen verkehrsbedingter Verspätung. #HVV",
+    "id": "796991061726003200",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "entfällt"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.05263157894736842,
+      "tokens": [
+        "rt",
+        "vhhbus",
+        "vhh164",
+        "die",
+        "fahrt",
+        "0901",
+        "uhr",
+        "von",
+        "bf",
+        "rahlstedt",
+        "zum",
+        "bf",
+        "rahlstedt",
+        "0920",
+        "replace",
+        "wegen",
+        "verkehrsbedingter",
+        "verspätung",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @vhhbus: #vhh164 Die Fahrt 09:01 Uhr von Bf. Rahlstedt zum Bf. Rahlstedt (09:20) \u001b[44mentfällt\u001b[49m\u001b[33m(-1)\u001b[39m wegen verkehrsbedingter Verspätung. #HVV \u001b[31m(-1)\u001b[39m"
+    }
   },
   "796991134274908200": {
     "score": "undefined",
-    "payload": "RT @metronom4me: Wegen einer Störung am Fahrzeug steht ME 82008 von Bremen in Richtung Hamburg in Hamburg-Harburg. Die Weiterfahrt verzöger…"
+    "payload": "RT @metronom4me: Wegen einer Störung am Fahrzeug steht ME 82008 von Bremen in Richtung Hamburg in Hamburg-Harburg. Die Weiterfahrt verzöger…",
+    "id": "796991134274908200",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "rt",
+        "metronom4me",
+        "wegen",
+        "einer",
+        "störung",
+        "am",
+        "fahrzeug",
+        "steht",
+        "me",
+        "82008",
+        "von",
+        "bremen",
+        "in",
+        "richtung",
+        "hamburg",
+        "in",
+        "hamburg-harburg",
+        "die",
+        "weiterfahrt",
+        "verzöger"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @metronom4me: Wegen einer Störung am Fahrzeug steht ME 82008 von Bremen in Richtung Hamburg in Hamburg-Harburg. Die Weiterfahrt verzöger… \u001b[33m(0)\u001b[39m"
+    }
   },
   "796999534966698000": {
     "score": "undefined",
-    "payload": "@iverbpunkt Die Angst vor langen Wörtern und das zweitlängste Wort im dt Sprachschatz (36 Buchst.)"
+    "payload": "@iverbpunkt Die Angst vor langen Wörtern und das zweitlängste Wort im dt Sprachschatz (36 Buchst.)",
+    "id": "796999534966698000",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "iverbpunkt",
+        "die",
+        "angst",
+        "vor",
+        "langen",
+        "wörtern",
+        "und",
+        "das",
+        "zweitlängste",
+        "wort",
+        "im",
+        "dt",
+        "sprachschatz",
+        "36",
+        "buchst"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "@iverbpunkt Die Angst vor langen Wörtern und das zweitlängste Wort im dt Sprachschatz (36 Buchst.) \u001b[33m(0)\u001b[39m"
+    }
   },
   "796999853154955300": {
     "score": "undefined",
-    "payload": "RT @oSchoep: @HVVStoerungen harburger ring&amp; umgebung wieder total überlastet, +30 min im buss😐"
+    "payload": "RT @oSchoep: @HVVStoerungen harburger ring& umgebung wieder total überlastet, +30 min im buss😐",
+    "id": "796999853154955300",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "rt",
+        "oschoep",
+        "hvvstoerungen",
+        "harburger",
+        "ring",
+        "umgebung",
+        "wieder",
+        "total",
+        "überlastet",
+        "30",
+        "min",
+        "im",
+        "buss"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @oSchoep: @HVVStoerungen harburger ring& umgebung wieder total überlastet, +30 min im buss😐 \u001b[33m(0)\u001b[39m"
+    }
   },
   "797010538316398600": {
     "score": "undefined",
-    "payload": "Busverkehr im Raum Harburg, Fleestedt &amp; Meckelfeld derzeit stark verspätet durch Straßenglätte &amp; Rückstau von A1 / A7 her.\n#HVV"
+    "payload": "Busverkehr im Raum Harburg, Fleestedt & Meckelfeld derzeit stark verspätet durch Straßenglätte & Rückstau von A1 / A7 her. #HVV",
+    "id": "797010538316398600",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "verspätet ",
+          "stau"
+        ],
+        "neutral": []
+      },
+      "score": -2,
+      "comparative": -0.10526315789473684,
+      "tokens": [
+        "busverkehr",
+        "im",
+        "raum",
+        "harburg",
+        "fleestedt",
+        "",
+        "meckelfeld",
+        "derzeit",
+        "stark",
+        "replacedurch",
+        "straenglätte",
+        "",
+        "rückreplace",
+        "von",
+        "a1",
+        "",
+        "a7",
+        "her",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "Busverkehr im Raum Harburg, Fleestedt & Meckelfeld derzeit stark \u001b[44mverspätet \u001b[49m\u001b[33m(-1)\u001b[39mdurch Straßenglätte & Rück\u001b[44mstau\u001b[49m\u001b[33m(-1)\u001b[39m von A1 / A7 her. #HVV \u001b[31m(-2)\u001b[39m"
+    }
   },
   "797012628799373300": {
     "score": "undefined",
-    "payload": "RE7 RE70 RB61 Update\nDie Signalstörung zw. Pinneberg &amp; Hamburg ist behoben. Der Zugverkehr normalisiert sich wieder.\n#HVV"
+    "payload": "RE7 RE70 RB61 Update Die Signalstörung zw. Pinneberg & Hamburg ist behoben. Der Zugverkehr normalisiert sich wieder. #HVV",
+    "id": "797012628799373300",
+    "sentiment": {
+      "phrases": {
+        "positive": [
+          "normal",
+          "Signalstörung zw. Pinneberg & Hamburg ist behoben"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 3,
+      "comparative": 0.25,
+      "tokens": [
+        "re7",
+        "re70",
+        "rb61",
+        "update",
+        "die",
+        "replace",
+        "der",
+        "zugverkehr",
+        "replaceisiert",
+        "sich",
+        "wieder",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RE7 RE70 RB61 Update Die \u001b[44mSignalstörung zw. Pinneberg & Hamburg ist behoben\u001b[49m\u001b[33m(2)\u001b[39m. Der Zugverkehr \u001b[44mnormal\u001b[49m\u001b[33m(1)\u001b[39misiert sich wieder. #HVV \u001b[32m(3)\u001b[39m"
+    }
   },
   "797013187258445800": {
     "score": "undefined",
-    "payload": "164\nFahrt 10:46 Uhr von Bf. Rahlstedt nach Bf. Rahlstedt (11:05) entfällt wegen kurzfristigem Fahrzeugdefekt.\n#HVV"
+    "payload": "164 Fahrt 10:46 Uhr von Bf. Rahlstedt nach Bf. Rahlstedt (11:05) entfällt wegen kurzfristigem Fahrzeugdefekt. #HVV",
+    "id": "797013187258445800",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "entfällt"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.0625,
+      "tokens": [
+        "164",
+        "fahrt",
+        "1046",
+        "uhr",
+        "von",
+        "bf",
+        "rahlstedt",
+        "nach",
+        "bf",
+        "rahlstedt",
+        "1105",
+        "replace",
+        "wegen",
+        "kurzfristigem",
+        "fahrzeugdefekt",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "164 Fahrt 10:46 Uhr von Bf. Rahlstedt nach Bf. Rahlstedt (11:05) \u001b[44mentfällt\u001b[49m\u001b[33m(-1)\u001b[39m wegen kurzfristigem Fahrzeugdefekt. #HVV \u001b[31m(-1)\u001b[39m"
+    }
   },
   "797014045241049100": {
     "score": "undefined",
-    "payload": "S1, S21, S31, S3\nSperrung Gleis 4 in Altona mit veränderten Fahrzeiten / kein Übergang S31/S21&lt;&gt;S1 an den kommenden… https://t.co/JTixv5FouW"
+    "payload": "S1, S21, S31, S3 Sperrung Gleis 4 in Altona mit veränderten Fahrzeiten / kein Übergang S31/S21<>S1 an den kommenden… https://t.co/JTixv5FouW",
+    "id": "797014045241049100",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "s1",
+        "s21",
+        "s31",
+        "s3",
+        "sperrung",
+        "gleis",
+        "4",
+        "in",
+        "altona",
+        "mit",
+        "veränderten",
+        "fahrzeiten",
+        "",
+        "kein",
+        "übergang",
+        "s31s21s1",
+        "an",
+        "den",
+        "kommenden",
+        "httpstcojtixv5fouw"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S1, S21, S31, S3 Sperrung Gleis 4 in Altona mit veränderten Fahrzeiten / kein Übergang S31/S21<>S1 an den kommenden… https://t.co/JTixv5FouW \u001b[33m(0)\u001b[39m"
+    }
   },
   "797023346047275000": {
     "score": "undefined",
-    "payload": "S21\n&gt;&gt;Elbgaustr. ab Bergedorf 11:27h, ab Nettelnburg 11:30h fällt wegen einer technischen Störung aus.\n#HVV"
+    "payload": "S21 >>Elbgaustr. ab Bergedorf 11:27h, ab Nettelnburg 11:30h fällt wegen einer technischen Störung aus. #HVV",
+    "id": "797023346047275000",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "s21",
+        "elbgaustr",
+        "ab",
+        "bergedorf",
+        "1127h",
+        "ab",
+        "nettelnburg",
+        "1130h",
+        "fällt",
+        "wegen",
+        "einer",
+        "technischen",
+        "störung",
+        "aus",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S21 >>Elbgaustr. ab Bergedorf 11:27h, ab Nettelnburg 11:30h fällt wegen einer technischen Störung aus. #HVV \u001b[33m(0)\u001b[39m"
+    }
   },
   "797030451902816300": {
     "score": "undefined",
-    "payload": "S21\n&gt;&gt;Elbgaustr. ab Bergedorf 11:57h, ab Nettelnburg 12:00h entfällt wegen einer technischen Störung.\n#HVV"
+    "payload": "S21 >>Elbgaustr. ab Bergedorf 11:57h, ab Nettelnburg 12:00h entfällt wegen einer technischen Störung. #HVV",
+    "id": "797030451902816300",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "entfällt"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.07142857142857142,
+      "tokens": [
+        "s21",
+        "elbgaustr",
+        "ab",
+        "bergedorf",
+        "1157h",
+        "ab",
+        "nettelnburg",
+        "1200h",
+        "replace",
+        "wegen",
+        "einer",
+        "technischen",
+        "störung",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S21 >>Elbgaustr. ab Bergedorf 11:57h, ab Nettelnburg 12:00h \u001b[44mentfällt\u001b[49m\u001b[33m(-1)\u001b[39m wegen einer technischen Störung. #HVV \u001b[31m(-1)\u001b[39m"
+    }
   },
   "797033776002043900": {
     "score": "undefined",
-    "payload": "@JS_0208 Ist gemeldet: https://t.co/TiTuIyhwmZ"
+    "payload": "@JS_0208 Ist gemeldet: https://t.co/TiTuIyhwmZ",
+    "id": "797033776002043900",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "js0208",
+        "ist",
+        "gemeldet",
+        "httpstcotituiyhwmz"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "@JS_0208 Ist gemeldet: https://t.co/TiTuIyhwmZ \u001b[33m(0)\u001b[39m"
+    }
   },
   "797038180230987800": {
     "score": "undefined",
-    "payload": "S21 Update\nWeiterhin Streckensperrung Berliner Tor &lt;&gt; Bergedorf wegen Schienenbruchs. Dauer unklar. Wir melden uns.\n#HVV"
+    "payload": "S21 Update Weiterhin Streckensperrung Berliner Tor <> Bergedorf wegen Schienenbruchs. Dauer unklar. Wir melden uns. #HVV",
+    "id": "797038180230987800",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "Weiterhin Streckensperrung"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.06666666666666667,
+      "tokens": [
+        "s21",
+        "update",
+        "replace",
+        "berliner",
+        "tor",
+        "",
+        "bergedorf",
+        "wegen",
+        "schienenbruchs",
+        "dauer",
+        "unklar",
+        "wir",
+        "melden",
+        "uns",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S21 Update \u001b[44mWeiterhin Streckensperrung\u001b[49m\u001b[33m(-1)\u001b[39m Berliner Tor <> Bergedorf wegen Schienenbruchs. Dauer unklar. Wir melden uns. #HVV \u001b[31m(-1)\u001b[39m"
+    }
   },
   "797039285773996000": {
-    "score": "undefined",
-    "payload": "RT @SBahnHamburg: Streckensperrung Linie #S21 zw. Bergedorf &lt;&gt; Berliner Tor aufgehoben. Ersatzverkehr wird eingestellt. S-Bahnen fahren wie…"
+    "score": "=3",
+    "payload": "RT @SBahnHamburg: Streckensperrung Linie #S21 zw. Bergedorf <> Berliner Tor aufgehoben. Ersatzverkehr wird eingestellt. S-Bahnen fahren wie…",
+    "id": "797039285773996000",
+    "sentiment": {
+      "phrases": {
+        "positive": [
+          "Bahnen fahren",
+          "Ersatzverkehr wird eingestellt",
+          "Streckensperrung Linie #S21 zw. Bergedorf <> Berliner Tor aufgehoben"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 3,
+      "comparative": 0.5,
+      "tokens": [
+        "rt",
+        "sbahnhamburg",
+        "replace",
+        "replace",
+        "s-replace",
+        "wie"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @SBahnHamburg: \u001b[44mStreckensperrung Linie #S21 zw. Bergedorf <> Berliner Tor aufgehoben\u001b[49m\u001b[33m(1)\u001b[39m. \u001b[44mErsatzverkehr wird eingestellt\u001b[49m\u001b[33m(1)\u001b[39m. S-\u001b[44mBahnen fahren\u001b[49m\u001b[33m(1)\u001b[39m wie… \u001b[32m(3)\u001b[39m"
+    }
   },
   "797046676322189300": {
-    "score": "undefined",
-    "payload": "@sbahnhamburg Derzeit allerdings mit Taktlücken von bis zu 20 Minuten. Ohne Durchsage."
+    "score": "=-1",
+    "payload": "@sbahnhamburg Derzeit allerdings mit Taktlücken von bis zu 20 Minuten. Ohne Durchsage.",
+    "id": "797046676322189300",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "Taktlücken"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.08333333333333333,
+      "tokens": [
+        "sbahnhamburg",
+        "derzeit",
+        "allerdings",
+        "mit",
+        "replace",
+        "von",
+        "bis",
+        "zu",
+        "20",
+        "minuten",
+        "ohne",
+        "durchsage"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "@sbahnhamburg Derzeit allerdings mit \u001b[44mTaktlücken\u001b[49m\u001b[33m(-1)\u001b[39m von bis zu 20 Minuten. Ohne Durchsage. \u001b[31m(-1)\u001b[39m"
+    }
   },
   "797047262434197500": {
-    "score": "undefined",
-    "payload": "S21\nWg vorangegangener Streckensperrung derzeit Taktlücken zw Berliner Tor&lt;&gt;Aumühle zw 10 &amp; 20 Min\n#hvv"
-  },
-  "797061801171095600": {
-    "score": "undefined",
-    "payload": "RT @vhhbus: #vhh31 #vhh8800 #vhh8891 #vhh638 Neues End-Datum: Voraussichtlich 12.11.2016 um 18 Uhr. #HVV"
-  },
-  "797063814944583700": {
-    "score": "undefined",
-    "payload": "RT @vhhbus: #vhh195 Fahrt 14:38 von Niendorf (Nord) beginnt verkehrsbedingt am Modering (14:42). Zwischen Niendorf und Modering bitte Li 21…"
+    "score": "=-2",
+    "payload": "S21 Wg vorangegangener Streckensperrung derzeit Taktlücken zw Berliner Tor<>Aumühle zw 10 & 20 Min #hvv",
+    "id": "797047262434197500",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          " Streckensperrung",
+          "Taktlücken"
+        ],
+        "neutral": []
+      },
+      "score": -2,
+      "comparative": -0.14285714285714285,
+      "tokens": [
+        "s21",
+        "wg",
+        "vorangegangenerreplace",
+        "derzeit",
+        "replace",
+        "zw",
+        "berliner",
+        "toraumühle",
+        "zw",
+        "10",
+        "",
+        "20",
+        "min",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "S21 Wg vorangegangener\u001b[44m Streckensperrung\u001b[49m\u001b[33m(-1)\u001b[39m derzeit \u001b[44mTaktlücken\u001b[49m\u001b[33m(-1)\u001b[39m zw Berliner Tor<>Aumühle zw 10 & 20 Min #hvv \u001b[31m(-2)\u001b[39m"
+    }
   },
   "797070037727244300": {
-    "score": "undefined",
-    "payload": "RT @vhhbus: #vhh21 #vhh284 Hohe Verspätung, einzelne Fahrten enden bereits am Modering. #HVV"
+    "score": "=-1",
+    "payload": "RT @vhhbus: #vhh21 #vhh284 Hohe Verspätung, einzelne Fahrten enden bereits am Modering. #HVV",
+    "id": "797070037727244300",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [
+          "Hohe Verspätung"
+        ],
+        "neutral": []
+      },
+      "score": -1,
+      "comparative": -0.08333333333333333,
+      "tokens": [
+        "rt",
+        "vhhbus",
+        "vhh21",
+        "vhh284",
+        "replace",
+        "einzelne",
+        "fahrten",
+        "enden",
+        "bereits",
+        "am",
+        "modering",
+        "hvv"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "RT @vhhbus: #vhh21 #vhh284 \u001b[44mHohe Verspätung\u001b[49m\u001b[33m(-1)\u001b[39m, einzelne Fahrten enden bereits am Modering. #HVV \u001b[31m(-1)\u001b[39m"
+    }
   }
 }

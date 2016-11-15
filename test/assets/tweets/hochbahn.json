@@ -1,70 +1,64 @@
 {
   "795951599814328300": {
     "score": "=-2",
-    "payload": "#U2: Ersatzverkehr mit Taxen und Bussen zw. #Billstedt und #Mümmelmannsberg. Grund: Feueralarm. Wir melden uns wieder. #hvv"
+    "payload": "#U2: Ersatzverkehr mit Taxen und Bussen zw. #Billstedt und #Mümmelmannsberg. Grund: Feueralarm. Wir melden uns wieder. #hvv",
+    "id": "795951599814328300"
   },
   "795961584908701700": {
     "score": "=2",
-    "payload": "#U2: Wir fahren auch wieder zw. #Billstedt und #Mümmelmannsberg. Gute Fahrt! #hvv"
+    "payload": "#U2: Wir fahren auch wieder zw. #Billstedt und #Mümmelmannsberg. Gute Fahrt! #hvv",
+    "id": "795961584908701700"
   },
   "796372745646805000": {
     "score": "=0",
-    "payload": "#U1: Von Freitag, 11.11., 21.30 Uhr, bis Sonntag, 13.11., Betriebsende, fahren zw. #Ochsenzoll &amp; #NorderstedtMitte… https://t.co/6V3lUj2xHT"
+    "payload": "#U1: Von Freitag, 11.11., 21.30 Uhr, bis Sonntag, 13.11., Betriebsende, fahren zw. #Ochsenzoll &amp; #NorderstedtMitte… https://t.co/6V3lUj2xHT",
+    "id": "796372745646805000"
   },
   "796595336735260700": {
     "score": "=-2",
-    "payload": "Störungen auf der #U1, #U2 und #U4 in der Innenstadt wg. Feueralarm am Jungfernstieg. Busse und Taxen im Einsatz. #hvv"
+    "payload": "Störungen auf der #U1, #U2 und #U4 in der Innenstadt wg. Feueralarm am Jungfernstieg. Busse und Taxen im Einsatz. #hvv",
+    "id": "796595336735260700"
   },
   "796601860710957000": {
     "score": "=1",
-    "payload": "#U1 #U2 #U4 Wir fahren wieder auf den kompletten Linien. #hvv #@"
-  },
-  "796977819247145000": {
-    "score": "undefined",
-    "payload": "@bluezzdrummer Welche Anzeige? Das geben wir dann weiter. /as"
-  },
-  "796979058370297900": {
-    "score": "undefined",
-    "payload": "@DerSchulze @mwde Wir sind hier dran: https://t.co/HBo37uEKkU /as"
-  },
-  "796979437761888300": {
-    "score": "undefined",
-    "payload": "@_micha @Telekom_hilft Bitte Mobilfunkanbieter kontaktieren. Da sind Sie richtig. /as"
-  },
-  "796999870166995000": {
-    "score": "undefined",
-    "payload": "@bluezzdrummer Danke, lassen wir checken. /as"
-  },
-  "797000265681563600": {
-    "score": "undefined",
-    "payload": "@santapauli1980 @ChristianHelms @Curi0us Bei uns haben Sie sich noch nie beschwert. Wo ist das? /as"
-  },
-  "797006427487371300": {
-    "score": "undefined",
-    "payload": "@santapauli1980 Ich kann mich an das Thema nicht erinnern, gebe das gerne an das Taubenmanagement weiter :) /as https://t.co/T5dcSUhDe8"
+    "payload": "#U1 #U2 #U4 Wir fahren wieder auf den kompletten Linien. #hvv #@",
+    "id": "796601860710957000"
   },
   "797018923401117700": {
-    "score": "undefined",
-    "payload": "#Helau - #Alaaf - #Kamelle? Wir wissen es doch auch nicht. Hauptsache Freitag ;) #TGIF #Karneval https://t.co/ZBpDXtIyik"
-  },
-  "797020424362229800": {
-    "score": "undefined",
-    "payload": "@FAKTOR_3 😜🎉/as"
-  },
-  "797020899673309200": {
-    "score": "undefined",
-    "payload": "@Beschwerdinator Genau! Trööööthhhh 😜🎉/as"
-  },
-  "797032598073708500": {
-    "score": "undefined",
-    "payload": "@ChrizRummel Wir haben deswegen gestern oft hin und her telefoniert. Wir machen das gerne noch mal. ❤️ /as"
-  },
-  "797059882608427000": {
-    "score": "undefined",
-    "payload": "\"Die U1 ist leeeider verspätet...\" Gefühlt vergeht gerade kein Tag ohne Störung auf der #U1. Warum? https://t.co/ar0QTVcz5k #verbloggt"
-  },
-  "797063533104169000": {
-    "score": "undefined",
-    "payload": "@LtValeris Bitte den Blog-Beitrag zuerst lesen, dann tauschen wir uns gerne aus. :) /as"
+    "score": "=0",
+    "payload": "#Helau - #Alaaf - #Kamelle? Wir wissen es doch auch nicht. Hauptsache Freitag ;) #TGIF #Karneval https://t.co/ZBpDXtIyik",
+    "id": "797018923401117700",
+    "sentiment": {
+      "phrases": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "score": 0,
+      "comparative": 0,
+      "tokens": [
+        "helau",
+        "-",
+        "alaaf",
+        "-",
+        "kamelle",
+        "wir",
+        "wissen",
+        "es",
+        "doch",
+        "auch",
+        "nicht",
+        "hauptsache",
+        "freitag",
+        "",
+        "tgif",
+        "karneval",
+        "httpstcozbpdxtiyik"
+      ],
+      "words": [],
+      "positive": [],
+      "negative": [],
+      "debugMessage": "#Helau - #Alaaf - #Kamelle? Wir wissen es doch auch nicht. Hauptsache Freitag ;) #TGIF #Karneval https://t.co/ZBpDXtIyik \u001b[33m(0)\u001b[39m"
+    }
   }
 }

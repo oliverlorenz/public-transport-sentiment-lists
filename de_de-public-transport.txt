@@ -46,6 +46,7 @@ derzeit planmäßiger zugverkehr	1
 durch busse ersetzt	-1
 Busse und Taxen im Einsatz	-1
 ebenfalls gesperrt	-1
+Hohe Verspätung	-1
 entfallen	-1
 entfallen die haltestellen	-1
 entfernt 0
@@ -55,7 +56,9 @@ fallen.*streikbedingt aus	-1
 ersatzverkehr( mit bussen und taxen| mit taxen und bussen| mit bussen| mit taxen).*(läuft aus)	1
 ersatzverkehr( mit bussen und taxen| mit taxen und bussen| mit bussen| mit taxen) ?(angefordert)?	-1
 ersatzverkehr.*läuft aus	1
+Ersatzverkehr wird eingestellt	1
 ersatzverkehr( ist.wird| wird.ist| ist| wird)?( eingerichtet| ausgeweitet)?	0
+ersatzverkehr( ist.wird| wird.ist| ist| wird)?( eingestellt)?	1
 es kommt zu verspätungen	-1
 fahren ab sofort wieder	1
 fahren auch wieder	1
@@ -66,8 +69,8 @@ fährt zur zeit wegen	-1
 fällt( wegen Bauarbeiten | )?aus	-1
 fällt betriebsbedingt aus	-1
 halten momentan nicht	-1
-grund: *(bauarbeiten|polizeieinsatz|feuerwehreinsatz|feueralarm|dringende instandsetzungsarbeiten|instandsetzungsarbeiten|ausfall der bahnsteigbeleuchtung|Langsamfahrstellen|weichenstörung) beendet	1
-grund: *(bauarbeiten|polizeieinsatz|feuerwehreinsatz|feueralarm|dringende instandsetzungsarbeiten|instandsetzungsarbeiten|ausfall der bahnsteigbeleuchtung|Langsamfahrstellen|weichenstörung)	-1
+grund: *(dringende )?(bauarbeiten|gleisarbeiten|polizeieinsatz|feuerwehreinsatz|feueralarm|dringende instandsetzungsarbeiten|instandsetzungsarbeiten|ausfall der bahnsteigbeleuchtung|Langsamfahrstellen|weichenstörung) beendet	1
+grund: *(dringende )?(bauarbeiten|gleisarbeiten|polizeieinsatz|feuerwehreinsatz|feueralarm|dringende instandsetzungsarbeiten|instandsetzungsarbeiten|ausfall der bahnsteigbeleuchtung|Langsamfahrstellen|weichenstörung)	-1
 gute fahrt!	1
 hat sich beruhigt	1
 hat sich wieder beruhigt	1
@@ -106,6 +109,7 @@ sind behoben	1
 sperrung wurde aufgehoben	1
 später aufgrund von verzögerungen	-1
 (wegen |wg |durch |nach |zugrück|mega)?stau	-1
+Streckensperrung Linie.*aufgehoben	1
 Streckensperrung Linie	-1
 (strecken)?sperrung.*(ist?|wurde|) aufgehoben	1
 (weiterhin|erweiterung der)? streckensperrung	-1

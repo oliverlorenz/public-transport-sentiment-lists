@@ -68,15 +68,15 @@
     "payload": "Die Linien #S1 + #S3 fahren wieder durch den Citytunnel. Grund: Feuerwehreinsatz beendet. #hvv #sbahnhh"
   },
   "796723702100533200": {
-    "score": "undefined",
+    "score": "=-1",
     "payload": "Von 16 bis 18 Uhr fällt die #S3 mit Ziel Buxtehude zw. Neugraben &lt;&gt; Buxtehude in beiden Richtungen aus. #hvv #sbahnhh"
   },
   "797029031854088200": {
-    "score": "undefined",
+    "score": "=-2",
     "payload": "Derzeit Streckensperrung Linie #S21 zw. Bergedorf&lt;&gt;Berliner Tor.Ersatzverkehr wird eingerichtet.Grund:Dringende Gleisarbeiten. #hvv #sbahnhh"
   },
   "797038974158114800": {
-    "score": "undefined",
+    "score": "=3",
     "payload": "Streckensperrung Linie #S21 zw. Bergedorf &lt;&gt; Berliner Tor aufgehoben. Ersatzverkehr wird eingestellt. S-Bahnen fahren wieder. #hvv #sbahnhh"
   }
 }

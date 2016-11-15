@@ -43,14 +43,16 @@ accounts.forEach((index) => {
         answer = answer || assetItem.sentiment.score
         if (answer === 'x') {
           delete assets[assetItem.id]
+        } else if (answer === 's') {
+          assets[assetItem.id].score = 'skipped'
         } else {
           assets[assetItem.id].score = `=${answer}`
           delete assets[assetItem.id].sentiment
         }
         fs.writeFileSync(`./test/assets/tweets/${index}.json`, JSON.stringify(assets, null, 2))
         rl.close()
-        const spawn = require('child_process').spawn;
-        const ls = spawn('npm', ['test']);
+        const spawn = require('child_process').spawn
+        const ls = spawn('npm', ['test'])
         ls.stdout.pipe(process.stdout)
       })
     }

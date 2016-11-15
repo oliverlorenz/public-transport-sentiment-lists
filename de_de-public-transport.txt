@@ -12,6 +12,7 @@ verspätung(en)? .*ausgefahren	1
 (kommt es.* zu )?Verspätung(en|) ?(von)? bis zu \d+\s*Min(\.|uten|)	-1
 (kommt es.* zu )?Verspätung(en|) ?(zwischen|zw|zw.) \d+-\d+ ?Min(\.|uten|)	-1
 Grund für die Sperrung	-2
+Bahnen fahren	wieder 1
 Bahnen fahren	1
 Zurzeit unregelmäßiger Betrieb	-1
 (ebenfalls mit )?Verspätung(en|) zw(ischen|\.)? \d+ (&|u|u\.|und|&) \d+ Min(\.|uten|)?	-1

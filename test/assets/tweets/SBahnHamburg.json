@@ -96,7 +96,7 @@
     "payload": "#S1: Metrobus 15 + Ersatzverkehr statt S-Bahnen zw. Altona &lt;&gt; Klein Flottbek. Grund: Stellwerksstörung in Altona. #hvv #sbahnhh"
   },
   "797299604291207200": {
-    "score": "undefined",
+    "score": "=1",
     "payload": "#S1: S-Bahnen fahren wieder zw. Altona &lt;&gt; Klein Flottbek. Grund: Stellwerksstörung in Altona behoben. #hvv #sbahnhh"
   }
 }

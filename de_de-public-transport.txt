@@ -114,7 +114,7 @@ Streckensperrung Linie	-1
 (strecken)?sperrung.*(ist?|wurde|) aufgehoben	1
 (weiterhin|erweiterung der)? streckensperrung	-1
 (tech\. |techn\. |Betriebs|Signal)störung.*ist behoben	2
-(aufgrund.*)?(tech\. |techn\. |Betriebs|Signal)störung	-1
+(aufgrund.*)?(tech\. |techn\. |Betriebs|Signal|stellwerks)störung	-1
 taktet sich wieder ein	1
 taktlücken	-1
 teilsperrung	-1

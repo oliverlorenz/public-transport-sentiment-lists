@@ -43,6 +43,8 @@ accounts.forEach((index) => {
         answer = answer || assetItem.sentiment.score
         if (answer === 'x') {
           delete assets[assetItem.id]
+        } else if (answer === 's') {
+          assets[assetItem.id].score = 'skipped'
         } else {
           assets[assetItem.id].score = `=${answer}`
           delete assets[assetItem.id].sentiment

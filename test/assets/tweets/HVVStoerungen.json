@@ -4874,5 +4874,9 @@
   "799706628308299800": {
     "score": "undefined",
     "payload": "RE1\n&gt;&gt;Hamburg Hbf ab Schwarzenbek 21:21h, ab Bergedorf um 21:32h ca. 20-25 Min. später aufgrund einer technischen Störung am Zug.\n#hvv"
+  },
+  "799711174753480700": {
+    "score": "undefined",
+    "payload": "RE1 Update\n&gt;&gt;Hamburg Hbf ab Schwarzenbek 21:21h, ab Bergedorf um 21:32h ca. 35 Min. später aufgrund einer technischen Störung am Zug.\n#hvv"
   }
 }

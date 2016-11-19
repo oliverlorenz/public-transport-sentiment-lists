@@ -4898,5 +4898,9 @@
   "799867220226613200": {
     "score": "undefined",
     "payload": "S21 S31\nKeine S-Bahnen über die Dammtorlinie. Grund: Personenunfall bei der Fernbahn. S21 via Citytunnel. S31 fällt aus.\n#HVV"
+  },
+  "799867903541706800": {
+    "score": "undefined",
+    "payload": "RE7 RE70 RB61\nUmleitung der Bahnen von Hamburg Hbf nach Altona aufgrund eines Notarzteinsatzes am Gleis. Dammtor &amp; Hbf entfallen\n#hvv"
   }
 }

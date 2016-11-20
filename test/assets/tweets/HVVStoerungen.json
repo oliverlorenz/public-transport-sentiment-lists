@@ -5034,5 +5034,9 @@
   "800310409110704100": {
     "score": "undefined",
     "payload": "RE70\n&gt;&gt;Hamburg Hbf ab Elmshorn 13:11 wg techn. Störung am Zug ca 45 Min später &amp; endet in Pinneberg.\n#hvv"
+  },
+  "800311275746164700": {
+    "score": "undefined",
+    "payload": "RE70\n&gt;&gt;Kiel ab Hamburg Hbf 14:21h beginnt heute erst in Pinneberg um 14:35h\n&gt;&gt;Hamburg Hbf ab Elmshorn 14:11h verspätet sich um ca. 30-40 Min"
   }
 }

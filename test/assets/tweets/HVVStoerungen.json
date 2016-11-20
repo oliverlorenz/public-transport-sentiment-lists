@@ -5026,5 +5026,9 @@
   "800308877401067500": {
     "score": "undefined",
     "payload": "RB81\n&gt;&gt;Ahrensburg ab Hamburg Hbf 14:08h entfällt wegen einer technischen Störung\n&gt;&gt;Hamburg Hbf ab Ahrensburg 15:22h fällt ebenfalls aus."
+  },
+  "800309011275010000": {
+    "score": "undefined",
+    "payload": "@HVVStoerungen Ersatzweise halten die Züge der RE8 ab Hamburg Hbf 14:04h und in Ri Hamburg um 15:35h in Ahrensburg."
   }
 }

@@ -5082,5 +5082,9 @@
   "800408148184068100": {
     "score": "undefined",
     "payload": "RE7 RE70 RB61\nDer liegengebliebene Zug am Dammtor wurde entfernt. In Ri Elmshorn kommt es noch zu leichtem Zugrückstau.\n#hvv"
+  },
+  "800409008997699600": {
+    "score": "undefined",
+    "payload": "RE8 RB81 Update\nDie Bahnübergangsstörung zw. Bad Oldesloe &lt;&gt; Ahrensburg ist wieder behoben. Der Zugverkehr normalisiert sich gerade.\n#hvv"
   }
 }

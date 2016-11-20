@@ -5030,5 +5030,9 @@
   "800309011275010000": {
     "score": "undefined",
     "payload": "@HVVStoerungen Ersatzweise halten die Züge der RE8 ab Hamburg Hbf 14:04h und in Ri Hamburg um 15:35h in Ahrensburg."
+  },
+  "800310409110704100": {
+    "score": "undefined",
+    "payload": "RE70\n&gt;&gt;Hamburg Hbf ab Elmshorn 13:11 wg techn. Störung am Zug ca 45 Min später &amp; endet in Pinneberg.\n#hvv"
   }
 }

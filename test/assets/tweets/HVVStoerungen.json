@@ -5086,5 +5086,9 @@
   "800409008997699600": {
     "score": "undefined",
     "payload": "RE8 RB81 Update\nDie Bahnübergangsstörung zw. Bad Oldesloe &lt;&gt; Ahrensburg ist wieder behoben. Der Zugverkehr normalisiert sich gerade.\n#hvv"
+  },
+  "800409625732386800": {
+    "score": "undefined",
+    "payload": "S3 RE5\nWg eines Baumes auf den Gleisen bei Horneburg kommt es zu Teilausfällen Horneburg&lt;&gt;Stade bei d S3 &amp; zu Verspätungen von bis zu 30 Min"
   }
 }

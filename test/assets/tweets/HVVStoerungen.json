@@ -5134,5 +5134,9 @@
   "800569566304890900": {
     "score": "undefined",
     "payload": "S3\nAufgrund einer Signalstörung kommt es zu Teilausfällen zw. Elbgaustr. &lt;&gt; Pinneberg mit Taktlücken von bis zu 20 Min\n#hvv"
+  },
+  "800573363030724600": {
+    "score": "undefined",
+    "payload": "S3 Update\nDer Betrieb zw. Elbgaustr &lt;&gt; Pinneberg normalisiert sich wieder. Vereinzelt noch 5-10 Min. Verspätung möglich.\n#hvv"
   }
 }

@@ -5182,5 +5182,9 @@
   "800610176306774000": {
     "score": "undefined",
     "payload": "S3, S31 Update\nDer Polizeieinsatz in Wilhelmsburg ist beendet. Verspätungen zw. 10 &amp; 20 Min. entstanden. Zugverkehr läuft wieder durchgehend"
+  },
+  "800612447598035000": {
+    "score": "undefined",
+    "payload": "U1\nErsatzverkehr mit Bussen zw. #Kellinghusenstraße und #Stephansplatz. Grund: Erkrankte Person.\n#hvv"
   }
 }

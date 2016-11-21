@@ -5178,5 +5178,9 @@
   "800606972500439000": {
     "score": "undefined",
     "payload": "S3, S31\nAufgrund eines Polizeieinsatzes in Wilhelmsburg verkehren die Bahnen zw. Harburg&lt;&gt;Veddel mit erheblichen Verzögerungen.\n#hvv"
+  },
+  "800610176306774000": {
+    "score": "undefined",
+    "payload": "S3, S31 Update\nDer Polizeieinsatz in Wilhelmsburg ist beendet. Verspätungen zw. 10 &amp; 20 Min. entstanden. Zugverkehr läuft wieder durchgehend"
   }
 }

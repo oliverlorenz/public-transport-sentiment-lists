@@ -5130,5 +5130,9 @@
   "800568520316747800": {
     "score": "undefined",
     "payload": "S3 RE5\nDie Strecke Stade &lt;&gt; Horneburg ist wieder freigegeben.\nBei der S3 kommt es witterungsbedingt noch zu Teilausfällen Stade&lt;&gt;Buxtehude."
+  },
+  "800569566304890900": {
+    "score": "undefined",
+    "payload": "S3\nAufgrund einer Signalstörung kommt es zu Teilausfällen zw. Elbgaustr. &lt;&gt; Pinneberg mit Taktlücken von bis zu 20 Min\n#hvv"
   }
 }

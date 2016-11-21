@@ -5154,5 +5154,9 @@
   "800601040345251800": {
     "score": "undefined",
     "payload": "RE5\n&gt;&gt;Hamburg Hbf ab Stade 9:03h, ab Buxtehude 9:21h ca. 20 Min. später wegen Einhaltung der Arbeitsschutzpause.\n#hvv"
+  },
+  "800604833115992000": {
+    "score": "undefined",
+    "payload": "193\nFahrt 08:24 von Garstedt zum Lademannbogen (Ost) entfällt nach Unfall.\n#HVV"
   }
 }

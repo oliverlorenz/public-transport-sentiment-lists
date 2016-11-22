@@ -7,7 +7,7 @@
     "test": "cd node_modules/sentiment-custom-lists; npm run postinstall; cd ../..; mocha --recursive test/weights",
     "check": "node test/checkScript.js",
     "u": "git pull",
-    "p": "git commit -am 'scored tweets'; git push",
+    "p": "git commit -am 'scored tweets'; npm version patch; git push --tags; git push",
     "s": "npm run p",
     "c": "node test/checkScript.js; npm run c",
     "check-and-test": "cd node_modules/sentiment-custom-lists; npm run postinstall; cd ../..; node test/checkScript.js; mocha --recursive test/weights"

@@ -1,3 +1,4 @@
+@\w+	0
 bis zu \d+ min(ute)?n? verspätung	-1
 (wg|wg.|wegen)( eines)? schadhafte(n|m) zug(es)?	-1
 läuft störungsfrei	1

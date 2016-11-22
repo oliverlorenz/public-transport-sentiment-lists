@@ -1,91 +1,67 @@
 'use strict'
-const accounts = [
-  'hochbahn',
-  'HVVStoerungen',
-  'SBahnHamburg'
-]
-const sentiment = require('sentiment-custom-lists')
-const readline = require('readline')
+
 const fs = require('fs')
-
-const list = 'de_de-public-transport'
-
-function getFirstUndefinedDatasetId (assets) {
-  return new Promise((resolve, reject) => {
-    const keys = Object.keys(assets)
-    let id
-    while (id = keys.pop()) {
-      const assetItem = Object.assign({}, assets[id])
-      assetItem.id = id
-      if (assetItem.score === 'undefined') {
-          assetItem.payload = assetItem.payload
-          .replace(/\s+/ig, ' ')
-          .replace(/&amp;/ig, '&')
-          .replace(/&gt;/ig, '>')
-          .replace(/&lt;/ig, '<')
-        assetItem.sentiment = sentiment(assetItem.payload, list)
-        resolve(assetItem)
-      }
-    }
-  })
+const readline = require('readline')
+const sentiment = require('sentiment-custom-lists')
+let fallbackFile
+const assetFiles = fs.readdirSync(__dirname + '/assets/tweets/').filter((filename) => {
+  const matched = filename.match(/\.json$/)
+  if (matched && fs.readFileSync(__dirname + '/assets/tweets/' + filename).indexOf('"undefined"') !== -1) {
+    fallbackFile = filename.replace(/\.json$/, '')
+  }
+  return filename.match(/\.json$/)
+})
+if (assetFiles.indexOf(process.argv[2] + '.json') === -1) {
+  process.argv[2] = fallbackFile
 }
 
-accounts.forEach((index) => {
-  const assets = require(`./assets/tweets/${index}.json`)
-  getFirstUndefinedDatasetId(assets)
-  .then((assetItem) => {
-    if (assetItem.sentiment) {
-      const rl = readline.createInterface({
-        input: process.stdin,
-        output: process.stdout
-      })
-      rl.question(assetItem.sentiment.debugMessage, (answer) => {
-        answer = answer || assetItem.sentiment.score
-        if (answer === 'x') {
-          delete assets[assetItem.id]
-        } else if (answer === 's') {
-          assets[assetItem.id].score = 'skipped'
-        } else {
-          assets[assetItem.id].score = `=${answer}`
-          delete assets[assetItem.id].sentiment
-        }
-        fs.writeFileSync(`./test/assets/tweets/${index}.json`, JSON.stringify(assets, null, 2))
-        rl.close()
-        const spawn = require('child_process').spawn
-        const ls = spawn('npm', ['test'])
-        ls.stdout.pipe(process.stdout)
-      })
+const selectedFilename = process.argv[2]
+const list = process.argv[3] || 'de_de-public-transport'
+
+const assets = require(__dirname + `/assets/tweets/${selectedFilename}.json`)
+
+const tweetIds = Object.keys(assets)
+
+console.log('use: ' + selectedFilename)
+
+function getNext (expectedScore = 'undefined') {
+  let index = 0
+  let item
+  let sentimentObject
+  let tweetId
+  while (tweetId = tweetIds.pop()) {
+    assets[tweetId].payload = assets[tweetId].payload
+      .replace(/\s+/ig, ' ')
+      .replace(/&amp;/ig, '&')
+      .replace(/&gt;/ig, '>')
+      .replace(/&lt;/ig, '<')
+    sentimentObject = sentiment(assets[tweetId].payload, list)
+    if (assets[tweetId].score === expectedScore) {
+      return {
+        id: tweetId,
+        sentimentObject
+      }
     }
-  })
+    index++
+  }
+  return null
+}
+
+const item = getNext('undefined')
+
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout
 })
-
-/*
-accounts.forEach((index) => {
-  const assets = require(`./assets/tweets/${index}.json`)
-  const rl = readline.createInterface({
-    input: process.stdin,
-    output: process.stdout
-  })
-
-  let assetItem
-  let calclulatedScore
-  const keys = Object.keys(assets)
-  let key
-  while (key = keys.pop()) {
-    assetItem = Object.assign({}, assets[key])
-    console.log(key, assetItem.score)
-    assetItem.id = key
-    if (assetItem.score === 'undefined') {
-      assetItem.payload = assetItem.payload
-        .replace(/\s+/ig, ' ')
-        .replace(/&amp;/ig, '&')
-        .replace(/&gt;/ig, '>')
-        .replace(/&lt;/ig, '<')
-      assetItem.sentiment = sentiment(assetItem.payload, list)
-      calclulatedScore = assetItem.sentiment.score
-      break;
-    }
+rl.question(item.sentimentObject.debugMessage, (answer) => {
+  if (answer.match(/s/i)) {
+    assets[item.id].score = 'skipped'
+  } else if (answer.match(/x/i)) {
+    delete assets[item.id]
+  } else {
+    assets[item.id].score = answer || item.sentimentObject.score
   }
 
+  fs.writeFileSync(__dirname + `/assets/tweets/${selectedFilename}.json`, JSON.stringify(assets, null, 2))
+  process.exit(0)
 })
-*/

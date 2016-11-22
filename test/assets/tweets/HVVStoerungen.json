@@ -4432,27 +4432,19 @@
     "payload": "Li.20 verkehrt ab sofort wieder bis Altona.\nRestl Li in Eppendorf/Lokstedt/Niendorf &amp; Schnelsen takten sich wieder ein. \n#hvv"
   },
   "798589150337253400": {
-    "score": "undefined",
-    "payload": "Linien 5, 604 Sperrung Busspur U Hoheluftbrücke\n\nVon Mittwoch, den 16.11. bis voraussichtlich Freitag, den... https://t.co/gm7k4ftjWk"
-  },
-  "798589569511936000": {
-    "score": "undefined",
-    "payload": "@aus_der_ubahn *gesendet auf Stufe 4*"
-  },
-  "798598713325318100": {
-    "score": "undefined",
-    "payload": "Li. 8742, 8763\nAb Mittwoch, 16.11.2016, werden die Buslinien 8742 und 8763 umgeleitet und können die Haltestellen... https://t.co/sihwB7fwDl"
+    "score": "skipped",
+    "payload": "Linien 5, 604 Sperrung Busspur U Hoheluftbrücke Von Mittwoch, den 16.11. bis voraussichtlich Freitag, den... https://t.co/gm7k4ftjWk"
   },
   "798599666103251000": {
-    "score": "undefined",
-    "payload": "RE6, 7, 70 RB61/71\nStellwerksstörung in Elmshorn. Verspätungen zw. 10 &amp; 25 Min. aktuell in jeweils beiden Richtungen.\n#HVV"
+    "score": -2,
+    "payload": "RE6, 7, 70 RB61/71 Stellwerksstörung in Elmshorn. Verspätungen zw. 10 & 25 Min. aktuell in jeweils beiden Richtungen. #HVV"
   },
   "798604094814486500": {
-    "score": "undefined",
-    "payload": "RE6 RE7 RE70 RB61 RB71 Update\n Die Stellwerksstörung in Elmshorn ist behoben. Die Züge verkehren wieder fast durchgehend planmäßig.\n#HVV"
+    "score": "skipped",
+    "payload": "RE6 RE7 RE70 RB61 RB71 Update Die Stellwerksstörung in Elmshorn ist behoben. Die Züge verkehren wieder fast durchgehend planmäßig. #HVV"
   },
   "798611101554507800": {
     "score": "=-2",
-    "payload": "S1\n&gt;&gt;Airport/Poppenbüttel ab Blankenese 20:37h, ab Hbf 21:04h ca. 8 Min. später aufgrund einer technischen Störung.\n#HVV"
+    "payload": "S1 >>Airport/Poppenbüttel ab Blankenese 20:37h, ab Hbf 21:04h ca. 8 Min. später aufgrund einer technischen Störung. #HVV"
   }
 }

@@ -2196,23 +2196,15 @@
     "payload": "U2, U4 Weiterhin technische Störung am Gleis zw. Berliner Tor<>Jungfernstieg. Beidseitig 5-10 Min. Verspätung möglich. #hvv"
   },
   "801079921154158600": {
-    "score": "undefined",
+    "score": "skipped",
     "payload": "Linie 177, 277 Update Die Hst. Harzensweg & Hellbrookstraße werden wieder regulär bedient. Die Unfallstelle wurde geräumt. #hvv"
   },
-  "801081207236821000": {
-    "score": "undefined",
-    "payload": "RT @PolizeiHamburg: #Fliegerbombe #Lokstedt. Achtung nicht erschrecken❗ Der Zünder wird in Kürze kontrolliert durch den KMRD gesprengt. htt…"
-  },
-  "801082928855777300": {
-    "score": "undefined",
-    "payload": "RT @FeuerwehrHH: Die Fliegerbombe in #Hamburg #Eppendorf wurde erfolgreich durch den #Kampfmittelräumdienst der #FeuerwehrHH entschärft.…"
-  },
   "801092515164209200": {
-    "score": "undefined",
+    "score": "skipped",
     "payload": "U2, U4 Update Der Betrieb auf beiden Li. hat sich wieder eingetaktet & die techn Störung ist behoben. #hvv"
   },
   "801103587095052300": {
-    "score": "undefined",
-    "payload": "Li. 1, 285\nStau auf der Schenefelder Landstraße, bis zu 20 Minuten Verspätung.\n #HVV"
+    "score": "=-2",
+    "payload": "Li. 1, 285 Stau auf der Schenefelder Landstraße, bis zu 20 Minuten Verspätung. #HVV"
   }
 }

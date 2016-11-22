@@ -6,7 +6,7 @@
   "scripts": {
     "test": "cd node_modules/sentiment-custom-lists; npm run postinstall; cd ../..; mocha --recursive test/weights",
     "check": "node test/checkScript.js",
-    "check2": "cd node_modules/sentiment-custom-lists; npm run postinstall; cd ../.."
+    "check-and-test": "cd node_modules/sentiment-custom-lists; npm run postinstall; cd ../..; node test/checkScript.js; mocha --recursive test/weights"
   },
   "repository": {
     "type": "git",

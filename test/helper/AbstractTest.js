@@ -21,8 +21,8 @@ module.exports = (() => {
         const result = sentiment(assetItem.payload, list)
         const pattern = /^([<>=!]+)([0-9-]+)$/g
 
-        if (assetItem.score === 'undefined') {
-          describe(result.debugMessage + ` (undefined)`.grey, () => {
+        if (assetItem.score === 'undefined' || assetItem.score === 'skipped') {
+          describe(result.debugMessage + ` (${assetItem.score})`.grey, () => {
             it.skip('this is a automatic added tweet. please add a score to unskip this test', () => {
 
             })

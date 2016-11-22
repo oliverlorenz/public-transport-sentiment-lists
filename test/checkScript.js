@@ -59,7 +59,8 @@ rl.question(item.sentimentObject.debugMessage, (answer) => {
   } else if (answer.match(/x/i)) {
     delete assets[item.id]
   } else {
-    assets[item.id].score = answer || item.sentimentObject.score
+    assets[item.id].score = '='
+    assets[item.id].score += answer || item.sentimentObject.score
   }
 
   fs.writeFileSync(__dirname + `/assets/tweets/${selectedFilename}.json`, JSON.stringify(assets, null, 2))

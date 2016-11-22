@@ -2184,15 +2184,15 @@
     "payload": "U2, U4 Aufgrund einer Störung am Gleis im Bereich Berliner Tor / Jungfernstieg kommt es derzeit beidseitig zu Verspätungen von ca 10 Min."
   },
   "801070268055748600": {
-    "score": "undefined",
+    "score": "=-1",
     "payload": "RT @vhhbus: #vhh281 Das UKE kann weiterhin nicht bedient werden. #HVV"
   },
   "801071307987292200": {
-    "score": "undefined",
+    "score": "skipped",
     "payload": "Li. 5, 39 Update Die Umleitung im Bereich Siemersplatz / Gärtnerstr. wurde aufgehoben. Verspätungen weiterhin möglich. #hvv"
   },
   "801077617013260300": {
-    "score": "undefined",
+    "score": "skipped",
     "payload": "U2, U4 Weiterhin technische Störung am Gleis zw. Berliner Tor<>Jungfernstieg. Beidseitig 5-10 Min. Verspätung möglich. #hvv"
   },
   "801079921154158600": {

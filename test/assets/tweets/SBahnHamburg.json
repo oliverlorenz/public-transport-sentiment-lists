@@ -98,5 +98,37 @@
   "797299604291207200": {
     "score": "=1",
     "payload": "#S1: S-Bahnen fahren wieder zw. Altona &lt;&gt; Klein Flottbek. Grund: Stellwerksstörung in Altona behoben. #hvv #sbahnhh"
+  },
+  "798895753523580900": {
+    "score": "undefined",
+    "payload": "Aus betrieblichen Gründen fährt die Linie #S11 während der heutigen Hauptverkehrszeit nur zw. Poppenbüttel &lt;&gt; Othmarschen. #hvv #sbahnhh"
+  },
+  "799525648410832900": {
+    "score": "undefined",
+    "payload": "Streckensperrung #S3 zwischen Neugraben &lt;&gt; Harburg Rathaus. Grund: Polizeieinsatz in Neugraben. #hvv #sbahnhh"
+  },
+  "799526261500604400": {
+    "score": "undefined",
+    "payload": "Streckensperrung zwischen Neugraben &lt;&gt; Harburg Rathaus aufgehoben. #S3 fährt wieder. #hvv #sbahnhh"
+  },
+  "799632147191468000": {
+    "score": "undefined",
+    "payload": "19.+20. November: Fahrplanänderung zw. Hauptbahnhof &lt;&gt; Berliner Tor + in Altona wg. Bauarbeiten.  https://t.co/sqoWFTqb8h   #HVV   #sbahnhh"
+  },
+  "799865857874821100": {
+    "score": "undefined",
+    "payload": "Aktuell fahren keine S-Bahnen über die #Verbindungsbahn. Grund: Personenunfall bei der Fernbahn. #S21 via #Citytunnel. #S31 fällt aus. #HVV"
+  },
+  "799872936362602500": {
+    "score": "undefined",
+    "payload": "Die Linien #S21 und #S31 haben den Betrieb über die #Verbindungsbahn soeben wieder aufgenommen. Personenunfall bei Fernbahn beendet. #HVV"
+  },
+  "800413101015253000": {
+    "score": "undefined",
+    "payload": "#S3-Betrieb #Stade &lt;&gt; #Horneburg eingestellt. Ersatzverkehrs im Aufbau. Grund: Baum in die Oberleitung gestürzt. #HVV"
+  },
+  "800463891129958400": {
+    "score": "undefined",
+    "payload": "#S3-Ersatzverkehr #Stade &lt;&gt; #Horneburg bleibt bis zum Betriebsschluss bestehen. Grund: Durch umgestürzten Baum beschädigte Oberleitung. #HVV"
   }
 }

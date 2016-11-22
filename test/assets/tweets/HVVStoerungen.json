@@ -4446,5 +4446,925 @@
   "798611101554507800": {
     "score": "=-2",
     "payload": "S1 >>Airport/Poppenbüttel ab Blankenese 20:37h, ab Hbf 21:04h ca. 8 Min. später aufgrund einer technischen Störung. #HVV"
+  },
+  "798641687924908000": {
+    "score": "undefined",
+    "payload": "RT @stefan213hh: S-Bahn Sternschanze: Diese Rolltreppe ist eine Schande (via @mopo) https://t.co/vwS9911hgZ"
+  },
+  "798655382348566500": {
+    "score": "undefined",
+    "payload": "RE7 RE70 RB61/71\nWegen einer Signalstörung zw. Tornesch&lt;&gt;Elmshorn kommt es zu Verspätungen von bis zu 30 Minuten.\n#HVV"
+  },
+  "798767043956723700": {
+    "score": "undefined",
+    "payload": "RE7 RE70 RB61/71 Update\nVereinzelt kommt es wg der Signalstörung zwischen Elmshorn &lt;&gt; Tornesch noch zu Verspätungen von bis zu 15 Min.\n#HVV"
+  },
+  "798772035375616000": {
+    "score": "undefined",
+    "payload": "S1, S11\nAufgrund einer Signalstörung zw. Blankenese &amp; Kl. Flottbek kommt es zu Verspätungen von bis zu 10 Min.\n#HVV"
+  },
+  "798772366268506100": {
+    "score": "undefined",
+    "payload": "U2\nIn Ri Mümmelmannsberg ab Hagenbecks Tierpark &amp; Folgehst. derzeit bis zu 7 Min. verspätete Bahnen.\n#HVV"
+  },
+  "798781477001408500": {
+    "score": "undefined",
+    "payload": "U2 Update\nIn Ri Mümmelmannsberg wieder pünktliche Züge ab Hagenbecks Tierpark.\n#HVV"
+  },
+  "798784185854873600": {
+    "score": "undefined",
+    "payload": "143, 443\nDie Hst. Lichtenauerweg wird heute (Mi.) zw. ca. 9 &amp; 15 Uhr in Ri Harburg ersatzlos aufgehoben.\n#HVV"
+  },
+  "798785150330884100": {
+    "score": "undefined",
+    "payload": "Linie 195\nVerkehrsbedingte Verspätungen von bis zu 20 Minuten.\n#HVV"
+  },
+  "798790226646736900": {
+    "score": "undefined",
+    "payload": "S1, S11 Update\nDie Signalstörung zwischen Blankenese &lt;&gt; Kl. Flottbek ist behoben. Der S-Bahnbetrieb normalisiert sich wieder.\n#HVV"
+  },
+  "798796455959871500": {
+    "score": "undefined",
+    "payload": "RE6 RE7 RE70 RB61 RB71\nDurch eine erneute Stellwerksstörung in Elmshorn kommt es zu Verspätungen zw. 10 &amp; 20 Min.\nRB71 verkürzt ab Elmshorn."
+  },
+  "798797048640176100": {
+    "score": "undefined",
+    "payload": "@Aus_der_UBahn @iverbpunkt Keine Ahnung von Physik,aber seinen Wlan-Toaster Sonnenblumenkernenvorräte automatisch nachfüllen lassen wollen."
+  },
+  "798803033731711000": {
+    "score": "undefined",
+    "payload": "RT @sweetlittlerosi: Der aktivste Twitter-Account in #Hamburg?  Natürlich @HVVStoerungen #HVV"
+  },
+  "798833324894490600": {
+    "score": "undefined",
+    "payload": "RE7, 70, RB71\nWeiterhin Verspätungen zw. 10 &amp; 20 Min. zw. Elmshorn&lt;&gt;Hamburg wg einer Störung am Gleis.\nRB71 verkehrt erst ab Elmshorn.\n#HVV"
+  },
+  "798851119388573700": {
+    "score": "undefined",
+    "payload": "Linie 195 Update\n\nAlle Fahrten werden wieder planmäßig geleistet.\n#HVV"
+  },
+  "798851835029135400": {
+    "score": "undefined",
+    "payload": "Li. 34,114,605\nDie Verlegung der Hst. U Klosterstern in die Rothenbaumchaussee bleibt vorerst bis Ende Januar wg verl. Bauarbeiten bestehen."
+  },
+  "798852650095644700": {
+    "score": "undefined",
+    "payload": "RE70, RB71 Update\nLt. DB Entstörung in Elmshorn für ab 13 Uhr gemeldet.\nRB71 soll ab 13:30 wieder planmäßig Wrist bedienen (unter Vorbehalt)"
+  },
+  "798860962442969100": {
+    "score": "undefined",
+    "payload": "RE7 RE70 RB71\nWeiterhin Signalstörungen zw. Neumünster/Wrist&lt;&gt;Elmshorn mit bis zu 20 Min Verspätung. RB71 verkehrt wieder ab/nach Wrist\n#HVV"
+  },
+  "798893879210766300": {
+    "score": "undefined",
+    "payload": "S11\nWg  einer Signal- / Stellwerksstörung verkehrt die S11 heute nur zw.  Othmarschen&lt;&gt;Poppenbüttel. S1 regulär bis Wedel/Blankenese.\n#HVV"
+  },
+  "798896194714042400": {
+    "score": "undefined",
+    "payload": "RE7 RE70 RB71 Update\nDie Signalstörung zwischen Elmshorn &amp; Wrist / Neumünster ist behoben. Derzeit wieder planmäßiger Zugverkehr.\n#HVV"
+  },
+  "798897506386145300": {
+    "score": "undefined",
+    "payload": "RT @SBahnHamburg: Aus betrieblichen Gründen fährt die Linie #S11 während der heutigen Hauptverkehrszeit nur zw. Poppenbüttel &lt;&gt; Othmarschen…"
+  },
+  "798904374416261100": {
+    "score": "undefined",
+    "payload": "Li. 23, 39\nAufgrund von Stau in Wandsbek derzeit 5-10 Min. verspätete Busse. Li. 39 im weiteren Verlauf bis zu 15 Min. verspätet.\n#HVV"
+  },
+  "798924927927799800": {
+    "score": "undefined",
+    "payload": "4,5,604\nSperrung d Busspur an der Stabi stadtauswärts bis Do. 12 Uhr verlängert.\n#hvv"
+  },
+  "798925722974875600": {
+    "score": "undefined",
+    "payload": "@hvvstoerungen\n4, 5, 604\nErsatzhst Stabi stadtauswärts Höhe Fröbelstraße am Fahrbahnrand."
+  },
+  "798941034185101300": {
+    "score": "undefined",
+    "payload": "S3, S31\nAb Neugraben &amp; Folgehaltestellen derzeit bis zu 10 Min. verspätete Bahnen.\n#HVV"
+  },
+  "798948763662512100": {
+    "score": "undefined",
+    "payload": "@UweDankers Bei hohem Fahrgastaufkommen bewirken ca. 5 Min. Verspätung schon recht viel.\nHVV müsste hier halt explizit Gelenkbusse bestellen"
+  },
+  "798948909309718500": {
+    "score": "undefined",
+    "payload": "@UweDankers Es gilt eben das Bestellerprinzip: Wenn HVV/Stadt HH will, dass mehr gefahren wird, muss mehr bestellt/gezahlt werden."
+  },
+  "798975444729135100": {
+    "score": "undefined",
+    "payload": "S3, S31 Update\nWieder störungsfreier Betrieb auf beiden Linien. \n\n#HVV"
+  },
+  "798998884068552700": {
+    "score": "undefined",
+    "payload": "S3\n&gt;&gt;Elbgaustr. ab Veddel 22:18h, ab Altona 22:39h ca. 10 Min. später aufgrund eines Polizeieinsatzes.\n#HVV"
+  },
+  "799007363709554700": {
+    "score": "undefined",
+    "payload": "RE5\n&gt;&gt;Cuxhaven ab Hamburg Hbf 23:06h ca. 10 Min. spätere Abfahrt durch eine technische Störung &amp; Zugrückstau.\n#HVV"
+  },
+  "799142126772768800": {
+    "score": "undefined",
+    "payload": "S3\n&gt;&gt;Pinneberg ab Buxtehude 8:05h entfällt aus betriebl. Gründen\nS31\n&gt;&gt;Altona ab Neugraben 8:04h beginnt heute erst in Harburg-Rathaus.\n#HVV"
+  },
+  "799144937036120000": {
+    "score": "undefined",
+    "payload": "S2\n&gt;&gt;Altona ab Bergedorf um 8:00h, ab Nettelnburg 8:03h fällt aus betrieblichen Gründen aus.\n#HVV"
+  },
+  "799177087143837700": {
+    "score": "undefined",
+    "payload": "U1\nIn Ri Ohlstedt/Großhansdorf derzeit 10-20 Min Verspätung ab Höhe Farmsen/Folgehst wg techn Störung."
+  },
+  "799187118736154600": {
+    "score": "undefined",
+    "payload": "U1\n&gt;&gt;Norderstedt ab Wandsbek-Markt 10:45 &amp; 10:55 ca 7 Min. später wg Verspätungen aus vorheriger Fahrt.\n#HVV"
+  },
+  "799187435284529200": {
+    "score": "undefined",
+    "payload": "U1 Update\nFahrten in Richtung Großhansdorf &amp; Ohlstedt verlaufen derzeit wieder planmäßig.\n#HVV"
+  },
+  "799188363152605200": {
+    "score": "undefined",
+    "payload": "Li. 151, 152\nIm Bereich Reiherstieg-Hauptdeich bis Zufahrt Köhlbrandbrücke Staubildung durch verschmutzte Fahrbahn &amp; längere Fahrzeiten\n#HVV"
+  },
+  "799251603257757700": {
+    "score": "undefined",
+    "payload": "Li 118\nDie Hst Karl-Müller-Ring, Ellernreihe (Mitte) / Heukoppel entfallen beidseitig. Li 26 lässt nur Ellernreihe Mitte aus / Feuerwehreins"
+  },
+  "799252625917091800": {
+    "score": "undefined",
+    "payload": "RT @PolizeiHamburg: #Bramfeld\nSteilshooper Allee, Vollsperrung zwischen Bramfelder Chaussee und Haldesdorfer Str., Feuerwehreinsatz"
+  },
+  "799255458859008000": {
+    "score": "undefined",
+    "payload": "Li. 118 Update\nWieder normaler Linienweg in Bramfeld, allerdings mit erheblichen Verspätungen.\n#HVV"
+  },
+  "799256324198514700": {
+    "score": "undefined",
+    "payload": "Li 26, 37, 118, 173, 277\nNach Unfall auf Steilshooper Allee in Bramfeld in allen Ri verspätete Busse durch Rückstau.\n#HVV"
+  },
+  "799256970888888300": {
+    "score": "undefined",
+    "payload": "RE7\nDurch eine Signalstörung in Schleswig derzeit bis zu 45 Min. Verspätung Ri Hamburg &amp; Ri Flensburg bis zu 15 Min. Verspätung ab Hamburg."
+  },
+  "799257831274790900": {
+    "score": "undefined",
+    "payload": "Li. 26 Update\nGeänderte Umleitung - Die Hst. Ellernreihe (Mitte) und Steilshooper Allee entfallen nun beidseitig.\n#HVV"
+  },
+  "799261380087926800": {
+    "score": "undefined",
+    "payload": "RT @hochbahn: #U2 #U4: Samstag Busse statt Bahnen zw. #HornerRennbahn &amp; #Billstedt, Sonntag Pendelzug https://t.co/KTJe2YrBcM  #Brückenarbe…"
+  },
+  "799261693994004500": {
+    "score": "undefined",
+    "payload": "A1\nAm Wochenende verkehren zw. Ulzburg-Süd&lt;&gt;Quickborn Busse statt Bahnen. A2 aus Norderstedt bis Neumünster durchge… https://t.co/BHW1NFynci"
+  },
+  "799262921444491300": {
+    "score": "undefined",
+    "payload": "Li. 183, 283\nBis zu 25 Min. verkehrsbedingte Verspätungen durch Stau auf d. Kieler Str.\nLi. 4 bis zu 15 Min. später dadurch, beide Ri.\n#HVV"
+  },
+  "799265210074796000": {
+    "score": "undefined",
+    "payload": "Li. 25, 35, 36, 39, 261\nCa. 10-15 Min. Verspätung möglich durch Stau in Eilbek und Eppendorf. Derzeit mit steigender Tendenz.\n#HVV"
+  },
+  "799268991059509200": {
+    "score": "undefined",
+    "payload": "Li 8, 26, 37, 118, 173, 277\nSteilshooper Allee immer noch voll gesperrt. Li. 26 wird umgeleitet. Erhebl. Verspätung… https://t.co/k3j3LPVlTy"
+  },
+  "799270428149592000": {
+    "score": "undefined",
+    "payload": "Li. 4, 183, 283 Update\nDie Verspätungen im Bereich Kieler Str. reduzieren sich aktuell wieder auf 5-15 Min.\n#hvv"
+  },
+  "799277283030679600": {
+    "score": "undefined",
+    "payload": "Li 26, 118 Update\nAb sofort wieder normaler Linienweg, allerdings kommt es noch zu Verspätungen.\n#hvv"
+  },
+  "799279314009292800": {
+    "score": "undefined",
+    "payload": "S3\n&gt;&gt;Buxtehude ab Hamburg Hbf 16:58 endet heute bereits in Neugraben\n&gt;&gt;Pinneberg ab Buxtehude 17:45 beginnt erst in Neugraben"
+  },
+  "799280083538182100": {
+    "score": "undefined",
+    "payload": "RB61\n&gt;&gt;Tornesch ab Hamburg Hbf 17:02h entfällt heute aus betrieblich. Gründen. Folgefahrt ab \n17:06 planmäßig."
+  },
+  "799287314077941800": {
+    "score": "undefined",
+    "payload": "150, 250\nUnregelmäßiger Betrieb wegen Stau auf der A7.\nEs kommt zu Taktlücken.\n#hvv"
+  },
+  "799287633960730600": {
+    "score": "undefined",
+    "payload": "RE5\n&gt;&gt;Cuxhaven ab Hamburg Hbf 18:06h fällt wg nicht verfügbaren Personals aus. Ab Stade besteht Busnotverkehr."
+  },
+  "799289812717019100": {
+    "score": "undefined",
+    "payload": "Li. 1\nDurch Stau in Othmarschen derzeit 10-15 Min Verspätung möglich.\n#hvv"
+  },
+  "799292662125891600": {
+    "score": "undefined",
+    "payload": "Li 2, 3\nHohes Verkehrsaufkommen ab Bahrenfeld. Ri Schenefeldbis zu 20 Min Verspätung.\n#hvv"
+  },
+  "799297423860371500": {
+    "score": "undefined",
+    "payload": "Linien 1, 2, 3\nDurch Verkehrsstillstand in Bahrenfeld, Lurup &amp; Othmarschen derzeit zw 20 &amp; 40 Min verspätete Busse.\n#hvv"
+  },
+  "799322067007115300": {
+    "score": "undefined",
+    "payload": "Li. 1, 2, 3 Update\nDie Staus in Bahrenfeld und Othmarschen haben sich aufgelöst. Die Betriebslage normalisiert sich wieder.\n#HVV"
+  },
+  "799323462930088000": {
+    "score": "undefined",
+    "payload": "Li 4, 183/283, 8, 26, 37, 118, 173, 277,  25, 35, 36, 39, 261, 150/250 Update\nSämtliche Staus auf Hamburger Stadtgebiet haben sich aufgelöst"
+  },
+  "799327535515344900": {
+    "score": "undefined",
+    "payload": "RE5 - Ausfälle &amp; Verspätungen:\n &gt;&gt;Hamburg Hbf ab Stade 21:03h, ab Buxtehude 21:21h verspätet sich wg fehlendem Personal um ca. 40-50 Min."
+  },
+  "799327788683640800": {
+    "score": "undefined",
+    "payload": "RE5\n&gt;&gt;Hamburg Hbf ab Stade 22:03h, ab Buxtehude 22:21h fällt aus.\n  \n &gt;&gt;Cuxhaven ab Hamburg Hbf 22:06h startet erst in Harburg.\n\n#hvv"
+  },
+  "799338438218629100": {
+    "score": "undefined",
+    "payload": "@Aus_der_UBahn Mach ich auch oft, oder nach Poppenbüttel &amp; dann mit dem Bus weiter. Verrückt!"
+  },
+  "799495677571108900": {
+    "score": "undefined",
+    "payload": "Li. 27\nIn Ri. Billstedt entfallen die Hst Stemmeshay &amp; Paracelsusstr wg Unfall. Durch Umleitung ca. 10 Min. Verspätung.\n#HVV"
+  },
+  "799497884941123600": {
+    "score": "undefined",
+    "payload": "RE7, 70 RB71\nWg Oberleitungsstörung zw Elmshorn&lt;&gt;Wrist verkehren dort derzeit nur Züge der Li. RE70. RE7/RB71 mit Teilausfällen/Verspätungen"
+  },
+  "799498147881947100": {
+    "score": "undefined",
+    "payload": "RE70\nBis zu 20 Min. verspätet.\nRE7\nFällt derzeit zw. Neumünster&lt;&gt;Hamburt aus\nRB71\nVerkehrt nur zw. Elmshorn&lt;&gt;Altona wg Oberleitungsstörung."
+  },
+  "799499242654076900": {
+    "score": "undefined",
+    "payload": "@Tischtennis1969 Stimmt.Habe ich in der DB Meldung jetzt auch gelesen.Steht in der nordbahn-Meldung noch anders vermerkt. Ich korrigiere das"
+  },
+  "799499549580623900": {
+    "score": "undefined",
+    "payload": "RE7,70 RB71 Korrektur\nStreckensperrung Elmshorn&lt;&gt;Wrist.Derzeit kein Zugverkehr auf Li. RE7, RE70. Li. RB71 verkehrt nur zw. Elmshorn&lt;&gt;Altona"
+  },
+  "799501820129411100": {
+    "score": "undefined",
+    "payload": "Li. 27 Update\nDie Hst. Stemmeshay &amp; Paracelsusstr entfallen nun beidseitig. Umleitung wie Li. 26. Dadurch Verspätungen in beiden Ri. !\n#HVV"
+  },
+  "799513441610371100": {
+    "score": "undefined",
+    "payload": "Linie 27\nDerzeit bis zu 25 Minuten Verspätung in beiden Ri. nach Unfall Stein-Hardenberg-Str.\nLi. 9\nDerzeit bis zu 15 Min. verspätet.\n#HVV"
+  },
+  "799525659068481500": {
+    "score": "undefined",
+    "payload": "Li. 27 Update\nAb sofort wieder in beiden Ri. normaler Linienweg in Tonndorf. Mit Restverspätungen zw. 5 &amp; 10 Min. ist noch zu rechnen.\n#HVV"
+  },
+  "799526116591538200": {
+    "score": "undefined",
+    "payload": "S3\nStreckensperrung Neugraben &lt;&gt; Harburg-Rathaus wegen Polizeieinsatzes in Neugraben. Reststrecke mit Verzögerungen.\n#hvv"
+  },
+  "799526780709310500": {
+    "score": "undefined",
+    "payload": "RT @SBahnHamburg: Streckensperrung zwischen Neugraben &lt;&gt; Harburg Rathaus aufgehoben. #S3 fährt wieder. #hvv #sbahnhh"
+  },
+  "799528171460763600": {
+    "score": "undefined",
+    "payload": "RE7 RE70 RB71\nWeiterhin Streckensperrung Wrist&lt;&gt;Elmshorn. RE70/RB71 pendeln zw. Elmshorn&lt;&gt;Hamburg/Altona. RB61/RE6 nicht betroffen.\n#HVV"
+  },
+  "799538074082545700": {
+    "score": "undefined",
+    "payload": "RE7 RE70 RB71 Update\nWeiterhin Streckensperrung Wrist&lt;&gt;Elmshorn - Störungsende laut DB: Ca 16 Uhr.\n#hvv"
+  },
+  "799540492069404700": {
+    "score": "undefined",
+    "payload": "S3\n&gt;&gt;Pinneberg ab Harburg 10:21h. ab Veddel 10:28h verspätet sich um ca 15 Min wg Verspätung aus vorheriger Fahrt.\n#hvv"
+  },
+  "799544547600691200": {
+    "score": "undefined",
+    "payload": "35, 36\nRi stadteinwärts Umleitung ab Wartenau bis Hbf ZOB wg Stau. Lohmühlenstr entfällt, Wartenau verlegt."
+  },
+  "799566463006707700": {
+    "score": "undefined",
+    "payload": "RE7 RE70 RB71 Update\nWg Streckensperrung Wrist&lt;&gt;ELmshorn:\nAb ca 16 Uhr eingleisiger Betrieb möglich, ab 21 Uhr wieder Regelbetrieb lt. DB."
+  },
+  "799583224456474600": {
+    "score": "undefined",
+    "payload": "Linien 133, 233, 236, 433\nVerlängerung der Sperrung der Kehre Haidkrug bis Sonntag, 20.11.2016 - 09:00 Uhr.... https://t.co/Qql4tEGK53"
+  },
+  "799584325276733400": {
+    "score": "undefined",
+    "payload": "RB61\n&gt;&gt;Tornesch ab Hamburg Hbf 17:02h fällt aufgrund der Auswirkungen d Streckensperrung zw. Wrist &amp; Elmshorn aus.\nFolgetakt ab 17:06h planm"
+  },
+  "799585869137002500": {
+    "score": "undefined",
+    "payload": "RT @hochbahn: Ab 19.11. bis 21.11. Umleitungen der Linien 22, 25, 26: #Kellinghusenstraße kann nicht angefahren werden. #Straßenbauarbeiten…"
+  },
+  "799585973944414200": {
+    "score": "undefined",
+    "payload": "195\nBusse fahren ab sofort verkürzt nur zwischen Pinneberg und Modering. Bitte nach und von Niendorf Nord Linien 21 und 284 nutzen\n#HVV"
+  },
+  "799587067592405000": {
+    "score": "undefined",
+    "payload": "Li. 35, 36 Update\nAb Wartenau in Ri stadteinwärts wieder normaler Linienweg, allerdings kommt es wegen Bauarbeiten zu Verspätungen.\n#HVV"
+  },
+  "799612497934295000": {
+    "score": "undefined",
+    "payload": "Li. 35, 36 Update\nUmleitung ab Wartenau bis HBF ZOB ist wieder aktiv. Wartenau verlegt (Li. 25) &amp; Lohmühlenstr. entfällt in Ri stadteinwärts"
+  },
+  "799614105527222300": {
+    "score": "undefined",
+    "payload": "Li. 22, 25, 26, 112, 154, 281\nVerkehrsbedingt derzeit 10-25 Min. verspätete Busse. Stau in Eilbek, Hammerbrook, Bramfeld &amp; Lokstedt.\n#hvv"
+  },
+  "799626967230382100": {
+    "score": "undefined",
+    "payload": "Li. 4, 183, 283\nHohe Verspätungen von mind 20 Min. wg Sperrung der Kieler Str. Li. 4 bedient Högenstr, Langenfelder Damm &amp; Basselweg NICHT!"
+  },
+  "799627523294277600": {
+    "score": "undefined",
+    "payload": "RE6 RE70 RB61,71\nWg einer liegengebliebenen RB61 in Prisdorf derzeit bis zu 60 Min. Verspätung auf der Strecke Hamburg&lt;&gt;Elmshorn.\n#hvv"
+  },
+  "799627978682540000": {
+    "score": "undefined",
+    "payload": "Li. 22, 25, 26, 39, 112, 154, 261, 281 Update\nZw. 15 &amp; 35 Min. Verspätung durch Verkehrsstillstand auf den Linienwegen.\n#hvv"
+  },
+  "799630708939624400": {
+    "score": "undefined",
+    "payload": "RT @PolizeiHamburg: Verkehrshinweis: #B4, #B5 Kieler Straße, zwischen Volksparkstraße und Holstenkamp nach Unfall gesperrt. Wenn möglich bi…"
+  },
+  "799637381066485800": {
+    "score": "undefined",
+    "payload": "576\nFahrt 16:30 Uhr ab U Ahrensburg West nach Hallenbad Ausfall wegen einer Betriebsstörung.\n#HVV"
+  },
+  "799638241037221900": {
+    "score": "undefined",
+    "payload": "RT @vhhbus: #vhh21 Derzeit in Fahrtrichtung Klein Flottbek verkehrsbedingt 25 Minuten Verspätung. #HVV"
+  },
+  "799638875161456600": {
+    "score": "undefined",
+    "payload": "Li. 1, 21, 22, 39, 4, 183, 186, 281, 283 Update \n Hohe Verspätungen von ca. 10 - 30 Min. wegen Unfällen in Stellingen &amp; Groß Flottbek.\n#hvv"
+  },
+  "799639605939241000": {
+    "score": "undefined",
+    "payload": "RE6 RE7 RB6 RB71 Update\nDie Strecke zw. Elmshorn&lt;&gt;Pinneberg ist wieder frei. Streckensperrung Wrist&lt;&gt;Elmshorn gilt bis heute 21 Uhr.\n#hvv"
+  },
+  "799640996845879300": {
+    "score": "undefined",
+    "payload": "RT @SBahnHamburg: 19.+20. November: Fahrplanänderung zw. Hauptbahnhof &lt;&gt; Berliner Tor + in Altona wg. Bauarbeiten.  https://t.co/sqoWFTqb8h…"
+  },
+  "799660718404599800": {
+    "score": "undefined",
+    "payload": "S1\nWg eines vorangegangenen RTW-Einsatzes Höhe Friedrichsberg kommt es zu Folgeverspätungen zw 10 &amp; 20 Min\n#hvv"
+  },
+  "799670026815021000": {
+    "score": "undefined",
+    "payload": "U2, U4\nErsatzverkehr mit Bussen am 19.11., 0 - 4:15 Uhr zwischen Horner Rennbahn&lt;&gt;Billstedt. \nPendelzug mit... https://t.co/chj5yntGGG"
+  },
+  "799672789842165800": {
+    "score": "undefined",
+    "payload": "Linien 5,20,25: Haltestelle Gärtnerstraße\n\nAm Sonnabend, 19. November, ca. 7 Uhr bis voraussichtlich ca. 18 Uhr... https://t.co/rGR4LmTbOW"
+  },
+  "799673795443245000": {
+    "score": "undefined",
+    "payload": "Busverkehr Innenstadt &amp; Schanze\nDurch 2 Großdemos am Samstag, den 19.11., ist im Bereich Hbf (14-17 Uhr) &amp; an der... https://t.co/Z5foBIHmS8"
+  },
+  "799683867196067800": {
+    "score": "undefined",
+    "payload": "A1\nBauarbeiten zwischen Ulzburg-Süd&lt;&gt;Quickborn mit Ersatzbussen ab Sa., den 19.11., 18:30 Uhr bis Mo. früh um 4... https://t.co/Q32U4e1YxQ"
+  },
+  "799685875357651000": {
+    "score": "undefined",
+    "payload": "4, 183, 283\nDie Hst. Basselweg in Ri Innenstadt / Altona wird aufgrund des Staus nicht bedient. Es kommt weiterhin zu Verspätungen.\n#hvv"
+  },
+  "799686207517102100": {
+    "score": "undefined",
+    "payload": "@Aurifex @HVVde @hochbahn Absolut, wenn es nach mir ginge, gehörten gleich Chemtrails reingesprüht."
+  },
+  "799686630126866400": {
+    "score": "undefined",
+    "payload": "Li. 22, 25, 26\nSperrung der Hst. U Kellinghusenstraße vom 19.11., 4 Uhr bis Montag, 21.11., Betriebsbeginn.... https://t.co/y79cwHVR5C"
+  },
+  "799701470077743100": {
+    "score": "undefined",
+    "payload": "Li. 25, 26 112, 154 Update\n\nIn Eilbek, Hammerbrook &amp; Bramfeld haben sich die Staus aufgelöst. Der Busverkehr läuft hier wieder planmäßig."
+  },
+  "799702438638944300": {
+    "score": "undefined",
+    "payload": "Li. 4, 183, 283 Update\nDie Hst. Basselweg wird wieder beidseitig bedient und die Verspätungen gehen deutlich zurück.\n#hvv"
+  },
+  "799704966445301800": {
+    "score": "undefined",
+    "payload": "RE7 RE70 RB71\nStrecke Elmshorn&lt;&gt;Wrist/Neumünster ist wieder befahrbar. Vereinzelt Ausfälle auf d. Linien RE7 (betriebsbedingt) &amp; RE70. \n#HVV"
+  },
+  "799705206057484300": {
+    "score": "undefined",
+    "payload": "RE70\n &gt;&gt;Kiel ab Hamburg Hbf 21:21h hält auch in Horst und Dauenhof.  \nRE70\n &gt;&gt;Kiel ab Hamburg Hbf 21:46h entfällt.\n#hvv"
+  },
+  "799705417941020700": {
+    "score": "undefined",
+    "payload": "Linie RB71\nwird ab ca. 22 Uhr wieder bis / ab Wrist verkehren und den Regelbetrieb aufnehmen.\n#hvv"
+  },
+  "799706628308299800": {
+    "score": "undefined",
+    "payload": "RE1\n&gt;&gt;Hamburg Hbf ab Schwarzenbek 21:21h, ab Bergedorf um 21:32h ca. 20-25 Min. später aufgrund einer technischen Störung am Zug.\n#hvv"
+  },
+  "799711174753480700": {
+    "score": "undefined",
+    "payload": "RE1 Update\n&gt;&gt;Hamburg Hbf ab Schwarzenbek 21:21h, ab Bergedorf um 21:32h ca. 35 Min. später aufgrund einer technischen Störung am Zug.\n#hvv"
+  },
+  "799715746993602600": {
+    "score": "undefined",
+    "payload": "RE1\n&gt;&gt;Hamburg Hbf ab Schwarzenbek 21:21h, ab Bergedorf um 21:32h ca. 60 Min. später aufgrund einer technischen Störung am Zug.\n#hvv"
+  },
+  "799744436930486300": {
+    "score": "undefined",
+    "payload": "S1\nAufgrund von Bauarbeiten im Bereich Altona &amp; Berliner Tor derzeit 5-10 Min. Verspätung in beide Ri. möglich.\n#hvv"
+  },
+  "799832745971163100": {
+    "score": "undefined",
+    "payload": "S1 Update \n\nDerzeit keine Verspätungen mehr zwischen Berliner Tor &amp; Altona. \n\n#hvv"
+  },
+  "799834624423850000": {
+    "score": "undefined",
+    "payload": "S1\n&gt;&gt;Airport/Poppenbüttel ab Hamburg Hbf 5:44 h ca 10 Min später aufgrund eines Polizeieinsatzes\n#hvv"
+  },
+  "799867220226613200": {
+    "score": "undefined",
+    "payload": "S21 S31\nKeine S-Bahnen über die Dammtorlinie. Grund: Personenunfall bei der Fernbahn. S21 via Citytunnel. S31 fällt aus.\n#HVV"
+  },
+  "799867903541706800": {
+    "score": "undefined",
+    "payload": "RE7 RE70 RB61\nUmleitung der Bahnen von Hamburg Hbf nach Altona aufgrund eines Notarzteinsatzes am Gleis. Dammtor &amp; Hbf entfallen\n#hvv"
+  },
+  "799869445992804400": {
+    "score": "undefined",
+    "payload": "S21\nVereinzelt kommt es durch die Umleitung über den Citytunnel zu Taktlücken von bis zu 10 Minuten.\nS31 fällt weiterhin aus\n#hvv"
+  },
+  "799872978666319900": {
+    "score": "undefined",
+    "payload": "RB81\n&gt;&gt;Hamburg Hbf ab Ahrensburg 8:22h, ab Rahlstedt um 8:29h entfällt heute wegen einer Betriebsstörung.\n#hvv"
+  },
+  "799873331558285300": {
+    "score": "undefined",
+    "payload": "RT @SBahnHamburg: Die Linien #S21 und #S31 haben den Betrieb über die #Verbindungsbahn soeben wieder aufgenommen. Personenunfall bei Fernba…"
+  },
+  "799874066400350200": {
+    "score": "undefined",
+    "payload": "RE7 RE70 RB61\nDie Züge verkehren wieder regulär zum Hamburg Hbf &amp; beginnen dort. Durch Zugrückstau bis zu 20 Min. Verspätung möglich\n#hvv"
+  },
+  "799919890954121200": {
+    "score": "undefined",
+    "payload": "RB81\n&gt;&gt;Hamburg Hbf ab Ahrensburg 12:22h, ab Rahlstedt 12:29h fällt wegen einer Betriebsstörung aus.\n#hvv"
+  },
+  "799929315433427000": {
+    "score": "undefined",
+    "payload": "RE8 RB81\nWegen Bauarbeiten bis Montag früh zw. Ahrensburg &amp; Bad Oldesloe kommt es zu Verspätungen von bis zu 15 Min.\n#hvv"
+  },
+  "799929558963077100": {
+    "score": "undefined",
+    "payload": "RE6 RE7 RE70 RB61,71\nBauarbeiten in Eidelstedt. In Richtung Hamburg Hbf/Altona kommt es zu Verspätungen zw. 10 &amp; 20 Min. bis Mo. früh.\n#hvv"
+  },
+  "799937698391699500": {
+    "score": "undefined",
+    "payload": "@LaFreaulein Danke für den Hinweis, Station?"
+  },
+  "799954179393515500": {
+    "score": "undefined",
+    "payload": "RT @PolizeiHamburg: Aufgrund der Demonstration kann es vereinzelt zu Verkehrsbeeinträchtigungen in der Hamburger #Innenstadt kommen.\n#hh191…"
+  },
+  "799961720894718000": {
+    "score": "undefined",
+    "payload": "RT @PolizeiHamburg: Rund um den #Hauptbahnhof sind einige Straßen für KFZ gesperrt. Im Bahnhof kommt es für Reisende zu keinen Beeinträchti…"
+  },
+  "799980068655218700": {
+    "score": "undefined",
+    "payload": "RT @hochbahn: #UBahn #Eingang #HbfNord am #Bieberhaus aktuell blockiert. Grund: #Demo . Betrieb läuft regulär. Wir halten Sie auf dem Laufe…"
+  },
+  "799983756350210000": {
+    "score": "undefined",
+    "payload": "RT @stefan213hh: S1 \nRTW-Einsatz in Barmbek. Verkehr Ri. Airport/Poppenbüttel unterbrochen. #hvv"
+  },
+  "799984507604652000": {
+    "score": "undefined",
+    "payload": "S1\nZwischen Hasselbrook&lt;&gt;Ohlsdorf kommt es zu Ausfällen &amp; Verspätungen von bis zu 20 Min wg eines RTW-Einsatzes Barmbek.\n#hvv"
+  },
+  "799996182793592800": {
+    "score": "undefined",
+    "payload": "RT @PolizeiHamburg: Die Teilnehmer der AfD-Demo haben sich vom Hachmannplatz entfernt. Unsere Verkehrsmaßnahmen werden aufgehoben.\n#hh1911"
+  },
+  "799996260392562700": {
+    "score": "undefined",
+    "payload": "RT @hochbahn: #Demo beendet, #UBahn #Eingang am #HbfNord #Bieberhaus wieder frei. Allen eine gute Fahrt &amp; schönes #Wochenende #hvv"
+  },
+  "800031160671801300": {
+    "score": "undefined",
+    "payload": "Busverkehr Innenstadt\nDie Demo am Dammtor ist nun beendet. Die Betriebslage auf allen Buslinien normalisiert sich wieder.\n#hvv"
+  },
+  "800031469380976600": {
+    "score": "undefined",
+    "payload": "Busverkehr Innenstadt\nAm So. (20.11.) findet eine Demo zw. 14 &amp; 17 vom Brahmspl., Gänsemarkt, Jungfernstieg &amp; Mönckebergstr. statt.\n#hvv"
+  },
+  "800031704551489500": {
+    "score": "undefined",
+    "payload": "@HVVStoerungen In dieser Zeit muss mit Umleitungen &amp; Verzögerungen gerechnet werden. Bahnen sind davon nicht betroffen.\n#hvv"
+  },
+  "800032493793669100": {
+    "score": "undefined",
+    "payload": "S1\n&gt;&gt;Wedel ab Reeperbahn 18:47h, ab Altona um 18:52h ca. 9 Min. später aufgrund einer Verspätung aus vorheriger Fahrt. Nachfolgende Bahn +4."
+  },
+  "800039050124099600": {
+    "score": "undefined",
+    "payload": "RE1\n&gt;&gt;Hamburg Hbf ab Schwarzenbek 19:22h, ab Bergedorf um 19:35h ca. 10-15 Min. später aufgrund von betriebsfremden Personen im Gleis.\n#hvv"
+  },
+  "800120009087455200": {
+    "score": "undefined",
+    "payload": "RT @nimmbus_de: Was gibt es Neues zum Fahrplanwechsel im #HVV? Eine Liste der wichtigsten Änderungen unter https://t.co/jEvwNQwgxS @vhhbus…"
+  },
+  "800261794426130400": {
+    "score": "undefined",
+    "payload": "RT @dt5_online: U1 Kellinghusenstraße Ri Ohlstedt, planmäßig 9:45 heute 8 Minuten später. #HVV"
+  },
+  "800281306919747600": {
+    "score": "undefined",
+    "payload": "RB81 Ausfälle\n&gt;&gt;Hamburg Hbf ab Ahrensburg 11:22h &amp; 13:22h, ab Rahlstedt um 11:29h &amp; 13:29h\n#hvv\n&gt;&gt;"
+  },
+  "800282058031583200": {
+    "score": "undefined",
+    "payload": "RE8\n&gt;&gt;Hamburg hält zusätzlich in Ahrensburg um 11:35h &amp; 13:35h. \n\nRE8\n&gt;&gt;Lübeck ab Hamburg Hbf 12:04h hält zusätzlich in Ahrensburg. \n\n#hvv"
+  },
+  "800285031478521900": {
+    "score": "undefined",
+    "payload": "RB41\n&gt;&gt;Bremen ab Hamburg Hbf 11:38h entfällt &amp; RE4 &gt;&gt;Bremen ab Hamburg Hbf 12:15h hält bis Rotenburg an allen Unterwegsbahnhöfen.\n#hvv"
+  },
+  "800291685792096300": {
+    "score": "undefined",
+    "payload": "U2\nMessehallen - Hagenbeck und\nU3 Kellinghusenstraße - St. Pauli wg technischer Störung am Schlump unterbrochen. Taxen als Ersatz.\n#HVV"
+  },
+  "800292878740291600": {
+    "score": "undefined",
+    "payload": "RT @hochbahn: Aktuell #Betriebsstopp #U2 zw. #Hagenbeck &amp; #Messehallen sowie #U3 zw. #Kelle &amp; #StPauli Grund: Polizeieinsatz. Weitere Infos…"
+  },
+  "800294136360431600": {
+    "score": "undefined",
+    "payload": "@andreasdegering Durchgesagt wurde zunächst technische Störung. Hochbahn bestätigt nun offiziell den Polizeieinsatz, also wohl letzteres."
+  },
+  "800296930425376800": {
+    "score": "undefined",
+    "payload": "RT @hochbahn: #U2 #U3 #Einsatz beendet. Ab 12:15 fahren wir auch wieder auf den ganzen Linien. Gute Fahrt! #hvv"
+  },
+  "800299382784589800": {
+    "score": "undefined",
+    "payload": "U2, U3, U4\nVereinzelt sind noch Folgeverspätungen von ca. 5 Min. in jeweils beide Ri. möglich.\n#hvv"
+  },
+  "800308877401067500": {
+    "score": "undefined",
+    "payload": "RB81\n&gt;&gt;Ahrensburg ab Hamburg Hbf 14:08h entfällt wegen einer technischen Störung\n&gt;&gt;Hamburg Hbf ab Ahrensburg 15:22h fällt ebenfalls aus."
+  },
+  "800309011275010000": {
+    "score": "undefined",
+    "payload": "@HVVStoerungen Ersatzweise halten die Züge der RE8 ab Hamburg Hbf 14:04h und in Ri Hamburg um 15:35h in Ahrensburg."
+  },
+  "800310409110704100": {
+    "score": "undefined",
+    "payload": "RE70\n&gt;&gt;Hamburg Hbf ab Elmshorn 13:11 wg techn. Störung am Zug ca 45 Min später &amp; endet in Pinneberg.\n#hvv"
+  },
+  "800311275746164700": {
+    "score": "undefined",
+    "payload": "RE70\n&gt;&gt;Kiel ab Hamburg Hbf 14:21h beginnt heute erst in Pinneberg um 14:35h\n&gt;&gt;Hamburg Hbf ab Elmshorn 14:11h verspätet sich um ca. 30-40 Min"
+  },
+  "800314849377009700": {
+    "score": "undefined",
+    "payload": "Li. 162, 262\nAufgrund eines Feuerwehreinsatzes entfallen die Hst. Am Jenfelder Moor und Albert-Schweitzer-Ring in beiden Richtungen.\n#hvv"
+  },
+  "800320287195549700": {
+    "score": "undefined",
+    "payload": "Linie 154\nWegen eines Feuerwehreinsatzes entfallen die Hst. Billstr. und Süderstr. in beiden Richtungen.\n#hvv"
+  },
+  "800334777798762500": {
+    "score": "undefined",
+    "payload": "Linien 162, 262 Update\nDie Hst. Am Jenfelder Moor &amp; Albert-Schweitzer-Ring werden wieder bedient. \n\n#hvv"
+  },
+  "800351083801485300": {
+    "score": "undefined",
+    "payload": "Linie 154\nDie Umleitung im Bereich Heidenkampsweg ist wieder aufgehoben. Süderstr. / Billstr werden wieder bedient. Verspätung möglich.\n#hvv"
+  },
+  "800363241058791400": {
+    "score": "undefined",
+    "payload": "S3 Ausfall\nFahrt &gt;&gt;Neugraben ab Altona 17:04h (Hbf 17:18h) sowie\nFahrt &gt;&gt;Altona ab Neugraben 17:59h fallen jeweils betriebsbedingt aus.\n#hvv"
+  },
+  "800373841549807600": {
+    "score": "undefined",
+    "payload": "S3 Korrektur\n Fahrt &gt;&gt;Neugraben ab Altona 17:04h (Hbf 17:18h) sowie Fahrt &gt;&gt;Altona ab Neugraben 17:59h können nun doch geleistet werden."
+  },
+  "800383311197728800": {
+    "score": "undefined",
+    "payload": "RE5\n&gt;&gt;Cuxhaven ab Hamburg Hbf 18:06h beginnt heute wegen einer witterungsbedingten Störung erst in Harburg um 18:24h\n#hvv"
+  },
+  "800390644262965200": {
+    "score": "undefined",
+    "payload": "RE8 RB81\nWegen einer Bahnübergangsstörung zw. Bad Oldesloe&lt;&gt;Ahrensburg kommt es zu Verspätungen zwischen 10 &amp; 20 Minuten.\n#hvv"
+  },
+  "800397633617530900": {
+    "score": "undefined",
+    "payload": "RE7 RE70 RB61\nWg eines liegengebliebenen Zuges im Bereich Dammtor kommt es zu Verspätungen von bis zu 30 Min. &amp; Umleitungen nach Altona."
+  },
+  "800405364940251100": {
+    "score": "undefined",
+    "payload": "139, 8892\nVollsperrung Westerheese in Grünhof vom 21.11.16 - 30.01.17.\nDie Haltestellen Otto-Hahn-Str.,... https://t.co/8NDQVC1Kcn"
+  },
+  "800408148184068100": {
+    "score": "undefined",
+    "payload": "RE7 RE70 RB61\nDer liegengebliebene Zug am Dammtor wurde entfernt. In Ri Elmshorn kommt es noch zu leichtem Zugrückstau.\n#hvv"
+  },
+  "800409008997699600": {
+    "score": "undefined",
+    "payload": "RE8 RB81 Update\nDie Bahnübergangsstörung zw. Bad Oldesloe &lt;&gt; Ahrensburg ist wieder behoben. Der Zugverkehr normalisiert sich gerade.\n#hvv"
+  },
+  "800409625732386800": {
+    "score": "undefined",
+    "payload": "S3 RE5\nWg eines Baumes auf den Gleisen bei Horneburg kommt es zu Teilausfällen Horneburg&lt;&gt;Stade bei d S3 &amp; zu Verspätungen von bis zu 30 Min"
+  },
+  "800410302596649000": {
+    "score": "undefined",
+    "payload": "S3\n&gt;&gt;Stade ab Buxtehude 20:06h endet in Horneburg\n&gt;&gt;Pinneberg ab Stade 20:35h fällt wg eingleisiger Streckenführung bis Horneburg aus.\n#hvv"
+  },
+  "800413332746473500": {
+    "score": "undefined",
+    "payload": "RT @SBahnHamburg: #S3-Betrieb #Stade &lt;&gt; #Horneburg eingestellt. Ersatzverkehrs im Aufbau. Grund: Baum in die Oberleitung gestürzt. #HVV"
+  },
+  "800418591552184300": {
+    "score": "undefined",
+    "payload": "RT @metronom4me: Busnotverkehr ist von Buxtehude nach Stade eingerichtet"
+  },
+  "800425109530046500": {
+    "score": "undefined",
+    "payload": "U2, U4\nKein Zugverkehr zw. Billstedt&lt;&gt;Mümmelmannsberg wg Feuerwehreinsatz Steinfurther Allee. Ersatzverkehr mit Taxen im Aufbau.\n#hvv"
+  },
+  "800425292728860700": {
+    "score": "undefined",
+    "payload": "U2\nKein Zugverkehr zw. Billstedt&lt;&gt;Mümmelmannsberg wg Feuerwehreinsatz Steinfurther Allee. Ersatzverkehr mit Taxen im Aufbau.\n#hvv"
+  },
+  "800446220154048500": {
+    "score": "undefined",
+    "payload": "RT @hochbahn: #U2 : Einsatz des Rettungswagens beendet. Betrieb auf ganzer Linie wird in Kürze wieder aufgenommen. Gute Fahrt. #hvv"
+  },
+  "800447390260019200": {
+    "score": "undefined",
+    "payload": "S3, RE5\nWeiterhin Ersatzverkehr mit Bussen zw. Buxtehude/Horneburg&lt;&gt;Stade wg Baum in der Oberleitung. Dauer derzeit noch unklar.\n#hvv"
+  },
+  "800456856166682600": {
+    "score": "undefined",
+    "payload": "S3\nZw. Veddel&lt;&gt;Neugraben/Buxtehude derzeit zw. 5 &amp; 15 Min. Folgeverspätung auf der S3 wegen eines vorangegangenen Polizeieinsatzes.\n#hvv"
+  },
+  "800464943669801000": {
+    "score": "undefined",
+    "payload": "RT @SBahnHamburg: #S3-Ersatzverkehr #Stade &lt;&gt; #Horneburg bleibt bis zum Betriebsschluss bestehen. Grund: Durch umgestürzten Baum beschädigt…"
+  },
+  "800568520316747800": {
+    "score": "undefined",
+    "payload": "S3 RE5\nDie Strecke Stade &lt;&gt; Horneburg ist wieder freigegeben.\nBei der S3 kommt es witterungsbedingt noch zu Teilausfällen Stade&lt;&gt;Buxtehude."
+  },
+  "800569566304890900": {
+    "score": "undefined",
+    "payload": "S3\nAufgrund einer Signalstörung kommt es zu Teilausfällen zw. Elbgaustr. &lt;&gt; Pinneberg mit Taktlücken von bis zu 20 Min\n#hvv"
+  },
+  "800573363030724600": {
+    "score": "undefined",
+    "payload": "S3 Update\nDer Betrieb zw. Elbgaustr &lt;&gt; Pinneberg normalisiert sich wieder. Vereinzelt noch 5-10 Min. Verspätung möglich.\n#hvv"
+  },
+  "800596207345213400": {
+    "score": "undefined",
+    "payload": "194, 195, 594, 4400\nVerkehrsbedingte Verspätungen  von bis zu 25 Minuten.\n#HVV"
+  },
+  "800598929389678600": {
+    "score": "undefined",
+    "payload": "Li. 21, 185, 186\nAufgrund eines Verkehrsunfalls in der Elbgaustraße, derzeit eine Verspätungslage von bis zu 30 Minuten.\n#HVV"
+  },
+  "800599921879609300": {
+    "score": "undefined",
+    "payload": "RE7\nAufgrund von Signal- &amp; Weichenstörungen kommt es bei Zügen aus &amp; nach Flensburg zu Verspätungen von bis zu 30 Min."
+  },
+  "800601040345251800": {
+    "score": "undefined",
+    "payload": "RE5\n&gt;&gt;Hamburg Hbf ab Stade 9:03h, ab Buxtehude 9:21h ca. 20 Min. später wegen Einhaltung der Arbeitsschutzpause.\n#hvv"
+  },
+  "800604833115992000": {
+    "score": "undefined",
+    "payload": "193\nFahrt 08:24 von Garstedt zum Lademannbogen (Ost) entfällt nach Unfall.\n#HVV"
+  },
+  "800605105410154500": {
+    "score": "undefined",
+    "payload": "124\nFahrt 08:39 von Hauptbahnhof/ZOB nach Bergedorf verkehrsbedingt ca. 10 Minuten später\n#HVV"
+  },
+  "800605397988077600": {
+    "score": "undefined",
+    "payload": "338\nFahrt 08:47 von Bf. Lauenburg zum ZOB entfallen die Hast. Fährtreppe bis Grünstraße wegen Kranarbeiten.\n#HVV"
+  },
+  "800606157773471700": {
+    "score": "undefined",
+    "payload": "RT @vhhbus: #vhh338 Fahrt 09:25 vom ZOB zum ZOB in Lauenburg entfallen die Hast. Fährtreppe bis Grünstraße wegen Kranarbeiten. #HVV"
+  },
+  "800606501270384600": {
+    "score": "undefined",
+    "payload": "RT @vhhbus: #vhh193 Fahrt 08:24 von Garstedt zum Lademannbogen (Ost) kann nun doch mit ca. 15 Minuten Verspätung geleistet werden. #HVV"
+  },
+  "800606972500439000": {
+    "score": "undefined",
+    "payload": "S3, S31\nAufgrund eines Polizeieinsatzes in Wilhelmsburg verkehren die Bahnen zw. Harburg&lt;&gt;Veddel mit erheblichen Verzögerungen.\n#hvv"
+  },
+  "800610176306774000": {
+    "score": "undefined",
+    "payload": "S3, S31 Update\nDer Polizeieinsatz in Wilhelmsburg ist beendet. Verspätungen zw. 10 &amp; 20 Min. entstanden. Zugverkehr läuft wieder durchgehend"
+  },
+  "800612447598035000": {
+    "score": "undefined",
+    "payload": "U1\nErsatzverkehr mit Bussen zw. #Kellinghusenstraße und #Stephansplatz. Grund: Erkrankte Person.\n#hvv"
+  },
+  "800613460732219400": {
+    "score": "undefined",
+    "payload": "U3\n&gt;&gt;Wandsbek-Gartenstadt ab Hbf Süd 9:15h ab Barmbek 9:27h fällt wegen techn. Störung aus.\n#hvv"
+  },
+  "800613674998079500": {
+    "score": "undefined",
+    "payload": "U1 Update\nDer RTW-Einsatz Hallerstr. ist beendet. Die U1 nimmt mit ca. 10-15 Min. Verspätung die Fahrt wieder auf.\n#hvv"
+  },
+  "800619373371080700": {
+    "score": "undefined",
+    "payload": "@wahrwolf ja. Es lautet hochoffiziell: \n\n\"SpaghettiBolognese\""
+  },
+  "800621514206965800": {
+    "score": "undefined",
+    "payload": "RE5\n&gt;&gt;Hamburg Hbf ab Stade 11:03/Buxtehude 11:21 fällt wg nicht verfügbarem Personal aus.\n&gt;&gt;Cuxhaven ab Hamburg 12:06 fällt ebenfalls aus."
+  },
+  "800640514416488400": {
+    "score": "undefined",
+    "payload": "S3 S21\nWg eines RTW-Einsatzes im Bereich Langenfelde kommt es in Ri Buxtehude/Aumühle zu Verspätungen von bis zu 15 Min &amp; Teilausfällen"
+  },
+  "800644855940706300": {
+    "score": "undefined",
+    "payload": "S3 S21 Upd.\nDer RTW-Einsatz ist beendet. Im Bereich Elbgaustr/Diebsteich planmäßiger Betrieb. In Buxtehude/Aumühle Folgeverspätungen.\n#hvv"
+  },
+  "800667073743568900": {
+    "score": "undefined",
+    "payload": "21, 185, 186, 194, 195, 594, 4400 Update\nDie Staus haben sich wieder aufgelöst. Keine verkehrsbedingten Verspätungen aktuell mehr.\n#hvv"
+  },
+  "800667280820604900": {
+    "score": "undefined",
+    "payload": "RE7 Update\nDie Signal- und Weichenstörungen zw. Rendsburg &amp; Schleswig konnten behoben werden.Die Züge von/nach Flensburg sind wieder im Plan"
+  },
+  "800702564023025700": {
+    "score": "undefined",
+    "payload": "569\nWegen Straßensperrung entfallen derzeit die Hast. Vogteiweg und Auestieg beidseitig. Fahrten beginnen und enden Helgolandring.\n#HVV"
+  },
+  "800702807481479200": {
+    "score": "undefined",
+    "payload": "RB31\n&gt;&gt;Lüneburg ab Hamburg Hbf 17:03h fällt heute wegen nicht verfügbarem Personal aus.\n#hvv"
+  },
+  "800707259403817000": {
+    "score": "undefined",
+    "payload": "RT @metronom4me: Wegen nicht verfügbaren Personal entfällt heute leider ME 81989 von Hamburg nach Tostedt ab Hamburg(planm. Abfahrt 18:50 U…"
+  },
+  "800736785127133200": {
+    "score": "undefined",
+    "payload": "S1 S11\nIn Ri Blankenese/Wedel Taktlücken &amp; Verspätungen von bis zu 10 Min wg diversen techn Störungen.\n#hvv"
+  },
+  "800737297121636400": {
+    "score": "undefined",
+    "payload": "U1\nWg einer techn Störung Höhe Hudtwalckerstr derzeit beidseitig Verspätungen von ca 5-10 Min.\n#hvv"
+  },
+  "800741487113891800": {
+    "score": "undefined",
+    "payload": "RT @JosephineMedusa: @HVVStoerungen Stehe gerade in Wandsbek Gartenstadt Ri. Volksdorf und es wird durchgesagt \"Verspätungen bis zu 15 Minu…"
+  },
+  "800745739366387700": {
+    "score": "undefined",
+    "payload": "S11 Update\nVerkehrt nur noch zw Othmarschen&lt;&gt;Poppenbüttel &amp; mit Ausfällen.\nS1 bis zu 10 Min verspätet in beide Ri.//techn Störungen\n#hvv"
+  },
+  "800749124584935400": {
+    "score": "undefined",
+    "payload": "Li. 145\nWg Feuerwehreinsatzes bis zur Hst Maretstr/Bürgerzentrum verkürzt. Die Hst Außenmühle &amp; MidSommerland entfallen.\n#hvv"
+  },
+  "800749333436047400": {
+    "score": "undefined",
+    "payload": "U1 Update\nDie Betriebslage nach dem Polizeieinsatz normalisiert sich wieder. Folgeverspätungen von vereinzelt bis zu 5 Min. möglich.\n#hvv"
+  },
+  "800752857943158800": {
+    "score": "undefined",
+    "payload": "594\nVollsperrung Dorfstraße in Borstel zw. Borstel,Am Stoppelhof und Himmelmoorweg verkehren bis auf weiteres keine Busse.\n#HVV"
+  },
+  "800754620955902000": {
+    "score": "undefined",
+    "payload": "569 Update \n\nDie Linie beginnt und endet wieder am Helgolandring. \n\n#hvv"
+  },
+  "800762819327230000": {
+    "score": "undefined",
+    "payload": "S1 Update\nDer Betrieb auf der Linie S1 hat sich wieder normalisiert. Derzeit keine Ausfälle mehr.\n#hvv"
+  },
+  "800777963314835500": {
+    "score": "undefined",
+    "payload": "Li. 145 Update \n\nDie Linie 145 fährt wieder bis MidSommerland durch. Die Verkürzung ist aufgehoben.\n#hvv"
+  },
+  "800780420262543400": {
+    "score": "undefined",
+    "payload": "Linie 594 Update\n\nDie Sperrung in Borstel wurde aufgehoben. Die Hst in Borstel werden wieder regulär bedient.\n#HVV"
+  },
+  "800784113196142600": {
+    "score": "undefined",
+    "payload": "Linie 186\nVom 22.11. bis 02.12. entfällt die Hst. Eckhoffplatz in Ri Othmarschen &amp; die Hst. Rugenbarg Nord ist an die Hst. der Li 22 verlegt"
+  },
+  "800793744463175700": {
+    "score": "undefined",
+    "payload": "Li. 13\nWg Falschparker in der Georg-Wilhelm-Str. entfällt die Hst Vogelhüttendeich in Ri Veddel. Es kommt zudem zu Verspätungen\n#hvv"
+  },
+  "800949241334087700": {
+    "score": "undefined",
+    "payload": "U1\nWegen eines Polizeieinsatzes Höhe Alter Teichweg kommt es derzeit in Ri Norderstedt Mitte zu Verspätungen von ca. 10-15 Min\n#hvv"
+  },
+  "800953824986988500": {
+    "score": "undefined",
+    "payload": "U1 Upd.\nVerspätungen am Alten Teichweg gehen deutlich zurück.\nIm Bereich Kellinghusenstr. bis Norderstedt noch bis zu 10 Min verspätete Züge"
+  },
+  "800954736337887200": {
+    "score": "undefined",
+    "payload": "RE5\n&gt;&gt;Hamburg Hbf ab Stade 7:44h, ab Buxtehude 8:02h verspätet sich um ca. 13 Min. aufgrund einer Bahnübergangsstörung.\n#hvv"
+  },
+  "800959174448332800": {
+    "score": "undefined",
+    "payload": "RT @TSGBergedorfEV: #Sonnenaufgang über #Allermoehe / #Bergedorf 😍 Habt einen schönen Tag 💪 https://t.co/JPvqMMkSJ8"
+  },
+  "800961453574361100": {
+    "score": "undefined",
+    "payload": "U1 Update\n\nDie Verspätungen sind größtenteils ausgefahren. Die Linie U1 verkehrt in Ri Norderstedt wieder planmäßig.\n\n#hvv"
+  },
+  "800961906496467000": {
+    "score": "undefined",
+    "payload": "RE3 RB31\nAufgrund einer Signalstörung in Winsen kommt es derzeit zw. Lüneburg &amp; Hamburg zu Verspätungen von ca. 20 Min.\n#hvv"
+  },
+  "800980059649704000": {
+    "score": "undefined",
+    "payload": "RE3 RB31 Update \n\nDie Signalstörung in Winsen ist behoben. Der metronom verkehrt wieder planmäßig.\n#hvv"
+  },
+  "801016302496350200": {
+    "score": "undefined",
+    "payload": "U1\n&gt;&gt;Farmsen ab Hallerstr 11:55, ab Hbf Süd 12:03 fällt wg techn Störung aus. Nachfolgende Züge verspätet"
+  },
+  "801024961708073000": {
+    "score": "undefined",
+    "payload": "Li. 177, 277\nIn Bramfeld derzeit keine Bedienung der Hst. Harzensweg und Hellbrookstr aufgrund eines Verkehrsunfalles.\n#hvv"
+  },
+  "801025413405429800": {
+    "score": "undefined",
+    "payload": "Li. 177, 277\nIn Fahrtrichtung Bramfeld derzeit keine Bedienung der Hst. Harzensweg und Hellbrookstr aufgrund eines Verkehrsunfalles.\n#hvv"
+  },
+  "801051768880820200": {
+    "score": "undefined",
+    "payload": "Li. 22, 39\nDie Hst Offakamp, Frickestraße und Tarpenbekstraße können in beiden Richtungen nicht bedient werden.\n#HVV"
+  },
+  "801062100487589900": {
+    "score": "undefined",
+    "payload": "RT @PolizeiHamburg: Fund einer #Fliegerbombe in #Lokstedt #Süderfeldstraße #Straßensperrung sind erforderlich. Wir werden über weitere Maßn…"
+  },
+  "801062417077796900": {
+    "score": "undefined",
+    "payload": "RT @vhhbus: #vhh22 Kein Betrieb zwischen Hagenbecks Tierpark und Kellinghusenstraße wegen Blindgängerfund. #HVV"
+  },
+  "801064760456446000": {
+    "score": "undefined",
+    "payload": "@tweetytier In Lokstedt geht gerade gar nix mehr. Das wird interessant."
+  },
+  "801064999766605800": {
+    "score": "undefined",
+    "payload": "Li. 5, 20, 22, 25,39, 281\nUmleitungswege sind verstopft.Bereich Gärtnerstr / Siemersplatz mit erheblichen Verspätungen &amp; Fahrtausfällen\n#hvv"
+  },
+  "801065799771455500": {
+    "score": "undefined",
+    "payload": "U2, U4\nAufgrund einer Störung am Gleis im Bereich Berliner Tor / Jungfernstieg kommt es derzeit beidseitig zu Verspätungen von ca 10 Min."
+  },
+  "801070268055748600": {
+    "score": "undefined",
+    "payload": "RT @vhhbus: #vhh281 Das UKE kann weiterhin nicht bedient werden. #HVV"
+  },
+  "801071307987292200": {
+    "score": "undefined",
+    "payload": "Li. 5, 39 Update\nDie Umleitung im Bereich Siemersplatz / Gärtnerstr. wurde aufgehoben. Verspätungen weiterhin möglich.\n#hvv"
+  },
+  "801077617013260300": {
+    "score": "undefined",
+    "payload": "U2, U4\nWeiterhin technische Störung am Gleis zw. Berliner Tor&lt;&gt;Jungfernstieg. Beidseitig 5-10 Min. Verspätung möglich.\n#hvv"
+  },
+  "801079921154158600": {
+    "score": "undefined",
+    "payload": "Linie 177, 277 Update\nDie Hst. Harzensweg &amp; Hellbrookstraße werden wieder regulär bedient. Die Unfallstelle wurde geräumt.\n#hvv"
+  },
+  "801081207236821000": {
+    "score": "undefined",
+    "payload": "RT @PolizeiHamburg: #Fliegerbombe #Lokstedt.\nAchtung nicht erschrecken❗ Der Zünder wird in Kürze kontrolliert durch den KMRD gesprengt. htt…"
+  },
+  "801082928855777300": {
+    "score": "undefined",
+    "payload": "RT @FeuerwehrHH: Die Fliegerbombe in #Hamburg #Eppendorf wurde erfolgreich durch den #Kampfmittelräumdienst der #FeuerwehrHH entschärft.…"
+  },
+  "801092515164209200": {
+    "score": "undefined",
+    "payload": "U2, U4 Update\n\nDer Betrieb auf beiden Li. hat sich wieder eingetaktet &amp; die techn Störung ist behoben. \n#hvv"
   }
 }

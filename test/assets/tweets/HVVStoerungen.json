@@ -2278,5 +2278,9 @@
   "801319972903538700": {
     "score": "undefined",
     "payload": "RB31\n&gt;&gt;Hamburg Hbf ab Lüneburg 8:03h, ab Maschen 8:32h verspätet sich um ca. 20-30 Min. wegen verspäteter Bereitstellung des Zuges\n#hvv"
+  },
+  "801320607774339100": {
+    "score": "undefined",
+    "payload": "RB31\n&gt;&gt;Hamburg Hbf ab Lüneburg West 8:32h, ab Maschen 9:00h ca. 10-15 Min später wegen der Verspätung vorausfahrender Züge.\n#hvv"
   }
 }

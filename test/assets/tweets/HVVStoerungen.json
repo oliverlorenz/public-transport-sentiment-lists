@@ -2274,5 +2274,9 @@
   "801316555564970000": {
     "score": "undefined",
     "payload": "RB81\n&gt;&gt;Hamburg Hbf ab Bargteheide 8:12h, ab Ahrensburg 8:22h, ab Rahlstedt 8:29h entfällt wegen eines defekten Zuges.\n#hvv"
+  },
+  "801319972903538700": {
+    "score": "undefined",
+    "payload": "RB31\n&gt;&gt;Hamburg Hbf ab Lüneburg 8:03h, ab Maschen 8:32h verspätet sich um ca. 20-30 Min. wegen verspäteter Bereitstellung des Zuges\n#hvv"
   }
 }

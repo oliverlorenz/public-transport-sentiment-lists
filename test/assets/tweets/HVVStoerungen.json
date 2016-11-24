@@ -2498,5 +2498,9 @@
   "801811841366294500": {
     "score": "undefined",
     "payload": "S31\n&gt;&gt;Neugraben ab Hamburg Hbf 16:42h fällt wegen einer technischen Störung aus.\n#hvv"
+  },
+  "801812935433666600": {
+    "score": "undefined",
+    "payload": "RB61\n&gt;&gt;Tornesch ab Hamburg Hbf 17:02h fällt wg entgleistem Güterzug auf der Bereitstellungsstrecke aus. RB61 ab Hbf 17:06h planmäßig.\n#hvv"
   }
 }

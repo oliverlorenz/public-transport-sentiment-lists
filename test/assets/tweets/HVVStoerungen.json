@@ -2300,64 +2300,52 @@
     "payload": "Li. 13, 156 Update\nDie Unfallstelle auf Veddel wurde geräumt. Alle Hst. werden wieder regulär angefahren.\n#hvv"
   },
   "801335058216976400": {
-    "score": "undefined",
-    "payload": "@stefan213hh RB61\n&gt;&gt;Itzehoe ab Pinneberg 9:25 Uhr wird sich um ca. 5-10 Min. verspäten aufgrund der Verspätung aus vorheriger Fahrt.\n#hvv"
+    "score": "skipped",
+    "payload": "@stefan213hh RB61 >>Itzehoe ab Pinneberg 9:25 Uhr wird sich um ca. 5-10 Min. verspäten aufgrund der Verspätung aus vorheriger Fahrt. #hvv"
   },
   "801336642103640000": {
-    "score": "undefined",
-    "payload": "261\nUmleitung zw. Universität d Bundeswehr &amp; Gustav-Adolf-Str wie Linien 10/263. Luetkensallee, Kielmannseggstr Schimmelmannstr entfallen."
+    "score": "=-2",
+    "payload": "261 Umleitung zw. Universität d Bundeswehr & Gustav-Adolf-Str wie Linien 10/263. Luetkensallee, Kielmannseggstr Schimmelmannstr entfallen."
   },
   "801336965354418200": {
-    "score": "undefined",
-    "payload": "@HVVStoerungen 261\nGrund: Bauarbeiten. Dauer: Bis 14.12. 20 Uhr. Hst. Univ. d. Bundeswehr &amp; Gustav-Adolf-Str. an Hst. der Li. 10 verlegt."
-  },
-  "801337632278114300": {
-    "score": "undefined",
-    "payload": "@UBahnKollektiv @iverbpunkt @Aus_der_UBahn Stimmt auf alle Fälle, allerdings soll das dann immer zeitnah im Bus angekündigt werden."
+    "score": "=-1",
+    "payload": "@HVVStoerungen 261 Grund: Bauarbeiten. Dauer: Bis 14.12. 20 Uhr. Hst. Univ. d. Bundeswehr & Gustav-Adolf-Str. an Hst. der Li. 10 verlegt."
   },
   "801338125448597500": {
-    "score": "undefined",
+    "score": "skipped",
     "payload": "@UBahnKollektiv @iverbpunkt @Aus_der_UBahn ansonsten gibt es noch das Pendelkonzept - 1. Bus lässt Hst. aus, 2. Bus pendelt durch den Stau."
   },
-  "801344921106022400": {
-    "score": "undefined",
-    "payload": "RT @DerSchulze: Zebrastreifen in #Hamburg, das russische Roulette des kleinen Mannes."
-  },
   "801373214010208300": {
-    "score": "undefined",
-    "payload": "U2\nIn Ri Billstedt/Mümmelmannsb. 5-10 Min. Verspätung durch techn. Störung. U4 derzeit planmäßig unterwegs.\n#hvv"
+    "score": "skipped",
+    "payload": "U2 In Ri Billstedt/Mümmelmannsb. 5-10 Min. Verspätung durch techn. Störung. U4 derzeit planmäßig unterwegs. #hvv"
   },
   "801385423843033100": {
-    "score": "undefined",
-    "payload": "U2 Update\nIn Richtung Billstedt wieder planmäßiger Betrieb. Vereinzelt noch Folgeverspätungen in Ri Niendorf von bis zu 5 Min. möglich.\n#hvv"
-  },
-  "801400819644035100": {
-    "score": "undefined",
-    "payload": "@cynorx JA, das stimmt. Ich wundere mich auch über die vielen plötzlichen Verspätungen auf der U2. Ich nehme mal an, es wird i-wo gebastelt."
+    "score": "skipped",
+    "payload": "U2 Update In Richtung Billstedt wieder planmäßiger Betrieb. Vereinzelt noch Folgeverspätungen in Ri Niendorf von bis zu 5 Min. möglich. #hvv"
   },
   "801441341964226600": {
-    "score": "undefined",
-    "payload": "Linien 1, 4, 5, 21, 183, 191, 283-285\nStau in Stellingen, Niendorf, Lokstedt, Schnelsen &amp; Osdorf - 10-20 Min. Verspätung möglich.\n#hvv"
+    "score": "=-2",
+    "payload": "Linien 1, 4, 5, 21, 183, 191, 283-285 Stau in Stellingen, Niendorf, Lokstedt, Schnelsen & Osdorf - 10-20 Min. Verspätung möglich. #hvv"
   },
   "801445041512267800": {
-    "score": "undefined",
+    "score": "skipped",
     "payload": "RT @KViP_de: # KViP6661Haltestellen Fournierm.-Weg, Alsenstr, u. Ossenpadd können a.24.11.nicht angefahren werden!Ersatzhalt Ossenpadd/ Eck…"
   },
   "801445391447261200": {
-    "score": "undefined",
+    "score": "skipped",
     "payload": "RT @vhhbus: #vhh195 Ab 16:41 Uhr verkehrsbedingt keine Fahrten mehr zwischen Modering und U-Niendorf Nord. #HVV"
   },
   "801450157921419300": {
-    "score": "undefined",
+    "score": "=-2",
     "payload": "RT @vhhbus: #vhh135 Sperrung Wentorfer Straße. Haltestellen ab Bethesda Krankenhaus bis Bf. Bergedorf können wegen Umleitung nicht bedient…"
   },
   "801450719874351100": {
-    "score": "undefined",
+    "score": "=-2",
     "payload": "RT @vhhbus: #vhh1 In Richtung Bf. Altona: Wegen eines Falschparkers kann das Krankenhaus Rissen derzeit nicht bedient werden. #HVV"
   },
   "801451466754031600": {
-    "score": "undefined",
-    "payload": "Li 135\nSperrung Wentorfer Straße. Haltestellen ab Bethesda Krankenhaus bis Bf. Bergedorf können wegen Umleitung nicht bedient werden\n#HVV"
+    "score": "=-2",
+    "payload": "Li 135 Sperrung Wentorfer Straße. Haltestellen ab Bethesda Krankenhaus bis Bf. Bergedorf können wegen Umleitung nicht bedient werden #HVV"
   },
   "801452017046745100": {
     "score": "skipped",

@@ -2458,5 +2458,9 @@
   "801725872185233400": {
     "score": "undefined",
     "payload": "U3\n&gt;&gt;Wandsbek-Gartenstadt ab Landungsbrücken 10:52h, ab Hbf Süd 11:00h ca. 7 Min. später wg einer techn. Störung\n#hvv"
+  },
+  "801726416245157900": {
+    "score": "undefined",
+    "payload": "S21\n&gt;&gt;Bergedorf ab Hbf 10:54h &amp;\nS1\n&gt;&gt;Airport/Poppenbüttel ab Hbf 10:54h &amp;\nS3\n&gt;&gt;Neugraben ab Hbf 10:58h je ca. 5-6 Min. später.\n#hvv"
   }
 }

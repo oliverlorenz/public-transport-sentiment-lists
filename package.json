@@ -1,6 +1,6 @@
 {
   "name": "public-transport-sentiment-lists",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "A collection of sentiment lists for different languages and contexts inspired by AFINN",
   "main": "index.js",
   "scripts": {

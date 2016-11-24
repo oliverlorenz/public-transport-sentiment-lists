@@ -2360,151 +2360,119 @@
     "payload": "Li 135\nSperrung Wentorfer Straße. Haltestellen ab Bethesda Krankenhaus bis Bf. Bergedorf können wegen Umleitung nicht bedient werden\n#HVV"
   },
   "801452017046745100": {
-    "score": "undefined",
+    "score": "skipped",
     "payload": "RT @vhhbus: #vhhbus Wegen einer Unfall-Sperrung Wentorfer Straße kommt es auf mehreren Linien im Raum Bergedorf zu Verspätungen #HVV"
   },
   "801455337157042200": {
-    "score": "undefined",
-    "payload": "S1 S11\nIn Ri Poppenbüttel derzeit 10 - 15 Verspätung. Grund: Nicht genannt. \n#hvv"
+    "score": "=0",
+    "payload": "S1 S11 In Ri Poppenbüttel derzeit 10 - 15 Verspätung. Grund: Nicht genannt. #hvv"
   },
   "801456126709694500": {
-    "score": "undefined",
+    "score": "=-1",
     "payload": "RT @vhhbus: #vhh235 Sperrung Wentorfer Straße. Haltestellen Wentorfer Str., Pfingstberg und Rathaus Bergedorf können nicht bedient werden #…"
   },
   "801458226801872900": {
-    "score": "undefined",
+    "score": "=-1",
     "payload": "RT @vhhbus: #vhh21 #vhh22 Verkehrsbedingt bis 30 min Verspätung in Richtung Klein Flottbek / Blankenese. #HVV"
   },
   "801461604718178300": {
-    "score": "undefined",
-    "payload": "S1 S11 Upd.\nGrund für Verspätungen: Schadhafter Zug (bereits entfernt). Im Bereich Barmbek-Poppenbüttel kommt es noch zu Folgeverspätungen"
+    "score": "=-2",
+    "payload": "S1 S11 Upd. Grund für Verspätungen: Schadhafter Zug (bereits entfernt). Im Bereich Barmbek-Poppenbüttel kommt es noch zu Folgeverspätungen"
   },
   "801467047502815200": {
-    "score": "undefined",
+    "score": "=-1",
     "payload": "RT @vhhbus: #vhh1 #vhh22 #vhh189 #vhh285 Massive Verspätungen aufgrund von Baustellenstau in Osdorf. #HVV"
   },
   "801468357891461100": {
-    "score": "undefined",
-    "payload": "1,22 2, 3, 37, 189 285\nMassive Verspätungen wg Baustellenstau in Osdorf/Rückstau bis Bahrenfeld/Schenefeld/Lurup."
+    "score": "=-1",
+    "payload": "1,22 2, 3, 37, 189 285 Massive Verspätungen wg Baustellenstau in Osdorf/Rückstau bis Bahrenfeld/Schenefeld/Lurup."
   },
   "801479053131780100": {
-    "score": "undefined",
-    "payload": "RT @MalteOfficial: @HVVStoerungen @HVVStoerungen Polizeieinsatz Wentorfer Straße \nVerspätungen  bis zu 30 Minuten Linie 235, 135 und 8810 n…"
+    "score": "skipped",
+    "payload": "RT @MalteOfficial: @HVVStoerungen @HVVStoerungen Polizeieinsatz Wentorfer Straße Verspätungen bis zu 30 Minuten Linie 235, 135 und 8810 n…"
   },
   "801483413685465100": {
-    "score": "undefined",
+    "score": "=2",
     "payload": "RT @vhhbus: #vhh135 #vhh235 Unfallstelle Wentorfer Straße ist geräumt. Busse fahren ab sofort wieder den normalen Linienweg. #HVV"
   },
   "801508890978484200": {
-    "score": "undefined",
-    "payload": "6661\nHst. Fournierm.-Weg, Alsenstr &amp; Ossenpadd können am 24.11.nicht angefahren werden! Ersatzhalt Ossenpadd / Ecke Tornescher Weg.\n#HVV"
+    "score": "skipped",
+    "payload": "6661 Hst. Fournierm.-Weg, Alsenstr & Ossenpadd können am 24.11.nicht angefahren werden! Ersatzhalt Ossenpadd / Ecke Tornescher Weg. #HVV"
   },
   "801515783948009500": {
-    "score": "undefined",
-    "payload": "Li. 1, 2, 3, 21, 22, ,22 2, 3, 37, 183, 189, 283-285 Update\nDie Staus haben sich nun überall aufgelöst.Der Busverkehr läuft wieder nach Plan"
+    "score": "skipped",
+    "payload": "Li. 1, 2, 3, 21, 22, ,22 2, 3, 37, 183, 189, 283-285 Update Die Staus haben sich nun überall aufgelöst.Der Busverkehr läuft wieder nach Plan"
   },
   "801529425854664700": {
-    "score": "undefined",
-    "payload": "RB41\n&gt;&gt;Hamburg Hbf ab Buchholz 21:59 ca. 20 Min später\nRB31\n&gt;&gt;Uelzen ab Hamburg Hbf 21:34h ca. 15 Min. später // Fahrzeugstörung.\n#hvv"
-  },
-  "801536749352710100": {
-    "score": "undefined",
-    "payload": "RT @nimmbus_de: Innerhalb #Ahrensburg ist der #HVV an den Adventssonnabenden, Heiligabend und Silvester kostenlos! Gilt auch für U1 und RB8…"
+    "score": "=-2",
+    "payload": "RB41 >>Hamburg Hbf ab Buchholz 21:59 ca. 20 Min später RB31 >>Uelzen ab Hamburg Hbf 21:34h ca. 15 Min. später // Fahrzeugstörung. #hvv"
   },
   "801668243454918700": {
-    "score": "undefined",
-    "payload": "RE80 RB81\nAuufgrund eines defekten Zuges in Bad Oldesloe kommt es auf beiden Linien zu Verspätungen von bis zu 35 Min.\n#hvv"
+    "score": "skipped",
+    "payload": "RE80 RB81 Auufgrund eines defekten Zuges in Bad Oldesloe kommt es auf beiden Linien zu Verspätungen von bis zu 35 Min. #hvv"
   },
   "801673492177547300": {
-    "score": "undefined",
-    "payload": "U1\n&gt;&gt;Norderstedt Mitte ab Wandsbek-Gartenstadt 7:30h/7:40h, ab W.-Markt 7:35h/7:45h je ca. 6 Min später wegen einer technischen Störung\n#hvv"
+    "score": "=-2",
+    "payload": "U1 >>Norderstedt Mitte ab Wandsbek-Gartenstadt 7:30h/7:40h, ab W.-Markt 7:35h/7:45h je ca. 6 Min später wegen einer technischen Störung #hvv"
   },
   "801680335046115300": {
-    "score": "undefined",
-    "payload": "RE80 RB81 Upd.\nDie techn. Störung am Zug wurde behoben. Derzeit noch Folgeverspätungen zw. Hamburg &amp; Ahrensburg von 10-20 Min. möglich.\n#hvv"
+    "score": "skipped",
+    "payload": "RE80 RB81 Upd. Die techn. Störung am Zug wurde behoben. Derzeit noch Folgeverspätungen zw. Hamburg & Ahrensburg von 10-20 Min. möglich. #hvv"
   },
   "801685106373120000": {
-    "score": "undefined",
-    "payload": "S1\nZw. Blankenese&lt;&gt;Wedel Taktlücken &amp; Verspätungen von ca. 10 Min. derzeit in beiden Ri. Restl. Strecke bis zu +5 Min verspätet.\n#hvv"
+    "score": "skipped",
+    "payload": "S1 Zw. Blankenese<>Wedel Taktlücken & Verspätungen von ca. 10 Min. derzeit in beiden Ri. Restl. Strecke bis zu +5 Min verspätet. #hvv"
   },
   "801685321796780000": {
-    "score": "undefined",
-    "payload": "RB31\n&gt;&gt;Hamburg Hbf ab Lüneburg West 8:32h ca. 15 Min.  spätere Abfahrt durch die Verspätung aus vorheriger Fahrt\n#hvv"
+    "score": "skipped",
+    "payload": "RB31 >>Hamburg Hbf ab Lüneburg West 8:32h ca. 15 Min. spätere Abfahrt durch die Verspätung aus vorheriger Fahrt #hvv"
   },
   "801687557289508900": {
-    "score": "undefined",
-    "payload": "Linie 1\nVerkehrsbedingt derzeit ca. 15 Minuten Verspätung in Richtung Rissen.\n#HVV"
-  },
-  "801689858930524200": {
-    "score": "undefined",
-    "payload": "Linie 277\nVerkehrsbedingt durch Stau zwischen Bramfeld und Berne 10-15 Min. verspätet.\n\n#HVV"
-  },
-  "801690098215612400": {
-    "score": "undefined",
-    "payload": "@Pictureclass @SBahnHamburg Jep - immer noch gültig: https://t.co/EvvmYYB9oC"
-  },
-  "801691176227274800": {
-    "score": "undefined",
-    "payload": "@Pictureclass @SBahnHamburg Das war nie heile! Die melden nur, wenn mind. 2x Atombomben abgeworfen wurden o. der Praktikant Twitter benutzt."
-  },
-  "801694620950401000": {
-    "score": "undefined",
-    "payload": "@SerendipityHH Wir machen keine Bahnen &amp; melden ehrenamtlich Störungen. Die @SBahnHamburg ist hierfür verantwortlich."
+    "score": "=-1",
+    "payload": "Linie 1 Verkehrsbedingt derzeit ca. 15 Minuten Verspätung in Richtung Rissen. #HVV"
   },
   "801694914505482200": {
-    "score": "undefined",
-    "payload": "RB81\n&gt;&gt;Hamburg Hbf ab Bargteheide 9:12h, ab Rahlstedt 9:29h fällt wegen eines defekten Zuges aus. Folgezüge ca 5-10 Min später.\n#hvv"
+    "score": "skipped",
+    "payload": "RB81 >>Hamburg Hbf ab Bargteheide 9:12h, ab Rahlstedt 9:29h fällt wegen eines defekten Zuges aus. Folgezüge ca 5-10 Min später. #hvv"
   },
   "801725872185233400": {
-    "score": "undefined",
-    "payload": "U3\n&gt;&gt;Wandsbek-Gartenstadt ab Landungsbrücken 10:52h, ab Hbf Süd 11:00h ca. 7 Min. später wg einer techn. Störung\n#hvv"
+    "score": "=-2",
+    "payload": "U3 >>Wandsbek-Gartenstadt ab Landungsbrücken 10:52h, ab Hbf Süd 11:00h ca. 7 Min. später wg einer techn. Störung #hvv"
   },
   "801726416245157900": {
-    "score": "undefined",
-    "payload": "S21\n&gt;&gt;Bergedorf ab Hbf 10:54h &amp;\nS1\n&gt;&gt;Airport/Poppenbüttel ab Hbf 10:54h &amp;\nS3\n&gt;&gt;Neugraben ab Hbf 10:58h je ca. 5-6 Min. später.\n#hvv"
+    "score": "=-1",
+    "payload": "S21 >>Bergedorf ab Hbf 10:54h & S1 >>Airport/Poppenbüttel ab Hbf 10:54h & S3 >>Neugraben ab Hbf 10:58h je ca. 5-6 Min. später. #hvv"
   },
   "801727395858444300": {
-    "score": "undefined",
-    "payload": "Li. 1, 21, 22, 39\nBaustelle im Bereich Osdorfer Landstr. - Weiterhin Verspätungen (v.a. zu Hautpverkehrszeiten) von ca 10-15 Min. möglich."
-  },
-  "801729612673859600": {
-    "score": "undefined",
-    "payload": "RT @jkbkch: HOCHBAHN baut WLAN in Hamburg massiv aus - bis Ende 2017 alle 100 Busse und 91 Ubahn-Haltestellen mit Internet."
+    "score": "skipped",
+    "payload": "Li. 1, 21, 22, 39 Baustelle im Bereich Osdorfer Landstr. - Weiterhin Verspätungen (v.a. zu Hautpverkehrszeiten) von ca 10-15 Min. möglich."
   },
   "801738103425736700": {
-    "score": "undefined",
-    "payload": "RE5\n&gt;&gt;Cuxhaven ab Hamburg Hbf 12:06h beginnt heute wegen der hohen Eingangsverspätung aus der vorherigen Fahrt erst in Harburg\n#hvv"
-  },
-  "801742626391212000": {
-    "score": "undefined",
-    "payload": "RT @hochbahn: Nach erfolgreicher Pilotphase auf der 5 ist die Entscheidung gefallen: #WLAN für alle Busse + U-Bahn-Haltestellen und USB im…"
-  },
-  "801743256405033000": {
-    "score": "undefined",
-    "payload": "WLAN für alle Busse + U-Bahn-Haltestellen der HOCHBAHN und USB im DT5 obendrauf bis Ende 2017. https://t.co/xi2kZeHLJP"
+    "score": "skipped",
+    "payload": "RE5 >>Cuxhaven ab Hamburg Hbf 12:06h beginnt heute wegen der hohen Eingangsverspätung aus der vorherigen Fahrt erst in Harburg #hvv"
   },
   "801784318905434100": {
-    "score": "undefined",
-    "payload": "23, 39, 292\nWg Gewerkschaftsdemo können die Hst Lufthansa Basis &amp; Haupteingang in beiden Ri nicht bedient werden.\n#hvv"
+    "score": "=-1",
+    "payload": "23, 39, 292 Wg Gewerkschaftsdemo können die Hst Lufthansa Basis & Haupteingang in beiden Ri nicht bedient werden. #hvv"
   },
   "801788269335871500": {
-    "score": "undefined",
-    "payload": "Li. 114\nVerkürzt bis Am Licentiatenberg. Die Hst. Paeplowstieg und Lufthansa-Basis (Haupteingang) entfallen wg der Demo.\n#hvv"
+    "score": "=-1",
+    "payload": "Li. 114 Verkürzt bis Am Licentiatenberg. Die Hst. Paeplowstieg und Lufthansa-Basis (Haupteingang) entfallen wg der Demo. #hvv"
   },
   "801800788561580000": {
-    "score": "undefined",
-    "payload": "23, 39, 114, 292 Update\nDie Demo bei Lufthansa ist beendet. Sämtliche Umleitungen sind aufgehoben\n#hvv"
+    "score": "skipped",
+    "payload": "23, 39, 114, 292 Update Die Demo bei Lufthansa ist beendet. Sämtliche Umleitungen sind aufgehoben #hvv"
   },
   "801811841366294500": {
-    "score": "undefined",
-    "payload": "S31\n&gt;&gt;Neugraben ab Hamburg Hbf 16:42h fällt wegen einer technischen Störung aus.\n#hvv"
+    "score": "=-1",
+    "payload": "S31 >>Neugraben ab Hamburg Hbf 16:42h fällt wegen einer technischen Störung aus. #hvv"
   },
   "801812935433666600": {
-    "score": "undefined",
-    "payload": "RB61\n&gt;&gt;Tornesch ab Hamburg Hbf 17:02h fällt wg entgleistem Güterzug auf der Bereitstellungsstrecke aus. RB61 ab Hbf 17:06h planmäßig.\n#hvv"
+    "score": "skipped",
+    "payload": "RB61 >>Tornesch ab Hamburg Hbf 17:02h fällt wg entgleistem Güterzug auf der Bereitstellungsstrecke aus. RB61 ab Hbf 17:06h planmäßig. #hvv"
   },
   "801822941583409200": {
-    "score": "undefined",
-    "payload": "Li 1, 21, 22, 24, 39, 183, 189, 191, 195, 283-285\nIm Westen Hamburgs auf vielen Linien Verspätung bis 30 Minuten wegen Baustellen &amp; Unfällen"
+    "score": "skipped",
+    "payload": "Li 1, 21, 22, 24, 39, 183, 189, 191, 195, 283-285 Im Westen Hamburgs auf vielen Linien Verspätung bis 30 Minuten wegen Baustellen & Unfällen"
   }
 }

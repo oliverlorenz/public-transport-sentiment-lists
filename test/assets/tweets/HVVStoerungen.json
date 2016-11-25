@@ -2280,24 +2280,20 @@
     "payload": "RB31\n&gt;&gt;Hamburg Hbf ab Lüneburg 8:03h, ab Maschen 8:32h verspätet sich um ca. 20-30 Min. wegen verspäteter Bereitstellung des Zuges\n#hvv"
   },
   "801320607774339100": {
-    "score": "undefined",
-    "payload": "RB31\n&gt;&gt;Hamburg Hbf ab Lüneburg West 8:32h, ab Maschen 9:00h ca. 10-15 Min später wegen der Verspätung vorausfahrender Züge.\n#hvv"
+    "score": "=-1",
+    "payload": "RB31 >>Hamburg Hbf ab Lüneburg West 8:32h, ab Maschen 9:00h ca. 10-15 Min später wegen der Verspätung vorausfahrender Züge. #hvv"
   },
   "801324618527215600": {
-    "score": "undefined",
-    "payload": "Li. 13\nbedient die Hst. Stübenplatz &amp; Vogelhüttendeich in Ri Kirchdorf Süd derzeit nicht. Li. 156 zusätzlich die Hst Ernastr. nicht.\n#hvv"
+    "score": "skipped",
+    "payload": "Li. 13 bedient die Hst. Stübenplatz & Vogelhüttendeich in Ri Kirchdorf Süd derzeit nicht. Li. 156 zusätzlich die Hst Ernastr. nicht. #hvv"
   },
   "801324810802434000": {
-    "score": "undefined",
-    "payload": "@HVVStoerungen Li. 13, 156\nBeidseitig kommt es zu Verspätungen wegen eines Verkehrsunfalles auf der Veddel.\n#hvv"
-  },
-  "801325398944575500": {
-    "score": "undefined",
-    "payload": "@iverbpunkt @hochbahn Mangelnde Nachfrage seitens d. HVV! Wenn d. HVV nur Kurzzüge bestellt/bezahlt,wird das auch gefahren.Kostet alles Geld"
+    "score": "skipped",
+    "payload": "@HVVStoerungen Li. 13, 156 Beidseitig kommt es zu Verspätungen wegen eines Verkehrsunfalles auf der Veddel. #hvv"
   },
   "801334247550308400": {
-    "score": "undefined",
-    "payload": "Li. 13, 156 Update\nDie Unfallstelle auf Veddel wurde geräumt. Alle Hst. werden wieder regulär angefahren.\n#hvv"
+    "score": "skipped",
+    "payload": "Li. 13, 156 Update Die Unfallstelle auf Veddel wurde geräumt. Alle Hst. werden wieder regulär angefahren. #hvv"
   },
   "801335058216976400": {
     "score": "skipped",

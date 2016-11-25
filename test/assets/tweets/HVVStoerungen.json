@@ -2542,5 +2542,9 @@
   "802161570453344300": {
     "score": "undefined",
     "payload": "Li. 1, 4, 22, 24, 39, 160, 183, 195, 261, 283\nDerzeit 10-20 Min. verspätete Busse durch Stau.\n#hvv"
+  },
+  "802166128881664000": {
+    "score": "undefined",
+    "payload": "S2\n&gt;&gt;Altona ab Bergedorf 16 + 16:10h Ausfall\n&gt;&gt;Bergedorf ab Altona 16:47h + 16:57h (Hbf 17 + 17:10h) betriebsbedingter Ausfall.\n#hvv"
   }
 }

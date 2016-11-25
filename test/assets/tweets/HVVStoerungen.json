@@ -2160,27 +2160,19 @@
     "payload": "Li. 177, 277 In Fahrtrichtung Bramfeld derzeit keine Bedienung der Hst. Harzensweg und Hellbrookstr aufgrund eines Verkehrsunfalles. #hvv"
   },
   "801051768880820200": {
-    "score": "undefined",
+    "score": "=-1",
     "payload": "Li. 22, 39 Die Hst Offakamp, Frickestraße und Tarpenbekstraße können in beiden Richtungen nicht bedient werden. #HVV"
   },
-  "801062100487589900": {
-    "score": "undefined",
-    "payload": "RT @PolizeiHamburg: Fund einer #Fliegerbombe in #Lokstedt #Süderfeldstraße #Straßensperrung sind erforderlich. Wir werden über weitere Maßn…"
-  },
   "801062417077796900": {
-    "score": "undefined",
+    "score": "skipped",
     "payload": "RT @vhhbus: #vhh22 Kein Betrieb zwischen Hagenbecks Tierpark und Kellinghusenstraße wegen Blindgängerfund. #HVV"
   },
-  "801064760456446000": {
-    "score": "undefined",
-    "payload": "@tweetytier In Lokstedt geht gerade gar nix mehr. Das wird interessant."
-  },
   "801064999766605800": {
-    "score": "undefined",
+    "score": "skipped",
     "payload": "Li. 5, 20, 22, 25,39, 281 Umleitungswege sind verstopft.Bereich Gärtnerstr / Siemersplatz mit erheblichen Verspätungen & Fahrtausfällen #hvv"
   },
   "801065799771455500": {
-    "score": "undefined",
+    "score": "skipped",
     "payload": "U2, U4 Aufgrund einer Störung am Gleis im Bereich Berliner Tor / Jungfernstieg kommt es derzeit beidseitig zu Verspätungen von ca 10 Min."
   },
   "801070268055748600": {
@@ -2208,76 +2200,56 @@
     "payload": "Li. 1, 285 Stau auf der Schenefelder Landstraße, bis zu 20 Minuten Verspätung. #HVV"
   },
   "801133440141762600": {
-    "score": "undefined",
-    "payload": "Linien 1 &amp; 285 Update\n\nDer Stau auf der Schenefelder Landstr. hat sich aufgelöst und die Busse verkehren wieder pünktlich.  \n\n#hvv"
-  },
-  "801145241172668400": {
-    "score": "undefined",
-    "payload": "Busverkehr Lüneburg\nIn der Zeit vom 23. November bis 21. Dezember 2016 werden einige Straßen für den Busverkehr... https://t.co/iC3nEKFHEs"
-  },
-  "801145493690716200": {
-    "score": "undefined",
-    "payload": "Busverkehr Stade\nVom 21.11. bis 27.12.2016 findet der Stader Weihnachtsmarkt statt.\n\nDafür weicht der mittwochs... https://t.co/ay5Q4wcLr9"
-  },
-  "801151040297037800": {
-    "score": "undefined",
-    "payload": "@iverbpunkt @Aus_der_UBahn Und der Gault Millau dazu verdeutlicht das  Scheitern einer Gastronomen-Generation zwischen Anspruch &amp; Realität."
+    "score": "skipped",
+    "payload": "Linien 1 & 285 Update Der Stau auf der Schenefelder Landstr. hat sich aufgelöst und die Busse verkehren wieder pünktlich. #hvv"
   },
   "801162767067648000": {
-    "score": "undefined",
-    "payload": "15, 20, 25, 183\nDie Hst Max-Brauer-Allee und Gerichtsstr entfallen in Ri Altona wegen eines Unfalles\n#hvv"
+    "score": "skipped",
+    "payload": "15, 20, 25, 183 Die Hst Max-Brauer-Allee und Gerichtsstr entfallen in Ri Altona wegen eines Unfalles #hvv"
   },
   "801162923234230300": {
-    "score": "undefined",
-    "payload": "Li. 24\nKeine Bedienung der Hst zw. Stadtbahnstraße und U Volksdorf (beide Ri.) wegen eines Verkehrsunfalles\n#hvv"
+    "score": "skipped",
+    "payload": "Li. 24 Keine Bedienung der Hst zw. Stadtbahnstraße und U Volksdorf (beide Ri.) wegen eines Verkehrsunfalles #hvv"
   },
   "801171865334992900": {
-    "score": "undefined",
-    "payload": "Li. 24\nWeiterhin keine Bedienung der Hst zw. Stadtbahnstraße und U Volksdorf (beide Ri.) wegen eines Feuerwehreinsatzes. \n\n#hvv"
+    "score": "skipped",
+    "payload": "Li. 24 Weiterhin keine Bedienung der Hst zw. Stadtbahnstraße und U Volksdorf (beide Ri.) wegen eines Feuerwehreinsatzes. #hvv"
   },
   "801259998475124700": {
-    "score": "undefined",
-    "payload": "15, 20, 24, 25, 183 Update\n\nDie Umleitungen wurden aufgehoben. Die Busse verkehren wieder auf dem normalen Linienweg.\n#hvv"
+    "score": "skipped",
+    "payload": "15, 20, 24, 25, 183 Update Die Umleitungen wurden aufgehoben. Die Busse verkehren wieder auf dem normalen Linienweg. #hvv"
   },
   "801285380016341000": {
-    "score": "undefined",
-    "payload": "RE70\nZüge aus Kiel derzeit wegen Bauarbeiten &amp; einem liegengebliebenen Zug ab Elmshorn um bis zu 20 Min verspätet.\n#hvv"
+    "score": "=-2",
+    "payload": "RE70 Züge aus Kiel derzeit wegen Bauarbeiten & einem liegengebliebenen Zug ab Elmshorn um bis zu 20 Min verspätet. #hvv"
   },
   "801285808703541200": {
-    "score": "undefined",
-    "payload": "U4\n&gt;&gt;Billstedt ab Hbf Süd 5:49h, ab Berliner Tor 5:52h fällt aufgrund einer technischen Störung aus\n#hvv"
+    "score": "=-1",
+    "payload": "U4 >>Billstedt ab Hbf Süd 5:49h, ab Berliner Tor 5:52h fällt aufgrund einer technischen Störung aus #hvv"
   },
   "801292718580400100": {
-    "score": "undefined",
-    "payload": "U4\n&gt;&gt;Billstedt ab Hbf Süd 6:09h, ab Berliner Tor  6:12h fällt aufgrund einer technischen Störung aus\n#hvv"
+    "score": "=-1",
+    "payload": "U4 >>Billstedt ab Hbf Süd 6:09h, ab Berliner Tor 6:12h fällt aufgrund einer technischen Störung aus #hvv"
   },
   "801309309028237300": {
-    "score": "undefined",
-    "payload": "RE70 Update \n\nDie Bauarbeiten auf der Strecke Kiel - Hamburg wurden beendet. Wieder planmäßiger Zugverkehr.\n\n#hvv"
-  },
-  "801310057803685900": {
-    "score": "undefined",
-    "payload": "@th_schulze stimmt, Fehler."
+    "score": "skipped",
+    "payload": "RE70 Update Die Bauarbeiten auf der Strecke Kiel - Hamburg wurden beendet. Wieder planmäßiger Zugverkehr. #hvv"
   },
   "801315054998134800": {
-    "score": "undefined",
-    "payload": "S3\n&gt;&gt;Neugraben ab Krupunder 7:47h, ab Elbgaustr. 7:52h, ab Hbf 8:18h entfällt wegen einer technischen Störung.\n#hvv"
-  },
-  "801315576467558400": {
-    "score": "undefined",
-    "payload": "@cynorx Ja, aber nur 3 Min. Wir melden ab 6."
+    "score": "=-2",
+    "payload": "S3 >>Neugraben ab Krupunder 7:47h, ab Elbgaustr. 7:52h, ab Hbf 8:18h entfällt wegen einer technischen Störung. #hvv"
   },
   "801316183408595000": {
-    "score": "undefined",
-    "payload": "RB81\n&gt;&gt;Hamburg Hbf ab Bartheide 8:12h, ab Rahlstedt 8:29h entfällt wegen eines defekten Zuges.\n#hvv"
+    "score": "skipped",
+    "payload": "RB81 >>Hamburg Hbf ab Bartheide 8:12h, ab Rahlstedt 8:29h entfällt wegen eines defekten Zuges. #hvv"
   },
   "801316555564970000": {
-    "score": "undefined",
-    "payload": "RB81\n&gt;&gt;Hamburg Hbf ab Bargteheide 8:12h, ab Ahrensburg 8:22h, ab Rahlstedt 8:29h entfällt wegen eines defekten Zuges.\n#hvv"
+    "score": "skipped",
+    "payload": "RB81 >>Hamburg Hbf ab Bargteheide 8:12h, ab Ahrensburg 8:22h, ab Rahlstedt 8:29h entfällt wegen eines defekten Zuges. #hvv"
   },
   "801319972903538700": {
-    "score": "undefined",
-    "payload": "RB31\n&gt;&gt;Hamburg Hbf ab Lüneburg 8:03h, ab Maschen 8:32h verspätet sich um ca. 20-30 Min. wegen verspäteter Bereitstellung des Zuges\n#hvv"
+    "score": "skipped",
+    "payload": "RB31 >>Hamburg Hbf ab Lüneburg 8:03h, ab Maschen 8:32h verspätet sich um ca. 20-30 Min. wegen verspäteter Bereitstellung des Zuges #hvv"
   },
   "801320607774339100": {
     "score": "=-1",
@@ -2460,71 +2432,67 @@
     "payload": "Li 1, 21, 22, 24, 39, 183, 189, 191, 195, 283-285 Im Westen Hamburgs auf vielen Linien Verspätung bis 30 Minuten wegen Baustellen & Unfällen"
   },
   "801836876948734000": {
-    "score": "undefined",
-    "payload": "Li. 173, 37\nWegen eines Unfalles auf der Bramfelder Chaussee kommt es zu Verspätungen zw. 10 &amp; 20 Minuten.\n#hvv"
+    "score": "=-1",
+    "payload": "Li. 173, 37 Wegen eines Unfalles auf der Bramfelder Chaussee kommt es zu Verspätungen zw. 10 & 20 Minuten. #hvv"
   },
   "801837210370764800": {
-    "score": "undefined",
-    "payload": "U1\nAb Kellinghusenstr. / Jungfernstieg &amp; Folgehst. derzeit in Ri Volksdorf bis zu 10 Min. verspätete Bahnen durch techn. Störung\n#hvv"
+    "score": "=-2",
+    "payload": "U1 Ab Kellinghusenstr. / Jungfernstieg & Folgehst. derzeit in Ri Volksdorf bis zu 10 Min. verspätete Bahnen durch techn. Störung #hvv"
   },
   "801846246415695900": {
-    "score": "undefined",
-    "payload": "U1 Update\nWeiterhin bis zu 10 Min. Verspätung in Ri Ohlstedt &amp; Großhansdorf durch eine technische Störung.\n#hvv"
+    "score": "=-2",
+    "payload": "U1 Update Weiterhin bis zu 10 Min. Verspätung in Ri Ohlstedt & Großhansdorf durch eine technische Störung. #hvv"
   },
   "801853607335358500": {
-    "score": "undefined",
-    "payload": "Li 21, 22, 24, 39, 183, 189, 191, 195, 283-285 Update\nDie Verkehrssituation im Hamburger Westen hat sich fast überall wieder beruhigt.\n#hvv"
+    "score": "skipped",
+    "payload": "Li 21, 22, 24, 39, 183, 189, 191, 195, 283-285 Update Die Verkehrssituation im Hamburger Westen hat sich fast überall wieder beruhigt. #hvv"
   },
   "801854053697409000": {
-    "score": "undefined",
-    "payload": "Linie 37 &amp; 173\nIm Bereich Bramfelder Chaussee ist die Unfallstelle geräumt und die Busse verkehren wieder pünktlich.\n#hvv"
+    "score": "skipped",
+    "payload": "Linie 37 & 173 Im Bereich Bramfelder Chaussee ist die Unfallstelle geräumt und die Busse verkehren wieder pünktlich. #hvv"
   },
   "801867250357731300": {
-    "score": "undefined",
-    "payload": "An den Adventssonnabenden - #HVV Paketbusse, Taktverdichtungen - Busumleitungen:\n\nAn den Adventssonnabenden... https://t.co/bA2a4NxIms"
+    "score": "skipped",
+    "payload": "An den Adventssonnabenden - #HVV Paketbusse, Taktverdichtungen - Busumleitungen: An den Adventssonnabenden... https://t.co/bA2a4NxIms"
   },
   "801880631059841000": {
-    "score": "undefined",
-    "payload": "U1 Update\nDie techn Störungen zw. Norderstedt / Ochsenzoll sind behoben. In Ri Ohlstedt &amp; Großhansdorf werden Fahrten planmäßig geleistet."
+    "score": "skipped",
+    "payload": "U1 Update Die techn Störungen zw. Norderstedt / Ochsenzoll sind behoben. In Ri Ohlstedt & Großhansdorf werden Fahrten planmäßig geleistet."
   },
   "802019525818548200": {
-    "score": "undefined",
-    "payload": "Li 24, 191\nFeuerwehreinsatz im Kronstiegtunnel. Die Hst Sperlingsweg &amp; Kronstiegtunnel können in Ri Niendorf nicht bedient werden.\n#hvv"
+    "score": "=-1",
+    "payload": "Li 24, 191 Feuerwehreinsatz im Kronstiegtunnel. Die Hst Sperlingsweg & Kronstiegtunnel können in Ri Niendorf nicht bedient werden. #hvv"
   },
   "802020493339623400": {
-    "score": "undefined",
-    "payload": "Li. 24, 191 Update\nUmleitungsrichtung geändert - Die Hst Kronstiegtunnel &amp; Sperlingsweg entfallen nun in Ri Bf. Rahlstedt / Garstedt.\n#hvv"
+    "score": "=-2",
+    "payload": "Li. 24, 191 Update Umleitungsrichtung geändert - Die Hst Kronstiegtunnel & Sperlingsweg entfallen nun in Ri Bf. Rahlstedt / Garstedt. #hvv"
   },
   "802030227530612700": {
-    "score": "undefined",
-    "payload": "Linien 24, 191 Update\nDer Feuerwehreinsatz im Kronstiegtunnel ist beendet. Die Hst Kronstiegtunnel &amp; Sperlingsweg werden wieder bedient\n#hvv"
+    "score": "skipped",
+    "payload": "Linien 24, 191 Update Der Feuerwehreinsatz im Kronstiegtunnel ist beendet. Die Hst Kronstiegtunnel & Sperlingsweg werden wieder bedient #hvv"
   },
   "802030886736764900": {
-    "score": "undefined",
-    "payload": "24, 191\nDurch Stau am Krohnstiegtunnel in Richtung Langenhorn kommt es zu Verspätungen zw. 10 &amp; 15 Minuten. \n#hvv"
+    "score": "=-2",
+    "payload": "24, 191 Durch Stau am Krohnstiegtunnel in Richtung Langenhorn kommt es zu Verspätungen zw. 10 & 15 Minuten. #hvv"
   },
   "802041808742191100": {
-    "score": "undefined",
-    "payload": "S3\nIm Bereich Harburg bis Hammerbrook &amp; Folgehst. derzeit in Ri Pinneberg 5-10 Min. verspätet. S31, RE5 nur leicht verspätet\n#hvv"
+    "score": "skipped",
+    "payload": "S3 Im Bereich Harburg bis Hammerbrook & Folgehst. derzeit in Ri Pinneberg 5-10 Min. verspätet. S31, RE5 nur leicht verspätet #hvv"
   },
   "802043727971754000": {
-    "score": "undefined",
-    "payload": "RE4\n&gt;&gt;Hamburg Hbf ab Buchholz 8:19h ca. 20 Min. später aufgrund einer Fahrzeugstörung.\n#hvv"
+    "score": "=-2",
+    "payload": "RE4 >>Hamburg Hbf ab Buchholz 8:19h ca. 20 Min. später aufgrund einer Fahrzeugstörung. #hvv"
   },
   "802050364589699100": {
-    "score": "undefined",
-    "payload": "S3 Update\nDie Züge in Richtung Pinneberg takten sich wieder ein. Weitgehend planmäßiger Betrieb auf der Linie. \n\n#hvv"
+    "score": "skipped",
+    "payload": "S3 Update Die Züge in Richtung Pinneberg takten sich wieder ein. Weitgehend planmäßiger Betrieb auf der Linie. #hvv"
   },
   "802051341304664000": {
-    "score": "undefined",
-    "payload": "Li. 24, 195\nVerkehrsbedingte Verspätungen von bis zu 25 Minuten.\n#HVV"
+    "score": "=-1",
+    "payload": "Li. 24, 195 Verkehrsbedingte Verspätungen von bis zu 25 Minuten. #HVV"
   },
   "802057955076141000": {
-    "score": "undefined",
-    "payload": "@BobbyBobFan  Fahrt wurde zur Reduktion der Eingangsverspätung ab Elbgaustr. gestartet - techn. Störung am Zug: https://t.co/bK9NNInEu4"
-  },
-  "802059404816379900": {
-    "score": "undefined",
-    "payload": "@BobbyBobFan Sehr traurig, dass die @SBahnHamburg das nicht hinbekommt, nur kann ich nicht deren Job übernehmen. Geht einfach nicht."
+    "score": "=-1",
+    "payload": "@BobbyBobFan Fahrt wurde zur Reduktion der Eingangsverspätung ab Elbgaustr. gestartet - techn. Störung am Zug: https://t.co/bK9NNInEu4"
   }
 }

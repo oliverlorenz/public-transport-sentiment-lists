@@ -2578,5 +2578,9 @@
   "802239844214775800": {
     "score": "undefined",
     "payload": "RE7 RE70 RB71\nWegen einer Bahnübergangsstörung zw Elmshorn&lt;&gt;Dauenhof kommt es zu Verspätungen von bis zu 25 Min.\n#hvv"
+  },
+  "802259691636133900": {
+    "score": "undefined",
+    "payload": "RE7 RE70 RB71 Update\nDie Bahnübergangsstörung zw. Elmshorn&lt;&gt;Dauenhof ist behoben. Der Zugverkehr normalisiert sich wieder.\n#hvv"
   }
 }

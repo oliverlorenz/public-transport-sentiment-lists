@@ -2458,5 +2458,65 @@
   "801822941583409200": {
     "score": "skipped",
     "payload": "Li 1, 21, 22, 24, 39, 183, 189, 191, 195, 283-285 Im Westen Hamburgs auf vielen Linien Verspätung bis 30 Minuten wegen Baustellen & Unfällen"
+  },
+  "801836876948734000": {
+    "score": "undefined",
+    "payload": "Li. 173, 37\nWegen eines Unfalles auf der Bramfelder Chaussee kommt es zu Verspätungen zw. 10 &amp; 20 Minuten.\n#hvv"
+  },
+  "801837210370764800": {
+    "score": "undefined",
+    "payload": "U1\nAb Kellinghusenstr. / Jungfernstieg &amp; Folgehst. derzeit in Ri Volksdorf bis zu 10 Min. verspätete Bahnen durch techn. Störung\n#hvv"
+  },
+  "801846246415695900": {
+    "score": "undefined",
+    "payload": "U1 Update\nWeiterhin bis zu 10 Min. Verspätung in Ri Ohlstedt &amp; Großhansdorf durch eine technische Störung.\n#hvv"
+  },
+  "801853607335358500": {
+    "score": "undefined",
+    "payload": "Li 21, 22, 24, 39, 183, 189, 191, 195, 283-285 Update\nDie Verkehrssituation im Hamburger Westen hat sich fast überall wieder beruhigt.\n#hvv"
+  },
+  "801854053697409000": {
+    "score": "undefined",
+    "payload": "Linie 37 &amp; 173\nIm Bereich Bramfelder Chaussee ist die Unfallstelle geräumt und die Busse verkehren wieder pünktlich.\n#hvv"
+  },
+  "801867250357731300": {
+    "score": "undefined",
+    "payload": "An den Adventssonnabenden - #HVV Paketbusse, Taktverdichtungen - Busumleitungen:\n\nAn den Adventssonnabenden... https://t.co/bA2a4NxIms"
+  },
+  "801880631059841000": {
+    "score": "undefined",
+    "payload": "U1 Update\nDie techn Störungen zw. Norderstedt / Ochsenzoll sind behoben. In Ri Ohlstedt &amp; Großhansdorf werden Fahrten planmäßig geleistet."
+  },
+  "802019525818548200": {
+    "score": "undefined",
+    "payload": "Li 24, 191\nFeuerwehreinsatz im Kronstiegtunnel. Die Hst Sperlingsweg &amp; Kronstiegtunnel können in Ri Niendorf nicht bedient werden.\n#hvv"
+  },
+  "802020493339623400": {
+    "score": "undefined",
+    "payload": "Li. 24, 191 Update\nUmleitungsrichtung geändert - Die Hst Kronstiegtunnel &amp; Sperlingsweg entfallen nun in Ri Bf. Rahlstedt / Garstedt.\n#hvv"
+  },
+  "802030227530612700": {
+    "score": "undefined",
+    "payload": "Linien 24, 191 Update\nDer Feuerwehreinsatz im Kronstiegtunnel ist beendet. Die Hst Kronstiegtunnel &amp; Sperlingsweg werden wieder bedient\n#hvv"
+  },
+  "802030886736764900": {
+    "score": "undefined",
+    "payload": "24, 191\nDurch Stau am Krohnstiegtunnel in Richtung Langenhorn kommt es zu Verspätungen zw. 10 &amp; 15 Minuten. \n#hvv"
+  },
+  "802041808742191100": {
+    "score": "undefined",
+    "payload": "S3\nIm Bereich Harburg bis Hammerbrook &amp; Folgehst. derzeit in Ri Pinneberg 5-10 Min. verspätet. S31, RE5 nur leicht verspätet\n#hvv"
+  },
+  "802043727971754000": {
+    "score": "undefined",
+    "payload": "RE4\n&gt;&gt;Hamburg Hbf ab Buchholz 8:19h ca. 20 Min. später aufgrund einer Fahrzeugstörung.\n#hvv"
+  },
+  "802050364589699100": {
+    "score": "undefined",
+    "payload": "S3 Update\nDie Züge in Richtung Pinneberg takten sich wieder ein. Weitgehend planmäßiger Betrieb auf der Linie. \n\n#hvv"
+  },
+  "802051341304664000": {
+    "score": "undefined",
+    "payload": "Li. 24, 195\nVerkehrsbedingte Verspätungen von bis zu 25 Minuten.\n#HVV"
   }
 }

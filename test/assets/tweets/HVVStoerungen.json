@@ -2654,5 +2654,9 @@
   "802525489759920100": {
     "score": "undefined",
     "payload": "U3\nSignalstörung &amp; unregelmäßiger Betrieb in beiden Richtungen. Bis zu 15 Min. verspätete Bahnen derzeit.\n#hvv"
+  },
+  "802527994153726000": {
+    "score": "undefined",
+    "payload": "S1, S3, S21, S31 Upd.\nDer Betrieb  normalisiert sich wieder. Es sind jedoch noch Folgeverspätungen von bis zu 10 Min. möglich. \n\n#hvv"
   }
 }

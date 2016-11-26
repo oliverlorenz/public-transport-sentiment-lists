@@ -2646,5 +2646,9 @@
   "802518915461083100": {
     "score": "undefined",
     "payload": "S1, S3 Update\nDer Betrieb durch den Citytunnel wird wieder aufgenommen. Die Umleitung via Dammtor aufgehoben. Weiterhin Verspätungen!\n#hvv"
+  },
+  "802520326093602800": {
+    "score": "undefined",
+    "payload": "S1, S3 Update\nAktuell bis zu 30 Minuten verspätete Bahnen durch einen Feuerwehr- und Polizeieinsatz im Citytunnel. Erheblicher Zugrückstau."
   }
 }

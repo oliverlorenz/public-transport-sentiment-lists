@@ -2634,5 +2634,9 @@
   "802483101888823300": {
     "score": "undefined",
     "payload": "S21, S3\nFußballanreiseverkehr. Im Bereich Diebsteich / Altona bis Elbgaustr. zw 5 &amp; 15 Minuten Verspätung.\n#hvv"
+  },
+  "802514083077587000": {
+    "score": "undefined",
+    "payload": "S1, S3, S21, S31\nDurch Verzögerungen bei der Weiterfahrt aufgrund von Betriebsstörungen &amp; Fußballanreiseverkehr derzeit bis zu 15 Min versp."
   }
 }

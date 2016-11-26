@@ -2606,5 +2606,9 @@
   "802440406642393100": {
     "score": "undefined",
     "payload": "RE5\n&gt;&gt;Hamburg Hbf ab Buxtehude 10:21h fällt aus\n&gt;&gt;Cuxhaven ab Hamburg Hbf 11:06h fällt betriebsbedingt ebenfalls aus.\n#hvv"
+  },
+  "802455140494168000": {
+    "score": "undefined",
+    "payload": "S3, S31\nWg eines vorangegangenen RTW-Einsatzes in Wilhelmsburg kommt es zu Verspätungen zw. 10 &amp; 15 Minuten.\n#hvv"
   }
 }

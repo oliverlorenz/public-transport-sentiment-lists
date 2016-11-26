@@ -2670,5 +2670,9 @@
   "802553402270040000": {
     "score": "undefined",
     "payload": "S3 S31\nhalten momentan nicht in Veddel. Grund: Ausfall der Bahnsteigbeleuchtung.\n#hvv"
+  },
+  "802553919431905300": {
+    "score": "undefined",
+    "payload": "RT @SBahnHamburg: Die Linien #S1 + #S3 fahren wieder durch den Citytunnel. Grund: Feuerwehreinsatz beendet. #hvv #sbahnhh"
   }
 }

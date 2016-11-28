@@ -2762,5 +2762,9 @@
   "803211411166031900": {
     "score": "undefined",
     "payload": "RE70\n&gt;&gt;Kiel ab Hamburg Hbf 13:21h fällt wegen einer technischen Störung aus.\n#hvv"
+  },
+  "803212373997867000": {
+    "score": "undefined",
+    "payload": "RE5\n&gt;&gt;Hamburg Hbf ab Buxtehude 13:21h ca. 25-30 Min. später wegen einer techn Störung."
   }
 }

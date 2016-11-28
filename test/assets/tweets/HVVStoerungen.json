@@ -2850,5 +2850,9 @@
   "803277174069428200": {
     "score": "undefined",
     "payload": "RE7 RE70 RB61 Update\nDie Oberleitungsstörung ist behoben. Alle Fahrten wieder planmäßig nach/ab Hamburg Hbf.\n#hvv"
+  },
+  "803277526076375000": {
+    "score": "undefined",
+    "payload": "S1, S11, S21, S31\nWg Verspätung aus vorherigen Fahrten, RTW-Einsatz &amp; Zugrückstau derzeit 10-15 Min Folgeverspätung möglich.\n#hvv"
   }
 }

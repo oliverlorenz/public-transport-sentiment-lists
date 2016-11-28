@@ -2866,5 +2866,9 @@
   "803283225695154200": {
     "score": "undefined",
     "payload": "RB81\n&gt;&gt;Hamburg Hbf ab Bargteheide 18:12h, ab Rahlstedt 18:29h fällt heute infolge einer technischen Störung aus.\n#hvv"
+  },
+  "803283582550675500": {
+    "score": "undefined",
+    "payload": "RE6\n&gt;&gt;Altona ab Elmshorn 22:08h entfällt aus betrieblichen Gründen\n&gt;&gt;Husum ab Altona 22:40h entfällt ebenso.\n#hvv"
   }
 }

@@ -2798,5 +2798,9 @@
   "803246151990476800": {
     "score": "undefined",
     "payload": "3, 6, 37\nDie Haltestelle Rödingsmarkt Richtung Feldstr/Altona kann aufgrund eines Unfalls nicht bedient werden.\n#HVV"
+  },
+  "803250265327599600": {
+    "score": "undefined",
+    "payload": "S1 S11\nWg eines vorangegangenen RTW-Einsatzes Höhe Barmbek derzeit in Ri Blankenese bis zu 10 Minuten Verspätung\n#hvv"
   }
 }

@@ -2790,5 +2790,9 @@
   "803235794018254800": {
     "score": "undefined",
     "payload": "S21\n&gt;&gt;Bergedorf ab Hamburg Hbf 14:54, ab Berliner Tor 14:57 ca. 7 Min später aufgrund von Verzögerungen bei der Bereitstellung d Zuges\n#hvv"
+  },
+  "803245231852449800": {
+    "score": "undefined",
+    "payload": "15, 20, 25, 183\nIn Ri Altona entfällt die Hst Gerichtsstr wegen eines Verkehrsunfalles.\n#hvv"
   }
 }

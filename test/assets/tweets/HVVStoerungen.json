@@ -2830,5 +2830,9 @@
   "803263639771824100": {
     "score": "undefined",
     "payload": "S1, S11 Update\nDer Polizei- &amp; Feuerwehreinsatz in Barmbek ist beendet. Die Sperrungen sind aufgehoben. Bis zu 20 Min. Folgeverspätung.\n#hvv"
+  },
+  "803264118270595100": {
+    "score": "undefined",
+    "payload": "Li 3, 120, 124, 130\nSperrung Ausschläger Alle in der Schrankenanlage Richtung S-Tiefstack. Busse müssen Umleitung fahren.\n#HVV"
   }
 }

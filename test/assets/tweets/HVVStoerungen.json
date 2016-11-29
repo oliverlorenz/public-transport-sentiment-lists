@@ -3038,5 +3038,9 @@
   "803697282147348500": {
     "score": "undefined",
     "payload": "RE1\n&gt;&gt;Hamburg Hbf ab Bergedorf 21:32h ca. 15 Min. später aufgrund einer Bahnübergangsstörung\n#hvv"
+  },
+  "803697569612361700": {
+    "score": "undefined",
+    "payload": "RB31\n&gt;&gt;Lüneburg ab Hamburg Hbf 21:34h aufgrund von Streckenstörungen ca. 15 Min. spätere Abfahrt.\n#hvv"
   }
 }

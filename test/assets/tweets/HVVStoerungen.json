@@ -2914,5 +2914,9 @@
   "803521869555134500": {
     "score": "undefined",
     "payload": "RE1\n&gt;&gt;Rostock ab Hamburg hbf 10:17 Uhr fällt wegen einer Fahrzeugstörung aus. Bitte Folgetakt nutzen.\n#hvv"
+  },
+  "803522034592579600": {
+    "score": "undefined",
+    "payload": "S1, S3\nAufgrund von Verspätungen aus vorherigen Fahrten derzeit noch bis zu 6 Min. verspätete Züge. S31 verkehr wieder planmäßig\n#hvv"
   }
 }

@@ -3006,5 +3006,9 @@
   "803641260313641000": {
     "score": "undefined",
     "payload": "194\nVerkehrsbedingte Verspätung in beiden Richtungen derzeit 25-30 Minuten.\n#HVV"
+  },
+  "803641817585619000": {
+    "score": "undefined",
+    "payload": "Li. 1, 2, 3, 22, 23, 39, 116, 261\nCa. 10-20 Min. Verspätung möglich durch Stau. Einzelne Fahrten auch stärker verspätet\n#hvv"
   }
 }

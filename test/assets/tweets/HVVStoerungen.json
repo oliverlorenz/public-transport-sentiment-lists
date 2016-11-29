@@ -2966,5 +2966,9 @@
   "803606601793933300": {
     "score": "undefined",
     "payload": "S2\n&gt;&gt;Bergedorf ab Hamburg Hbf 15:40h fällt heute betriebsbedingt aus.\n#hvv"
+  },
+  "803610025239388200": {
+    "score": "undefined",
+    "payload": "U1\n&gt;&gt;Ohlstedt ab Kellinghusenstr 15:41, ab Hbf Süd 15:53 fällt wg techn. Störung aus. Nachfolgende Bahnen ca 5 Min später\n#hvv"
   }
 }

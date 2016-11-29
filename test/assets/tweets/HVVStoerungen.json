@@ -2962,5 +2962,9 @@
   "803602616286642200": {
     "score": "undefined",
     "payload": "130, 230\nVerkehrsbedingte Umleitung Richtung U Billstedt. Haltestelle Billstedter Hauptstraße entfällt.\n#HVV"
+  },
+  "803606601793933300": {
+    "score": "undefined",
+    "payload": "S2\n&gt;&gt;Bergedorf ab Hamburg Hbf 15:40h fällt heute betriebsbedingt aus.\n#hvv"
   }
 }

@@ -2894,5 +2894,9 @@
   "803458969096388600": {
     "score": "undefined",
     "payload": "S1\n&gt;&gt;Airport/Poppenbüttel ab Bahrenfeld 5:46, ab Hbf 6:04 ca 7 Min später wg techn. Störung. Ri Wedel ca 3-4 Min verspätete Bahnen.\n#hvv"
+  },
+  "803463054084149200": {
+    "score": "undefined",
+    "payload": "U3 Update\nDie technische Störung ist behoben. Derzeit in beiden Ri. wieder Züge in Fahrplantaktung.\n#hvv"
   }
 }

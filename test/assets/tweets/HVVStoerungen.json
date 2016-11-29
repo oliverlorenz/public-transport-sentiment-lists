@@ -2970,5 +2970,9 @@
   "803610025239388200": {
     "score": "undefined",
     "payload": "U1\n&gt;&gt;Ohlstedt ab Kellinghusenstr 15:41, ab Hbf Süd 15:53 fällt wg techn. Störung aus. Nachfolgende Bahnen ca 5 Min später\n#hvv"
+  },
+  "803610106449526800": {
+    "score": "undefined",
+    "payload": "281\nFeuerwehreinsatz, Haltestelle S Krupunder kann nicht angefahren werden. Busse beginnen an der Seestraße.\n#HVV"
   }
 }

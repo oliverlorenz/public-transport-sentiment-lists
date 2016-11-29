@@ -2974,5 +2974,9 @@
   "803610106449526800": {
     "score": "undefined",
     "payload": "281\nFeuerwehreinsatz, Haltestelle S Krupunder kann nicht angefahren werden. Busse beginnen an der Seestraße.\n#HVV"
+  },
+  "803619287315447800": {
+    "score": "undefined",
+    "payload": "U1\nPolizeieinsatz Hbf Süd. Zw Jungfernstieg&lt;&gt;Lübecker Str unterbrochen.\n#hvv"
   }
 }

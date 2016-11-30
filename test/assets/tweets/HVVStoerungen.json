@@ -3202,5 +3202,9 @@
   "803983728586408000": {
     "score": "undefined",
     "payload": "S1, S11, S31\nAufgrund von technischen Störungen an Zügen derzeit 5-10 Min. verspätete Bahnen.\n#hvv"
+  },
+  "803985973252157400": {
+    "score": "undefined",
+    "payload": "7, 22, 34, 39, 118, 172, 174, 194, 281\nStaubedingt derzeit 10-25 Min. Verspätung möglich.\n#hvv"
   }
 }

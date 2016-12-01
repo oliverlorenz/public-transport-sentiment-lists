@@ -3330,5 +3330,9 @@
   "804232254876749800": {
     "score": "undefined",
     "payload": "S1, S11\nDurch Signalstörungen zw. Othmarschen &amp; Altona derzeit bis zu 12 Min verspätete Züge in beiden Richtungen.\n#hvv"
+  },
+  "804235058462818300": {
+    "score": "undefined",
+    "payload": "S1, S11 Update\nDie Signalstörung ist behoben. Die Züge haben noch max. 5 Min. Verspätung, takten sich aber wieder ein. \n#hvv"
   }
 }

@@ -3490,5 +3490,9 @@
   "804572115424907300": {
     "score": "undefined",
     "payload": "A1\nDerzeit Zugausfälle zw. Ulzburg-Süd&lt;&gt;Eidelstedt wg einer Betriebsstörung mit Taktlücken von bis zu 45 Min.\n#hvv"
+  },
+  "804580071776383000": {
+    "score": "undefined",
+    "payload": "A1 Upd.\nDie Betriebsstörung ist behoben. Folgeverspätungen zw. Eidelstedt&lt;&gt;Ulzburg noch zw. 10 &amp; 20 Min. bis ca. 9 Uhr möglich.\n#hvv"
   }
 }

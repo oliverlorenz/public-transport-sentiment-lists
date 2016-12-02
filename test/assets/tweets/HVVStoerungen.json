@@ -3510,5 +3510,9 @@
   "804606718512603100": {
     "score": "undefined",
     "payload": "U1\n&gt;&gt;Farmsen ab Jungfernstieg 9:48h, ab Hbf Süd 9:53h aufgrund einer technischen Störung ca. 7 Min. verspätet.\n#hvv"
+  },
+  "804607070838333400": {
+    "score": "undefined",
+    "payload": "S21\nFahrt &gt;&gt;Elbgaustr ab Bergedorf 9:47h fällt wg schadhaftem Zug aus. Restl. Züge in Ri Elbgaustr. bis zu 7 Min verspätet.\n#hvv"
   }
 }

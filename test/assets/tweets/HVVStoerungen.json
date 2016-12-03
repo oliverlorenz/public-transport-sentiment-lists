@@ -3610,5 +3610,9 @@
   "804793276008169500": {
     "score": "undefined",
     "payload": "U1 Update\nDie technischen Störungen sind behoben. Die Züge verkehren nun in beiden Richtungen wieder planmäßig.\n#hvv"
+  },
+  "804914152070332400": {
+    "score": "undefined",
+    "payload": "S21\n&gt;&gt;Elbgaustr. ab Aumühle 6:06h, ab Bergedorf 6:17h ca. 10 Min. später aufgrund einer techn. Störung am Zug.\n#hvv"
   }
 }

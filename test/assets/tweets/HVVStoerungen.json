@@ -3806,5 +3806,9 @@
   "806162246007136300": {
     "score": "undefined",
     "payload": "S21 S3 S3\nIn Ri Bergedorf/Buxtehude bis zu 12 Min. Verspätung durch schadhaften Zug.\n#hvv"
+  },
+  "806162713382686700": {
+    "score": "undefined",
+    "payload": "S21 S2 S3\nIn Ri Bergedorf/Buxtehude bis zu 12 Min. Verspätung durch schadhaften Zug.\n#hvv"
   }
 }

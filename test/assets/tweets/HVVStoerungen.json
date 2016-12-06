@@ -3734,5 +3734,9 @@
   "806032598501851100": {
     "score": "undefined",
     "payload": "RB41\n&gt;&gt;Hamburg Hbf ab Hittfeld 8:36h fällt aus\nRE3\n&gt;&gt;Hamburg Hbf ab Lüneburg 8:28h, ab Winsen 8:39h fällt aus.\n#hvv"
+  },
+  "806063978380202000": {
+    "score": "undefined",
+    "payload": "S3 RE5\nWg einer Bahnübergangsstörung zw Buxtehude&lt;&gt;Neugraben derzeit 5-15 Min Verspätung möglich\n#hvv"
   }
 }

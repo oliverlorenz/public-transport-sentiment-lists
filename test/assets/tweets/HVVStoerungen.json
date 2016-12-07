@@ -4018,5 +4018,9 @@
   "806597141204521000": {
     "score": "undefined",
     "payload": "S3 S31\nErsatzverkehr fährt die Station Hammerbrook nicht an. Li 13 fährt ab Wilhelmsburg über Veddel zum Berliner Tor. Li 13 unregelm.\n#hvv"
+  },
+  "806599051512860700": {
+    "score": "undefined",
+    "payload": "S3 S31 Upd.\nDie Sperrung Hbf&lt;&gt;Wilhelmsburg wurde aufgehoben. Bis zu 10 Min. Folgeverspätung. Li. 13 noch unregelmäßig.\n#hvv"
   }
 }

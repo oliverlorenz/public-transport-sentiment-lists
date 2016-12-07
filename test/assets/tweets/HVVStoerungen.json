@@ -3954,5 +3954,9 @@
   "806540000892481500": {
     "score": "undefined",
     "payload": "S3 RE5\nWg Bahnübergangsstörung zw Neugraben&lt;&gt;Buxtehude bis zu 20 Min verspätet."
+  },
+  "806540243193233400": {
+    "score": "undefined",
+    "payload": "Busverkehr City\nWeite Teile des innerstädtischen Busverkehrs kommt aktuell zum Erliegen.\n#hvv"
   }
 }

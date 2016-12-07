@@ -3886,5 +3886,9 @@
   "806399869825019900": {
     "score": "undefined",
     "payload": "S3 S31 Update\nDer RTW-Einsatz auf Veddel ist beendet. Folgeverspätungen von ca. 10 Min. &amp; Teilausfälle möglich\n#hvv"
+  },
+  "806407849798750200": {
+    "score": "undefined",
+    "payload": "S1, S31 Update\nDer Zugverkehr normalisiert sich wieder. Weitgehend planmäßige Züge.\nS3\nVereinzelt noch Folgeverspätungen von ca. 5 Min."
   }
 }

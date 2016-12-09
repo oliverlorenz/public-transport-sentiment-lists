@@ -4254,5 +4254,9 @@
   "807115793565618200": {
     "score": "undefined",
     "payload": "S1 S2 S3 S11 S21 S31\nRTW-Einsatz im Hbf Ri Altona. Verspätungen zw 5 &amp; 15 Min aktuell.\n#hvv"
+  },
+  "807122698228920300": {
+    "score": "undefined",
+    "payload": "S1 S2 S3 S11 S21 S31 Upd.\nRTW-Einsatz am Hbf ist beendet. Folgeverspätungen von ca 10 Min noch möglich.\n#hvv"
   }
 }

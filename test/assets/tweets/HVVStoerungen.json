@@ -4286,5 +4286,9 @@
   "807185226384494600": {
     "score": "undefined",
     "payload": "Li 4, 5, 109, 36, 112\nHst Stephansplatz entfällt wg Straßensperrung &amp; es kommt zu Verzögerungen.\n#hvv"
+  },
+  "807188812489166800": {
+    "score": "undefined",
+    "payload": "4, 5, 109, 36, 112 Update\nDie Hst Stephansplatz wird wieder bedient. Die Straßensperrung wurde aufgehoben.\n#hvv"
   }
 }

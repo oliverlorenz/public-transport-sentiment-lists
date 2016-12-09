@@ -4354,5 +4354,9 @@
   "807240475870687200": {
     "score": "undefined",
     "payload": "130 \nVerkehrsbedingt Verspätungen von bis zu 25 Minuten. \n#HVV"
+  },
+  "807240819644268500": {
+    "score": "undefined",
+    "payload": "S2\nFällt heute betriebsbedingt aus\nS1, S3, S11, S31\nBis zu 10 Min. verspätet, S11 teilw. als S1 &amp; verkürzt durch Polizeieinsatz.\n#hvv"
   }
 }

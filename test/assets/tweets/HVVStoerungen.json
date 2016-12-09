@@ -4318,5 +4318,9 @@
   "807221014639902700": {
     "score": "undefined",
     "payload": "120 \nFahrt Richtung Hbf/ZOB hat derzeit ca. 35 Minuten Verspätung \n#HVV"
+  },
+  "807223586150871000": {
+    "score": "undefined",
+    "payload": "RE5\n&gt;&gt;Stade ab Hamburg Hbf 15:42h fällt heute wegen einer technischen Störung aus.\n#hvv"
   }
 }

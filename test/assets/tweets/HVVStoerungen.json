@@ -4542,5 +4542,9 @@
   "808247875146752000": {
     "score": "undefined",
     "payload": "S31\nFahrt &gt;&gt;Altona ab Veddel 10:52h fällt wegen einer technischen Störung aus. Nachfolgende Züge planmäßig.\n#hvv"
+  },
+  "808249835467980800": {
+    "score": "undefined",
+    "payload": "S3, S31\nDurch einen schadhaften Zug auf der S31 derzeit im Bereich Veddel bis Neugraben 5-10 Min. Verspätung.\n#hvv"
   }
 }

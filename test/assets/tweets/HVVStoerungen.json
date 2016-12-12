@@ -4610,5 +4610,9 @@
   "808335385541611500": {
     "score": "undefined",
     "payload": "RE1\nZüge ab Bergedorf in Ri Büchen derzeit auf unbestimmte Zeit verspätet durch derzeit unbestimmte Gegenstände im Gleis.\n#hvv"
+  },
+  "808336344409849900": {
+    "score": "undefined",
+    "payload": "S1\nErneut technische Störung in Blankenese. Zw. Wedel&lt;&gt;Kl. Flottbek Taktlücken von bis zu 20 Min. möglich.\n#hvv"
   }
 }

@@ -4566,5 +4566,9 @@
   "808274214880952300": {
     "score": "undefined",
     "payload": "S31\n&gt;&gt;Altona ab Harburg-Rathaus 12:32h, ab Veddel 12:42h entfällt aufgrund einer techn. Störung am Zug.\n#hvv"
+  },
+  "808274702875639800": {
+    "score": "undefined",
+    "payload": "S3 S31\nWg eines vorangegangenen RTW-Einsatzes in Harburg derzeit Taktlücken von ca. 10-20 Min. möglich.\n#hvv"
   }
 }

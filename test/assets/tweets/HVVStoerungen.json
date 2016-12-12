@@ -4510,5 +4510,9 @@
   "808068745394536400": {
     "score": "undefined",
     "payload": "S1\n&gt;&gt;Airport/Poppenbüttel ab Bahrenfeld 23:07h, ab Hbf 23:24h ca. 7 Min. später aufgrund eines Polizeieinsatzes\n#hvv"
+  },
+  "808208901770530800": {
+    "score": "undefined",
+    "payload": "S11\nFahrt &gt;&gt;Altona ab Poppenbüttel um 8:24h fällt heute betriebsbedingt aus.\n#hvv"
   }
 }

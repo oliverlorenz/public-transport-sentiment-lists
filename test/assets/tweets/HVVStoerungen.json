@@ -4678,5 +4678,9 @@
   "808680786614435800": {
     "score": "undefined",
     "payload": "RB41\n&gt;&gt;Tostedt ab Hamburg Hbf 16:17h fällt wg nicht verfügbarem Personal aus.\n\nRE4\n&gt;&gt;Tostedt ab Hamburg Hbf 17:50h entfällt ebenso.\n#hvv"
+  },
+  "808681096309342200": {
+    "score": "undefined",
+    "payload": "RB31\n&gt;&gt;Lüneburg ab Hamburg Hbf 19:03h entfällt wegen nicht verfügbarem Personal.\n#hvv"
   }
 }

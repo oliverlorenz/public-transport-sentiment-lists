@@ -4926,5 +4926,9 @@
   "809416602429128700": {
     "score": "undefined",
     "payload": "S3 Teilausfälle\n&gt;&gt;Pinneberg ab Altona 17:09h endet bereits in Elbgaustr.\n&gt;&gt;Stade ab Pinneberg 17:29h fällt bis zur Elbgaustr. aus."
+  },
+  "809417155141845000": {
+    "score": "undefined",
+    "payload": "S2 Ausfälle\n&gt;&gt;Bergedorf ab Altona 16:57 &amp; 17:07 / ab Hbf 17:10 &amp; 17:20 fallen aus\n&gt;&gt;Altona ab Rothenburgsort 16:06, 16:36, 16:46 entfallen."
   }
 }

@@ -250,5 +250,9 @@
   "809292970394579000": {
     "score": "undefined",
     "payload": "KORREKTURMELDUNG: #S21-Ersatzverkehr Berliner Tor &lt;&gt; BERGEDORF #S2 fällt aus. Grund: Personenunfall. Dauer: bis ca. 9.00 Uhr. #HVV"
+  },
+  "809312012601851900": {
+    "score": "undefined",
+    "payload": "AKTUALISIERUNG: #S21-Sperrung Berliner Tor&lt;&gt;Bergedorf jetzt bis ca.11.00 Uhr erwartet. Weiterhin Ersatzverkehr. Grund: Personenunfall. #HVV"
   }
 }

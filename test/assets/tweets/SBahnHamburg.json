@@ -246,5 +246,9 @@
   "809292029050187800": {
     "score": "undefined",
     "payload": "#S21-Ersatzverkehr Berliner Tor &lt;&gt; Rothenburgsort. #S2 fällt aus. Grund: Personenunfall. Dauer: bis ca. 9.00 Uhr. #HVV"
+  },
+  "809292970394579000": {
+    "score": "undefined",
+    "payload": "KORREKTURMELDUNG: #S21-Ersatzverkehr Berliner Tor &lt;&gt; BERGEDORF #S2 fällt aus. Grund: Personenunfall. Dauer: bis ca. 9.00 Uhr. #HVV"
   }
 }

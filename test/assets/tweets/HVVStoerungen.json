@@ -4922,5 +4922,9 @@
   "809414434091319300": {
     "score": "undefined",
     "payload": "S3\n&gt;&gt;Buxtehude ab Neugraben 16:07h fällt aus betrieblichen Gründen aus\n&gt;&gt;Pinneberg ab Buxtehude 16:24h Ausfall bis Neugraben."
+  },
+  "809416602429128700": {
+    "score": "undefined",
+    "payload": "S3 Teilausfälle\n&gt;&gt;Pinneberg ab Altona 17:09h endet bereits in Elbgaustr.\n&gt;&gt;Stade ab Pinneberg 17:29h fällt bis zur Elbgaustr. aus."
   }
 }

@@ -4890,5 +4890,9 @@
   "809376980118474800": {
     "score": "undefined",
     "payload": "RE7 RE70 RB71\nDie Bahnübergangsstörung zw Elmshorn&lt;&gt;Dauenhof ist behoben. Der Zugverkehr läuft wieder nach Plan.\n#hvv"
+  },
+  "809387200404160500": {
+    "score": "undefined",
+    "payload": "S3 Update\nDer schadhafte Zug wurde entfernt. Wieder planmäßiger Betrieb im Bereich Harburg/Neugraben.\n#hvv"
   }
 }

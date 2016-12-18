@@ -5150,5 +5150,9 @@
   "810490959947563000": {
     "score": "undefined",
     "payload": "S1, S3\nSignalstörung zw Altona&lt;&gt;Hbf5-10 Min Verspätung möglich.\n#hvv"
+  },
+  "810500362587217900": {
+    "score": "undefined",
+    "payload": "S1, S3 Upd.\nDie Signalstörung zw. Altona &amp; Hbf ist behoben und der S-Bahnverkehr läuft wieder planmäßig.\n#hvv"
   }
 }

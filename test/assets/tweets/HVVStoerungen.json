@@ -5290,5 +5290,9 @@
   "811173261430190100": {
     "score": "undefined",
     "payload": "Linie 5\n&gt;&gt;Hbf ZOB ab Niendorf-Markt 12:39h ca. 17 Min. später aufgrund einer Betriebsstörung. Nachfolgefahrt planmäßig.\n#hvv"
+  },
+  "811176964971262000": {
+    "score": "undefined",
+    "payload": "S3\n&gt;&gt;Pinneberg ab Buxtehude 12:54h, ab Neugraben 13:09h ca.10 Min. später wegen einer techn. Störung an einem vorausfahrenden Zug.\n#hvv"
   }
 }

@@ -5638,5 +5638,9 @@
   "813614675803996200": {
     "score": "undefined",
     "payload": "RE1\n&gt;&gt;Schwerin ab Hamburg Hbf 7:27h fällt infolge witterungsbedingter Schäden aus.\n\n#hvv"
+  },
+  "813615031355113500": {
+    "score": "undefined",
+    "payload": "RE1\n&gt;&gt;Hamburg Hbf ab Müssen 7:44h, ab Schwarzenbek 7:50, ab Bergedorf verspätet sich infolge witterungsbedingter Schäden um ca. 35-45 Min."
   }
 }

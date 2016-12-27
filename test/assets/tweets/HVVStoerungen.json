@@ -5674,5 +5674,9 @@
   "813680784934633500": {
     "score": "undefined",
     "payload": "S3\n&gt;&gt;Neugraben ab Hamburg Hbf 10:38h fällt infolge eines schadhaften Zuges aus.\n#hvv"
+  },
+  "813680984780656600": {
+    "score": "undefined",
+    "payload": "RE5\n&gt;&gt;Cuxhaven ab Hamburg Hbf 11:06h beginnt heute betriebsbedingt erst in Harburg um 11:24h\n#hvv"
   }
 }

@@ -5686,5 +5686,9 @@
   "813698039235887100": {
     "score": "undefined",
     "payload": "S3\n&gt;&gt;Pinneberg ab Reeperbahn 11:55h, ab Altona 11:59h fällt infolge einer technischen Störung aus.\n#hvv"
+  },
+  "813698189572407300": {
+    "score": "undefined",
+    "payload": "RE5\n&gt;&gt;Cuxhaven ab Hamburg Hbf 12:06h beginnt wegen erforderlicher Arbeitsschutzpause erst in Harburg um 12:24h\n#hvv"
   }
 }

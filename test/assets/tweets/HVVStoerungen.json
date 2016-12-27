@@ -5626,5 +5626,9 @@
   "813611242208264200": {
     "score": "undefined",
     "payload": "RE5\n\n&gt;&gt;Hamburg Hbf ab Stade 6:44h, ab Buxtehude 7:02h fällt aus. \n\n#hvv"
+  },
+  "813612356223832000": {
+    "score": "undefined",
+    "payload": "RE1\n&gt;&gt;Hamburg Hbf ab Bergedorf 6:14h fällt aus wegen einer technischen Störung aus.\n#hvv"
   }
 }

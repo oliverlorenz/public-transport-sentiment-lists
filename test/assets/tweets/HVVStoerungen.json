@@ -5642,5 +5642,9 @@
   "813615031355113500": {
     "score": "undefined",
     "payload": "RE1\n&gt;&gt;Hamburg Hbf ab Müssen 7:44h, ab Schwarzenbek 7:50, ab Bergedorf verspätet sich infolge witterungsbedingter Schäden um ca. 35-45 Min."
+  },
+  "813617748253245400": {
+    "score": "undefined",
+    "payload": "RE70\nWitterungsbedingte Störung auf der Strecke Kiel - Hamburg. Es kommt zu Verspätungen von bis zu 20 Min.\n#hvv"
   }
 }

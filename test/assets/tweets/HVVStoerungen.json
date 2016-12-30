@@ -5894,5 +5894,9 @@
   "814856359019692000": {
     "score": "undefined",
     "payload": "232, 332\nHaltestelle Grandkoppel (West) kann derzeit wegen einer Straßensperrung nicht bedient werden\n#HVV"
+  },
+  "814859930574450700": {
+    "score": "undefined",
+    "payload": "31, 232, 332\nVon Bergedorf Umleitung Richtung Billstedt über Reinbeker Redder. Unfallkrankenhaus kann nicht bed. werden\n#HVV"
   }
 }

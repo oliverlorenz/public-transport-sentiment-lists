@@ -5886,5 +5886,9 @@
   "814841793825140700": {
     "score": "undefined",
     "payload": "332\nDie Hst Riehlstr, Höperfeld &amp; Ulmenliet können wg eines Feuerwehreinsatzes beidseitig nicht bedient werden.\n#hvv"
+  },
+  "814842335271985200": {
+    "score": "undefined",
+    "payload": "UPDATE Linie 332\nDer Feuerwehreinsatz ist beendet. Busse fahren ab sofort wieder den normalen Linienweg.\n#HVV"
   }
 }

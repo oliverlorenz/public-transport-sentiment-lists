@@ -5890,5 +5890,9 @@
   "814842335271985200": {
     "score": "undefined",
     "payload": "UPDATE Linie 332\nDer Feuerwehreinsatz ist beendet. Busse fahren ab sofort wieder den normalen Linienweg.\n#HVV"
+  },
+  "814856359019692000": {
+    "score": "undefined",
+    "payload": "232, 332\nHaltestelle Grandkoppel (West) kann derzeit wegen einer Straßensperrung nicht bedient werden\n#HVV"
   }
 }

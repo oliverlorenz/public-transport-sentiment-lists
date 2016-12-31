@@ -5946,5 +5946,9 @@
   "815212434088673300": {
     "score": "undefined",
     "payload": "21, 186, 185 \nVollsperrung der Spreesstraße Linien fahren weiträumige Umleitungen Linie 185 Endet an S- Elbgaustraße \n#HVV"
+  },
+  "815221250645692400": {
+    "score": "undefined",
+    "payload": "21, 186, 185, 284 UPDATE \n Spreestraße wieder frei alle Linien fahren wieder normalen Linienweg \n#HVV"
   }
 }

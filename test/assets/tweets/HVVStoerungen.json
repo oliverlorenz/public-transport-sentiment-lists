@@ -5910,5 +5910,9 @@
   "815061015255806000": {
     "score": "undefined",
     "payload": "RE8\n&gt;&gt;Hamburg Hbf ab Bad Oldesloe 6:25h ca. 15 Min. verspätet durch eine technische Störung am Zug.\n#hvv"
+  },
+  "815073404630003700": {
+    "score": "undefined",
+    "payload": "RE6\n&gt;&gt;Westerland ab Altona 6:29h ca. 30 Min. verspätet durch die verspätete Bereitstellung des Zuges\n#hvv"
   }
 }

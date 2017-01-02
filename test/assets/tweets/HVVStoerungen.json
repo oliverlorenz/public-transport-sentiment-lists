@@ -6014,5 +6014,9 @@
   "815797284986323000": {
     "score": "undefined",
     "payload": "RB81\n&gt;&gt;Hamburg Hbf ab Ahrensburg 7:38h entfällt\n&gt;&gt;Ahrensburg ab Hamburg Hbf 6:54h entfällt,\nGrund: Schadhafter Zug."
+  },
+  "815835364422197200": {
+    "score": "undefined",
+    "payload": "RE7\n&gt;&gt;Hamburg Hbf ab Elmshorn 9:48h verspätet sich wegen einer Bahnübergangsstörung um ca. 20 Minuten.\n#hvv"
   }
 }

@@ -6166,5 +6166,9 @@
   "816374743687254000": {
     "score": "undefined",
     "payload": "S3\nAufgrund eines RTW-Einsatzes in Hammerbrook in Ri Harburg derzeit Teilausfälle Hbf&lt;&gt;Harburg-Rathaus &amp; Verspätungen.\n#hvv"
+  },
+  "816379019763400700": {
+    "score": "undefined",
+    "payload": "S3 Update\nDer RTW-Einsatz Hammerbrook ist beendet. Fahrt &gt;&gt;Elbgaustr. ab Hbf 21:26 / ab Altona 21:39 fällt noch aus.\n#hvv"
   }
 }

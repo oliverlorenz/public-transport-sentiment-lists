@@ -6350,5 +6350,9 @@
   "817087197279043600": {
     "score": "undefined",
     "payload": "Linien 27, 168, 171 UPDATE\nDie Unfallstelle in Bramfeld wurde geräumt. Wieder normaler Linienweg.\n#hvv"
+  },
+  "817087696917106700": {
+    "score": "undefined",
+    "payload": "RE8 RE80 RB81\nWg Weichenstörung weiterhin Verspätungen von bis zu 20 Min.\nRB81 mit Taktlücken von bis zu 30 Min.\n#hvv"
   }
 }

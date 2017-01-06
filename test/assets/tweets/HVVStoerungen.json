@@ -6442,5 +6442,9 @@
   "817303431891349500": {
     "score": "undefined",
     "payload": "S1\n&gt;&gt;Airport/Poppenbüttel ab Bahrenfeld 10:37h, ab Hbf 10:54, ab Berliner Tor 10:57 fällt wg schadhaftem Zug aus.\n#hvv"
+  },
+  "817304339878465500": {
+    "score": "undefined",
+    "payload": "RE6 RE70 RE7 RB61 RB71\nBahnübergangsstörung zw. Elmshorn&lt;&gt;Pinneberg mit beidseitig bis zu 20 Min verspäteten Bahnen.\n#hvv"
   }
 }

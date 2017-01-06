@@ -6534,5 +6534,9 @@
   "817377925469261800": {
     "score": "undefined",
     "payload": "RB81\n&gt;&gt;Bad Oldesloe ab Hamburg Hbf 15:38h verspätet sich aufgrund einer Fahrzeugstörung um ca. 20 Min.\n#hvv"
+  },
+  "817380378843418600": {
+    "score": "undefined",
+    "payload": "RE70\n&gt;&gt;Kiel ab Dammtor 15:25h ca. 20-30 Min. später durch eine Fahrzeugstörung an einem anderen Zug.\n#hvv"
   }
 }

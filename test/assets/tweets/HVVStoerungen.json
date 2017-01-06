@@ -6406,5 +6406,9 @@
   "817279312802017300": {
     "score": "undefined",
     "payload": "S1\n&gt;&gt;Airport/Poppenbüttel ab Hbf 9:04h, ab Berliner Tor 9:07h ca. 7 Min. später durch eine technische Störung am Zug."
+  },
+  "817281047054401500": {
+    "score": "undefined",
+    "payload": "U1\n&gt;&gt;Farmsen ab Ohlsdorf 9:11h / Kelle 9:21h ca 8 Min später wg techn Störung. Nachfolgezüge ca. 3-5 Min. später\n#hvv"
   }
 }

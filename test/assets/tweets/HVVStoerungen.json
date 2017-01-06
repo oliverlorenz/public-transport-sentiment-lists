@@ -6530,5 +6530,9 @@
   "817371472108916700": {
     "score": "undefined",
     "payload": "RB81\n&gt;&gt;Hamburg Hbf ab Rahlstedt 15:00, ab Tonndorf 15:04 verspätet sich um ca. 20 Min. aufgrund einer technischen Störung.\n#hvv"
+  },
+  "817377925469261800": {
+    "score": "undefined",
+    "payload": "RB81\n&gt;&gt;Bad Oldesloe ab Hamburg Hbf 15:38h verspätet sich aufgrund einer Fahrzeugstörung um ca. 20 Min.\n#hvv"
   }
 }

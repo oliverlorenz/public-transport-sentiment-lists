@@ -6822,5 +6822,9 @@
   "819021036670881800": {
     "score": "undefined",
     "payload": "U2, U3, U4 Update\n\nDie Linien U2, U3 und U4 nehmen den Regelbetrieb nach Fahrplan wieder auf.\n\n#hvv"
+  },
+  "819075683079123000": {
+    "score": "undefined",
+    "payload": "Linie 22\n\nVerkehrsstau in Stellingen. Beidseitig ca 10 Min Verspätung derzeit.\n\n#hvv"
   }
 }

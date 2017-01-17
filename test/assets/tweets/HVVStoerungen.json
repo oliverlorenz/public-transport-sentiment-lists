@@ -7294,5 +7294,9 @@
   "821363592138199000": {
     "score": "undefined",
     "payload": "S1\n&gt;&gt;Airport/Poppenbüttel ab Hbf 15:34h, ab Ohlsdorf 15:55h verspätet sich um ca 10 Min. wg technischer Störung am Zug."
+  },
+  "821380426438676500": {
+    "score": "undefined",
+    "payload": "Li. 154, 160, 261 Update\nDie Unfallstelle am Berliner Tor ist geräumt. Der Busbetrieb läuft dort wieder planmäßig.\n#hvv"
   }
 }

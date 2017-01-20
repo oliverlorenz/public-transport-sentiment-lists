@@ -7754,5 +7754,9 @@
   "822565801131671600": {
     "score": "undefined",
     "payload": "RB81\n&gt;&gt;Hamburg Hbf ab Rahlstedt 23:00h, ab Tonndorf 23:04h ca 18 Min. später aufgrund eines RTW-Einsatzes.\n#hvv"
+  },
+  "822582833218732000": {
+    "score": "undefined",
+    "payload": "S21\nStreckensperrung zw. Berliner Tor &lt;&gt; Bergedorf. Grund Polizeieinsatz. Ersatzverkehr im Aufbau\n#HVV"
   }
 }

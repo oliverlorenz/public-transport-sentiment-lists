@@ -7810,5 +7810,9 @@
   "823095455756222500": {
     "score": "undefined",
     "payload": "RE4\n&gt;&gt;Hamburg ab Buchholz 10:19 ca 30 Min später\nRE3\n&gt;&gt;Uelzen ab Hamburg Hbf 10:57 ca 15 Min später // Polizeieinsatz"
+  },
+  "823096603657510900": {
+    "score": "undefined",
+    "payload": "RB31\n&gt;&gt;Lüneburg ab Hamburg-Harburg 10:45 entfällt wegen nicht verfügbaren Personals.\n#hvv"
   }
 }
